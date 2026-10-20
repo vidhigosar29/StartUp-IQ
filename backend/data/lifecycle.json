@@ -1,0 +1,102 @@
+{
+ "intro": "Find schemes aligned to where you are in your startup journey.",
+ "stages": [
+  {
+   "id": "ideation",
+   "title": "Ideation",
+   "description": "You have an idea but no prototype or product yet",
+   "specific": [
+    "NIDHI-EIR",
+    "BIG",
+    "PRAYAS 2.0",
+    "PRISM",
+    "RKVY",
+    "SPARSH",
+    "GENESIS",
+    "E-YUVA",
+    "SITARE"
+   ],
+   "relevant": [
+    "Atal Tinkering Labs",
+    "ESDP",
+    "ACICs",
+    "i-TBI"
+   ]
+  },
+  {
+   "id": "prototype",
+   "title": "Prototype / PoC",
+   "description": "Idea validated, building or testing a prototype",
+   "specific": [
+    "SISFS (grant part)",
+    "PRAYAS 2.0",
+    "iDEX SPARK",
+    "IN-SPACe Seed Fund",
+    "DCIS",
+    "TDF",
+    "Chips to Startup (C2S)",
+    "GREAT",
+    "S&T-PRISM"
+   ],
+   "relevant": [
+    "TIDE 2.0",
+    "SBIRI",
+    "BIPP",
+    "PACE",
+    "NM-ICPS"
+   ]
+  },
+  {
+   "id": "early-stage",
+   "title": "Seed / Early-Stage",
+   "description": "Prototype done; entering market or scaling pilot",
+   "specific": [
+    "SISFS (debt part)",
+    "NIDHI-SSP",
+    "LEAP Fund",
+    "SAMRIDH",
+    "AgriSURE (early)",
+    "iDEX Prime",
+    "ADITI"
+   ],
+   "relevant": [
+    "CGTMSE",
+    "PMMY",
+    "BioNEST",
+    "STPI-NGIS"
+   ]
+  },
+  {
+   "id": "growth",
+   "title": "Growth / Scaling",
+   "description": "Product in market; scaling operations and team",
+   "specific": [
+    "FFS",
+    "Startup India FoF 2.0",
+    "AcE",
+    "AgriSURE",
+    "Antariksh VCF",
+    "NQM",
+    "RDI Scheme",
+    "CGSS"
+   ],
+   "relevant": [
+    "SRI Fund"
+   ]
+  },
+  {
+   "id": "market-access",
+   "title": "Market Access & IP",
+   "description": "Ready to sell, export or protect your innovation",
+   "specific": [
+    "GeM Startup Runway",
+    "SIPP (IP)",
+    "BHARATI (agri exports)"
+   ],
+   "relevant": [
+    "Space TAF",
+    "MSME Champions"
+   ]
+  }
+ ]
+}

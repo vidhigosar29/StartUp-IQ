@@ -1,0 +1,1116 @@
+{
+  "generatedAt": "2026-10-19T06:57:31.998Z",
+  "dryRun": true,
+  "databaseUpdated": false,
+  "htmlFilesFound": 69,
+  "existingJsonRecords": 69,
+  "matchedRecords": 69,
+  "unmatchedRecords": [],
+  "filesWithoutStructuredData": [],
+  "results": [
+    {
+      "slug": "ace",
+      "sourceFile": "ace.html",
+      "matchedExistingRecord": true,
+      "existingName": "Biotechnology Innovation Fund – Accelerating Entrepreneurs",
+      "htmlDetails": {
+        "pageTitle": "AcE — Biotechnology Innovation Fund – Accelerating Entrepreneurs · Startup Schemes Playbook",
+        "metaDescription": "BIRAC fund of funds whose partner AIFs invest up to ₹7 crore equity (plus ₹3.5 crore follow-on) in scaling biotech startups.",
+        "name": "Biotechnology Innovation Fund – Accelerating Entrepreneurs",
+        "alternateName": "AcE",
+        "description": "BIRAC fund of funds whose partner AIFs invest up to ₹7 crore equity (plus ₹3.5 crore follow-on) in scaling biotech startups.",
+        "provider": "Department of Biotechnology / Biotechnology Industry Research Assistance Council (BIRAC)",
+        "officialUrl": "https://birac.nic.in/webcontent/ace_fund_guidelines.pdf"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "acic",
+      "sourceFile": "acic.html",
+      "matchedExistingRecord": true,
+      "existingName": "Atal Community Innovation Centres",
+      "htmlDetails": {
+        "pageTitle": "ACIC — Atal Community Innovation Centres · Startup Schemes Playbook",
+        "metaDescription": "Grants institutions up to ₹2.5 crore to set up community innovation centres for entrepreneurs in underserved regions.",
+        "name": "Atal Community Innovation Centres",
+        "alternateName": "ACIC",
+        "description": "Grants institutions up to ₹2.5 crore to set up community innovation centres for entrepreneurs in underserved regions.",
+        "provider": "Atal Innovation Mission (AIM), NITI Aayog",
+        "officialUrl": "https://aim.gov.in/pdf/Flag-O_Revised_ACIC_Guidelines_June-2022.pdf"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "aditi",
+      "sourceFile": "aditi.html",
+      "matchedExistingRecord": true,
+      "existingName": "Acing Development of Innovative Technologies with iDEX",
+      "htmlDetails": {
+        "pageTitle": "ADITI — Acing Development of Innovative Technologies with iDEX · Startup Schemes Playbook",
+        "metaDescription": "Grants up to ₹25 crore (50% of product budget) for startups building strategic defence and aerospace technologies via iDEX challenges.",
+        "name": "Acing Development of Innovative Technologies with iDEX",
+        "alternateName": "ADITI",
+        "description": "Grants up to ₹25 crore (50% of product budget) for startups building strategic defence and aerospace technologies via iDEX challenges.",
+        "provider": "Ministry of Defence / Defence Innovation Organisation (DIO)",
+        "officialUrl": "https://idex.gov.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "agri-infra-fund",
+      "sourceFile": "agri-infra-fund.html",
+      "matchedExistingRecord": true,
+      "existingName": "Agriculture Infrastructure Financing Facility",
+      "htmlDetails": {
+        "pageTitle": "Agriculture Infrastructure Financing Facility · Startup Schemes Playbook",
+        "metaDescription": "3% per annum interest subvention on loans up to ₹2 crore for post-harvest infrastructure and community farming projects, for up to 7 years.",
+        "name": "Agriculture Infrastructure Financing Facility",
+        "alternateName": "",
+        "description": "3% per annum interest subvention on loans up to ₹2 crore for post-harvest infrastructure and community farming projects, for up to 7 years.",
+        "provider": "Agricultural & Farmers Welfare Department",
+        "officialUrl": "https://agriinfra.dac.gov.in/Content/DocAttachment/FINALSchemeGuidelinesAIF.pdf"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "agrisure",
+      "sourceFile": "agrisure.html",
+      "matchedExistingRecord": true,
+      "existingName": "Agri Fund for Startups & Rural Enterprises",
+      "htmlDetails": {
+        "pageTitle": "AgriSURE — Agri Fund for Startups & Rural Enterprises · Startup Schemes Playbook",
+        "metaDescription": "A ₹750 crore blended fund investing up to ₹25 crore per startup in agriculture and rural enterprises, plus incubation support.",
+        "name": "Agri Fund for Startups & Rural Enterprises",
+        "alternateName": "AgriSURE",
+        "description": "A ₹750 crore blended fund investing up to ₹25 crore per startup in agriculture and rural enterprises, plus incubation support.",
+        "provider": "Ministry of Agriculture & Farmers Welfare",
+        "officialUrl": "https://www.nabard.org/agrisure.aspx"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "aic",
+      "sourceFile": "aic.html",
+      "matchedExistingRecord": true,
+      "existingName": "Atal Incubation Centres",
+      "htmlDetails": {
+        "pageTitle": "AICs — Atal Incubation Centres · Startup Schemes Playbook",
+        "metaDescription": "Funds institutions with grants-in-aid of up to ₹10 crore to set up world-class, sector-specific startup incubation centres.",
+        "name": "Atal Incubation Centres",
+        "alternateName": "AICs",
+        "description": "Funds institutions with grants-in-aid of up to ₹10 crore to set up world-class, sector-specific startup incubation centres.",
+        "provider": "Atal Innovation Mission (AIM), NITI Aayog",
+        "officialUrl": "https://aim.gov.in/pdf/AIC-Guidelines-Final_24Nov-2023.pdf"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "antariksh-vcf",
+      "sourceFile": "antariksh-vcf.html",
+      "matchedExistingRecord": true,
+      "existingName": "Antariksh Venture Capital Fund/ Space VCF",
+      "htmlDetails": {
+        "pageTitle": "Space VCF — Antariksh Venture Capital Fund/ Space VCF · Startup Schemes Playbook",
+        "metaDescription": "A ₹1,005 crore government-anchored VC fund that makes equity investments in unlisted Indian space companies at TRL 4 and above.",
+        "name": "Antariksh Venture Capital Fund/ Space VCF",
+        "alternateName": "Space VCF",
+        "description": "A ₹1,005 crore government-anchored VC fund that makes equity investments in unlisted Indian space companies at TRL 4 and above.",
+        "provider": "Indian National Space Promotion and Authorization Centre (IN-SPACe), Department of Space",
+        "officialUrl": "https://www.sidbiventure.co.in/antariksh_venture_capital_fund.html"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "atal-tinkering-labs",
+      "sourceFile": "atal-tinkering-labs.html",
+      "matchedExistingRecord": true,
+      "existingName": "Atal Innovation Mission – Atal Tinkering Labs",
+      "htmlDetails": {
+        "pageTitle": "ATL — Atal Innovation Mission – Atal Tinkering Labs · Startup Schemes Playbook",
+        "metaDescription": "Gives schools a ₹20 lakh grant-in-aid to set up Atal Tinkering Labs where students learn STEM and innovation skills.",
+        "name": "Atal Innovation Mission – Atal Tinkering Labs",
+        "alternateName": "ATL",
+        "description": "Gives schools a ₹20 lakh grant-in-aid to set up Atal Tinkering Labs where students learn STEM and innovation skills.",
+        "provider": "Atal Innovation Mission (AIM), NITI Aayog",
+        "officialUrl": "https://aim.gov.in/atl-overview.php"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "bharati",
+      "sourceFile": "bharati.html",
+      "matchedExistingRecord": true,
+      "existingName": "Bharat’s Hub for Agritech, Resilience, Advancement & Incubation for Export Innovation",
+      "htmlDetails": {
+        "pageTitle": "BHARATI — Bharat’s Hub for Agritech, Resilience, Advancement & Incubation for Export Innovation · Startup Schemes Playbook",
+        "metaDescription": "APEDA acceleration, market access, and ecosystem connections to make agri-food and agritech startups export-ready.",
+        "name": "Bharat’s Hub for Agritech, Resilience, Advancement & Incubation for Export Innovation",
+        "alternateName": "BHARATI",
+        "description": "APEDA acceleration, market access, and ecosystem connections to make agri-food and agritech startups export-ready.",
+        "provider": "APEDA, Ministry of Commerce & Industry",
+        "officialUrl": "https://apeda.gov.in/bharati/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "big",
+      "sourceFile": "big.html",
+      "matchedExistingRecord": true,
+      "existingName": "Biotechnology Ignition Grant Scheme",
+      "htmlDetails": {
+        "pageTitle": "BIG — Biotechnology Ignition Grant Scheme · Startup Schemes Playbook",
+        "metaDescription": "Grant-in-aid of up to ₹50 lakh over 18 months for biotech startups and entrepreneurs to turn scientific ideas into products.",
+        "name": "Biotechnology Ignition Grant Scheme",
+        "alternateName": "BIG",
+        "description": "Grant-in-aid of up to ₹50 lakh over 18 months for biotech startups and entrepreneurs to turn scientific ideas into products.",
+        "provider": "Department of Biotechnology / Biotechnology Industry Research Assistance Council (BIRAC)",
+        "officialUrl": "https://birac.nic.in/webcontent/1761936564_big_new_guidelines_nov_2025.pdf"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "bioangels",
+      "sourceFile": "bioangels.html",
+      "matchedExistingRecord": true,
+      "existingName": "BioAngels",
+      "htmlDetails": {
+        "pageTitle": "BioAngels · Startup Schemes Playbook",
+        "metaDescription": "Connects biotech and related startups with angel investors who bring funding, deep domain mentoring, and industry access.",
+        "name": "BioAngels",
+        "alternateName": "",
+        "description": "Connects biotech and related startups with angel investors who bring funding, deep domain mentoring, and industry access.",
+        "provider": "Department of Biotechnology (DBT) / BIRAC",
+        "officialUrl": "https://bioangels.vc/about-us/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "bionest",
+      "sourceFile": "bionest.html",
+      "matchedExistingRecord": true,
+      "existingName": "BioNEST Programme",
+      "htmlDetails": {
+        "pageTitle": "BioNEST — BioNEST Programme · Startup Schemes Playbook",
+        "metaDescription": "Grant-in-aid for institutions and incubators to build bio-incubation facilities with shared labs and equipment for biotech startups.",
+        "name": "BioNEST Programme",
+        "alternateName": "BioNEST",
+        "description": "Grant-in-aid for institutions and incubators to build bio-incubation facilities with shared labs and equipment for biotech startups.",
+        "provider": "Biotechnology Industry Research Assistance Council (BIRAC), Department of Biotechnology",
+        "officialUrl": "https://www.birac.nic.in/desc_new.php?id=1120"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "bipp",
+      "sourceFile": "bipp.html",
+      "matchedExistingRecord": true,
+      "existingName": "Biotechnology Industry Partnership Programme",
+      "htmlDetails": {
+        "pageTitle": "BIPP — Biotechnology Industry Partnership Programme · Startup Schemes Playbook",
+        "metaDescription": "Cost-sharing R&D support with industry; first-time BIRAC applicants can get a one-time grant-in-aid of up to ₹50 lakh.",
+        "name": "Biotechnology Industry Partnership Programme",
+        "alternateName": "BIPP",
+        "description": "Cost-sharing R&D support with industry; first-time BIRAC applicants can get a one-time grant-in-aid of up to ₹50 lakh.",
+        "provider": "Biotechnology Industry Research Assistance Council (BIRAC), Department of Biotechnology",
+        "officialUrl": "https://birac.nic.in/webcontent/1745298172_BIPP_scheme_guidelines_16_04_2025.pdf"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "birac-seed",
+      "sourceFile": "birac-seed.html",
+      "matchedExistingRecord": true,
+      "existingName": "BIRAC Incubator SEED Fund",
+      "htmlDetails": {
+        "pageTitle": "SEED — BIRAC Incubator SEED Fund · Startup Schemes Playbook",
+        "metaDescription": "Seed equity funding of up to ₹30 lakh, routed through incubators, for biotech, med-tech and life sciences startups.",
+        "name": "BIRAC Incubator SEED Fund",
+        "alternateName": "SEED",
+        "description": "Seed equity funding of up to ₹30 lakh, routed through incubators, for biotech, med-tech and life sciences startups.",
+        "provider": "Department of Biotechnology / Biotechnology Industry Research Assistance Council (BIRAC)",
+        "officialUrl": "https://www.birac.nic.in/seedFundNew.php"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "c2s",
+      "sourceFile": "c2s.html",
+      "matchedExistingRecord": true,
+      "existingName": "Chips to Startup Programme",
+      "htmlDetails": {
+        "pageTitle": "C2S — Chips to Startup Programme · Startup Schemes Playbook",
+        "metaDescription": "Financial and technical support, EDA tools, and fab access for chip-design projects by institutions, startups, and MSMEs.",
+        "name": "Chips to Startup Programme",
+        "alternateName": "C2S",
+        "description": "Financial and technical support, EDA tools, and fab access for chip-design projects by institutions, startups, and MSMEs.",
+        "provider": "Ministry of Electronics and Information Technology (MeitY)",
+        "officialUrl": "https://www.c2s.gov.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "cgss",
+      "sourceFile": "cgss.html",
+      "matchedExistingRecord": true,
+      "existingName": "Credit Guarantee Scheme for Startups",
+      "htmlDetails": {
+        "pageTitle": "CGSS — Credit Guarantee Scheme for Startups · Startup Schemes Playbook",
+        "metaDescription": "Government guarantees up to ₹20 crore on loans to DPIIT-recognised startups, so lenders can fund you without collateral.",
+        "name": "Credit Guarantee Scheme for Startups",
+        "alternateName": "CGSS",
+        "description": "Government guarantees up to ₹20 crore on loans to DPIIT-recognised startups, so lenders can fund you without collateral.",
+        "provider": "Department for Promotion of Industry and Internal Trade (DPIIT)",
+        "officialUrl": "https://www.ncgtc.in/en/product-details/CGSS/Credit-Guarantee%20Scheme%20for%20Start-ups%20(CGSS)"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "cgtmse",
+      "sourceFile": "cgtmse.html",
+      "matchedExistingRecord": true,
+      "existingName": "Credit Guarantee Trust Fund for Micro & Small Enterprises",
+      "htmlDetails": {
+        "pageTitle": "CGTMSE — Credit Guarantee Trust Fund for Micro & Small Enterprises · Startup Schemes Playbook",
+        "metaDescription": "Get collateral-free bank loans as a micro or small enterprise, with the trust guaranteeing cover of up to ₹10 crore per borrower.",
+        "name": "Credit Guarantee Trust Fund for Micro & Small Enterprises",
+        "alternateName": "CGTMSE",
+        "description": "Get collateral-free bank loans as a micro or small enterprise, with the trust guaranteeing cover of up to ₹10 crore per borrower.",
+        "provider": "Ministry of Micro, Small and Medium Enterprises",
+        "officialUrl": "https://www.cgtmse.in/Default/ViewFile/?id=1743176302611_CGTMSE%20-%20Scheme%20Document%20CGS%20I_updated%20as%20on%20Apr%201%202025.pdf&path=Page"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "dcis",
+      "sourceFile": "dcis.html",
+      "matchedExistingRecord": true,
+      "existingName": "Digital Communication Innovation Square",
+      "htmlDetails": {
+        "pageTitle": "DCIS — Digital Communication Innovation Square · Startup Schemes Playbook",
+        "metaDescription": "Milestone-based telecom R&D funding — up to ₹50 lakh for startups, ₹2 crore for MSMEs, ₹10 crore for bigger technology products.",
+        "name": "Digital Communication Innovation Square",
+        "alternateName": "DCIS",
+        "description": "Milestone-based telecom R&D funding — up to ₹50 lakh for startups, ₹2 crore for MSMEs, ₹10 crore for bigger technology products.",
+        "provider": "Department of Telecommunications (DoT)",
+        "officialUrl": "https://www.dot.gov.in/offerings/schemes-and-services/details/dcis-QjNzETMtQWa"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "dli",
+      "sourceFile": "dli.html",
+      "matchedExistingRecord": true,
+      "existingName": "Design Linked Incentive Scheme",
+      "htmlDetails": {
+        "pageTitle": "DLI — Design Linked Incentive Scheme · Startup Schemes Playbook",
+        "metaDescription": "EDA tools, IP cores and incentives up to ₹15 crore (design) plus ₹30 crore (deployment) for Indian chip-design startups and MSMEs.",
+        "name": "Design Linked Incentive Scheme",
+        "alternateName": "DLI",
+        "description": "EDA tools, IP cores and incentives up to ₹15 crore (design) plus ₹30 crore (deployment) for Indian chip-design startups and MSMEs.",
+        "provider": "Ministry of Electronics and Information Technology (MeitY)",
+        "officialUrl": "http://chips-dli.gov.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "e-yuva",
+      "sourceFile": "e-yuva.html",
+      "matchedExistingRecord": true,
+      "existingName": "Empowering Youth for Undertaking Value Added Innovative Translational Research",
+      "htmlDetails": {
+        "pageTitle": "E-YUVA — Empowering Youth for Undertaking Value Added Innovative Translational Research · Startup Schemes Playbook",
+        "metaDescription": "Gives students and young researchers fellowships of ₹30,000-₹50,000 a month plus research grants up to ₹5 lakh for biotech ideas.",
+        "name": "Empowering Youth for Undertaking Value Added Innovative Translational Research",
+        "alternateName": "E-YUVA",
+        "description": "Gives students and young researchers fellowships of ₹30,000-₹50,000 a month plus research grants up to ₹5 lakh for biotech ideas.",
+        "provider": "Biotechnology Industry Research Assistance Council (BIRAC), Department of Biotechnology",
+        "officialUrl": "https://birac.nic.in/e_yuva.php"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "eics",
+      "sourceFile": "eics.html",
+      "matchedExistingRecord": true,
+      "existingName": "Scheme for Scale-up Support to Established Incubation Centres",
+      "htmlDetails": {
+        "pageTitle": "EICs — Scheme for Scale-up Support to Established Incubation Centres · Startup Schemes Playbook",
+        "metaDescription": "Gives established incubators grant-in-aid of up to ₹10 crore to expand space, teams, equipment and seed funding for more startups.",
+        "name": "Scheme for Scale-up Support to Established Incubation Centres",
+        "alternateName": "EICs",
+        "description": "Gives established incubators grant-in-aid of up to ₹10 crore to expand space, teams, equipment and seed funding for more startups.",
+        "provider": "Atal Innovation Mission (AIM), NITI Aayog",
+        "officialUrl": "https://aim.gov.in/pdf/EIC_guidelines_2019.pdf"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "esdp",
+      "sourceFile": "esdp.html",
+      "matchedExistingRecord": true,
+      "existingName": "Entrepreneurship and Skill Development Programme",
+      "htmlDetails": {
+        "pageTitle": "ESDP — Entrepreneurship and Skill Development Programme · Startup Schemes Playbook",
+        "metaDescription": "Business and technical skills training through three modules to help aspiring and existing entrepreneurs start and grow MSMEs.",
+        "name": "Entrepreneurship and Skill Development Programme",
+        "alternateName": "ESDP",
+        "description": "Business and technical skills training through three modules to help aspiring and existing entrepreneurs start and grow MSMEs.",
+        "provider": "Ministry of Micro, Small and Medium Enterprises",
+        "officialUrl": "https://msmedi.dcmsme.gov.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "ffs-2",
+      "sourceFile": "ffs-2.html",
+      "matchedExistingRecord": true,
+      "existingName": "Startup India Fund of Funds 2.0",
+      "htmlDetails": {
+        "pageTitle": "FoF 2.0 — Startup India Fund of Funds 2.0 · Startup Schemes Playbook",
+        "metaDescription": "A new ₹10,000 crore fund of funds channeling capital through AIFs into deep tech, manufacturing and other priority startups.",
+        "name": "Startup India Fund of Funds 2.0",
+        "alternateName": "FoF 2.0",
+        "description": "A new ₹10,000 crore fund of funds channeling capital through AIFs into deep tech, manufacturing and other priority startups.",
+        "provider": "Department for Promotion of Industry and Internal Trade (DPIIT)",
+        "officialUrl": "https://www.dpiit.gov.in/static/uploads/2026/04/d02f1b35bcc661c31e8cb2229dcd9475.pdf"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "ffs",
+      "sourceFile": "ffs.html",
+      "matchedExistingRecord": true,
+      "existingName": "Fund of Funds for Startups",
+      "htmlDetails": {
+        "pageTitle": "FFS — Fund of Funds for Startups · Startup Schemes Playbook",
+        "metaDescription": "A ₹10,000 crore fund that backs SEBI-registered venture funds (AIFs), which in turn invest equity in DPIIT-recognised startups.",
+        "name": "Fund of Funds for Startups",
+        "alternateName": "FFS",
+        "description": "A ₹10,000 crore fund that backs SEBI-registered venture funds (AIFs), which in turn invest equity in DPIIT-recognised startups.",
+        "provider": "Department for Promotion of Industry and Internal Trade (DPIIT)",
+        "officialUrl": "https://www.sidbivcf.in/en/funds/ffs"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "gem-startup-runway",
+      "sourceFile": "gem-startup-runway.html",
+      "matchedExistingRecord": true,
+      "existingName": "GeM Startup Runway",
+      "htmlDetails": {
+        "pageTitle": "GeM Startup Runway · Startup Schemes Playbook",
+        "metaDescription": "Sell your innovative products directly to government buyers on GeM, with exemptions from prior turnover, experience and EMD requirements.",
+        "name": "GeM Startup Runway",
+        "alternateName": "",
+        "description": "Sell your innovative products directly to government buyers on GeM, with exemptions from prior turnover, experience and EMD requirements.",
+        "provider": "Department of Commerce",
+        "officialUrl": "https://gem.gov.in/Startup_Runway"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "genesis",
+      "sourceFile": "genesis.html",
+      "matchedExistingRecord": true,
+      "existingName": "Gen-Next Support for Innovative Startups",
+      "htmlDetails": {
+        "pageTitle": "GENESIS — Gen-Next Support for Innovative Startups · Startup Schemes Playbook",
+        "metaDescription": "Funding from ₹10 lakh up to ₹1 crore plus mentoring and infrastructure for tech startups in Tier-II and Tier-III cities.",
+        "name": "Gen-Next Support for Innovative Startups",
+        "alternateName": "GENESIS",
+        "description": "Funding from ₹10 lakh up to ₹1 crore plus mentoring and infrastructure for tech startups in Tier-II and Tier-III cities.",
+        "provider": "Ministry of Electronics & Information Technology (MeitY)",
+        "officialUrl": "https://www.meity.gov.in/static/uploads/2024/02/GENESIS_Admin_Approval-1.pdf"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "great",
+      "sourceFile": "great.html",
+      "matchedExistingRecord": true,
+      "existingName": "Grant for Research & Entrepreneurship across Aspiring Innovators in Technical Textiles",
+      "htmlDetails": {
+        "pageTitle": "GREAT — Grant for Research & Entrepreneurship across Aspiring Innovators in Technical Textiles · Startup Schemes Playbook",
+        "metaDescription": "Grant-in-aid up to ₹50 lakh plus incubator support to turn technical-textile prototypes into market-ready products.",
+        "name": "Grant for Research & Entrepreneurship across Aspiring Innovators in Technical Textiles",
+        "alternateName": "GREAT",
+        "description": "Grant-in-aid up to ₹50 lakh plus incubator support to turn technical-textile prototypes into market-ready products.",
+        "provider": "Ministry of Textiles (National Technical Textiles Mission)",
+        "officialUrl": "https://nttm.texmin.gov.in/StartupRegistration/StartupUserRegistration"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "idex",
+      "sourceFile": "idex.html",
+      "matchedExistingRecord": true,
+      "existingName": "Innovations for Defence Excellence",
+      "htmlDetails": {
+        "pageTitle": "iDEX — Innovations for Defence Excellence · Startup Schemes Playbook",
+        "metaDescription": "Defence innovation grants of ₹1.5–10 crore plus incubator support for startups and MSMEs solving military challenges.",
+        "name": "Innovations for Defence Excellence",
+        "alternateName": "iDEX",
+        "description": "Defence innovation grants of ₹1.5–10 crore plus incubator support for startups and MSMEs solving military challenges.",
+        "provider": "Ministry of Defence / Defence Innovation Organisation (DIO)",
+        "officialUrl": "https://idex.gov.in/res"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "ifsca-fintech",
+      "sourceFile": "ifsca-fintech.html",
+      "matchedExistingRecord": true,
+      "existingName": "IFSCA Fintech Incentive Scheme",
+      "htmlDetails": {
+        "pageTitle": "IFSCA Fintech Incentive Scheme · Startup Schemes Playbook",
+        "metaDescription": "Grants of up to ₹75 lakh for fintech startups at GIFT IFSC to build products, run PoCs and sandboxes, and go to market.",
+        "name": "IFSCA Fintech Incentive Scheme",
+        "alternateName": "",
+        "description": "Grants of up to ₹75 lakh for fintech startups at GIFT IFSC to build products, run PoCs and sandboxes, and go to market.",
+        "provider": "International Financial Services Centres Authority (IFSCA)",
+        "officialUrl": "https://ifsca.gov.in/Pages/Contents/HowToApply"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "in-space-seed-fund",
+      "sourceFile": "in-space-seed-fund.html",
+      "matchedExistingRecord": true,
+      "existingName": "IN-SPACe Seed Fund Scheme",
+      "htmlDetails": {
+        "pageTitle": "IN-SPACe Seed Fund Scheme · Startup Schemes Playbook",
+        "metaDescription": "Grants of ₹1 crore plus mentoring for DPIIT-recognised early-stage space startups moving ideas from concept to prototype.",
+        "name": "IN-SPACe Seed Fund Scheme",
+        "alternateName": "",
+        "description": "Grants of ₹1 crore plus mentoring for DPIIT-recognised early-stage space startups moving ideas from concept to prototype.",
+        "provider": "IN-SPACe, Department of Space",
+        "officialUrl": "https://www.inspace.gov.in/inspace?id=announcement_for_opportunities"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "international-cooperation",
+      "sourceFile": "international-cooperation.html",
+      "matchedExistingRecord": true,
+      "existingName": "International Cooperation Scheme",
+      "htmlDetails": {
+        "pageTitle": "International Cooperation Scheme · Startup Schemes Playbook",
+        "metaDescription": "Reimburses MSMEs for participating in international trade fairs, exhibitions, and buyer-seller meets to enter export markets.",
+        "name": "International Cooperation Scheme",
+        "alternateName": "",
+        "description": "Reimburses MSMEs for participating in international trade fairs, exhibitions, and buyer-seller meets to enter export markets.",
+        "provider": "Ministry of Micro, Small and Medium Enterprises",
+        "officialUrl": "https://ic.msme.gov.in/IC_APP/IC_Welcome.aspx"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "leap-fund",
+      "sourceFile": "leap-fund.html",
+      "matchedExistingRecord": true,
+      "existingName": "LEAP Fund – Launching Entrepreneurial Driven Affordable Products",
+      "htmlDetails": {
+        "pageTitle": "LEAP — LEAP Fund – Launching Entrepreneurial Driven Affordable Products · Startup Schemes Playbook",
+        "metaDescription": "Equity funding above ₹30 lakh and up to ₹1 crore per startup to help biotech startups pilot and commercialise products.",
+        "name": "LEAP Fund – Launching Entrepreneurial Driven Affordable Products",
+        "alternateName": "LEAP",
+        "description": "Equity funding above ₹30 lakh and up to ₹1 crore per startup to help biotech startups pilot and commercialise products.",
+        "provider": "Department of Biotechnology (DBT) / BIRAC",
+        "officialUrl": "https://birac.nic.in/webcontent/1616486900_leap_fund_guidelines.pdf"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "mahir",
+      "sourceFile": "mahir.html",
+      "matchedExistingRecord": true,
+      "existingName": "Mission on Advanced and High-Impact Research",
+      "htmlDetails": {
+        "pageTitle": "MAHIR — Mission on Advanced and High-Impact Research · Startup Schemes Playbook",
+        "metaDescription": "Project-based financial support to research, develop and demonstrate emerging power and clean-energy technologies at scale.",
+        "name": "Mission on Advanced and High-Impact Research",
+        "alternateName": "MAHIR",
+        "description": "Project-based financial support to research, develop and demonstrate emerging power and clean-energy technologies at scale.",
+        "provider": "Ministry of Power and Ministry of New and Renewable Energy",
+        "officialUrl": "https://cpri.res.in/en/content/mahir"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "msme-champions",
+      "sourceFile": "msme-champions.html",
+      "matchedExistingRecord": true,
+      "existingName": "MSME Champions Scheme (erstwhile Credit Linked Capital Subsidy Scheme for Technology Upgradation (CLCS-TU))",
+      "htmlDetails": {
+        "pageTitle": "CLCS-TU — MSME Champions Scheme (erstwhile Credit Linked Capital Subsidy Scheme for Technology Upgradation (CLCS-TU)) · Startup Schemes Playbook",
+        "metaDescription": "Subsidies and support for MSMEs covering ZED certification, lean manufacturing, design, IPR, incubation and technology upgradation.",
+        "name": "MSME Champions Scheme (erstwhile Credit Linked Capital Subsidy Scheme for Technology Upgradation (CLCS-TU))",
+        "alternateName": "CLCS-TU",
+        "description": "Subsidies and support for MSMEs covering ZED certification, lean manufacturing, design, IPR, incubation and technology upgradation.",
+        "provider": "Ministry of MSME",
+        "officialUrl": "https://champions.gov.in/Government-India/Ministry-MSME-Portal-handholding/msme-problem-complaint-welcome.htm"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "nidhi-accelerator",
+      "sourceFile": "nidhi-accelerator.html",
+      "matchedExistingRecord": true,
+      "existingName": "NIDHI-Accelerator",
+      "htmlDetails": {
+        "pageTitle": "NIDHI-Accelerator — NIDHI-Accelerator · Startup Schemes Playbook",
+        "metaDescription": "Up to ₹40 lakh per cohort for DST-backed incubators to run accelerator programs with mentoring, networking, and demo-day awards.",
+        "name": "NIDHI-Accelerator",
+        "alternateName": "NIDHI-Accelerator",
+        "description": "Up to ₹40 lakh per cohort for DST-backed incubators to run accelerator programs with mentoring, networking, and demo-day awards.",
+        "provider": "Department of Science and Technology (DST)",
+        "officialUrl": "https://nidhi.dst.gov.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "nidhi-coe",
+      "sourceFile": "nidhi-coe.html",
+      "matchedExistingRecord": true,
+      "existingName": "NIDHI-Centres of Excellence",
+      "htmlDetails": {
+        "pageTitle": "NIDHI-CoE — NIDHI-Centres of Excellence · Startup Schemes Playbook",
+        "metaDescription": "Gives established incubators up to ₹50 crore over 5 years to build world-class facilities for high-potential tech startups.",
+        "name": "NIDHI-Centres of Excellence",
+        "alternateName": "NIDHI-CoE",
+        "description": "Gives established incubators up to ₹50 crore over 5 years to build world-class facilities for high-potential tech startups.",
+        "provider": "Department of Science and Technology (DST)",
+        "officialUrl": "https://nidhi.dst.gov.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "nidhi-eir",
+      "sourceFile": "nidhi-eir.html",
+      "matchedExistingRecord": true,
+      "existingName": "NIDHI – Entrepreneur in Residence",
+      "htmlDetails": {
+        "pageTitle": "NIDHI-EIR — NIDHI – Entrepreneur in Residence · Startup Schemes Playbook",
+        "metaDescription": "Monthly fellowship of ₹10,000–₹30,000 for up to 18 months, plus co-working space and mentoring to turn your startup idea into a business.",
+        "name": "NIDHI – Entrepreneur in Residence",
+        "alternateName": "NIDHI-EIR",
+        "description": "Monthly fellowship of ₹10,000–₹30,000 for up to 18 months, plus co-working space and mentoring to turn your startup idea into a business.",
+        "provider": "Department of Science and Technology (DST)",
+        "officialUrl": "https://nidhi.dst.gov.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "nidhi-i-tbi",
+      "sourceFile": "nidhi-i-tbi.html",
+      "matchedExistingRecord": true,
+      "existingName": "NIDHI - Inclusive-Technology Business Incubator",
+      "htmlDetails": {
+        "pageTitle": "NIDHI i-TBI — NIDHI - Inclusive-Technology Business Incubator · Startup Schemes Playbook",
+        "metaDescription": "Up to ₹5 crore over 3 years for institutions in underserved regions to set up inclusive incubators hosting 30+ local startups.",
+        "name": "NIDHI - Inclusive-Technology Business Incubator",
+        "alternateName": "NIDHI i-TBI",
+        "description": "Up to ₹5 crore over 3 years for institutions in underserved regions to set up inclusive incubators hosting 30+ local startups.",
+        "provider": "Department of Science and Technology (DST)",
+        "officialUrl": "https://nidhi.dst.gov.in/nidhiitbi/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "nidhi-prayas",
+      "sourceFile": "nidhi-prayas.html",
+      "matchedExistingRecord": true,
+      "existingName": "NIDHI – Promotion and Acceleration of Young and Aspiring Technology Entrepreneurs (PRAYAS) 2.0",
+      "htmlDetails": {
+        "pageTitle": "PRAYAS 2.0 — NIDHI – Promotion and Acceleration of Young and Aspiring Technology Entrepreneurs (PRAYAS) 2.0 · Startup Schemes Playbook",
+        "metaDescription": "Prototyping grants of up to ₹20 lakh (₹40 lakh at deep-tech APCs) for innovators and young startups via PRAYAS Centres.",
+        "name": "NIDHI – Promotion and Acceleration of Young and Aspiring Technology Entrepreneurs (PRAYAS) 2.0",
+        "alternateName": "PRAYAS 2.0",
+        "description": "Prototyping grants of up to ₹20 lakh (₹40 lakh at deep-tech APCs) for innovators and young startups via PRAYAS Centres.",
+        "provider": "Department of Science & Technology (DST)",
+        "officialUrl": "https://nidhi-prayas.org/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "nidhi-ssp",
+      "sourceFile": "nidhi-ssp.html",
+      "matchedExistingRecord": true,
+      "existingName": "NIDHI – Seed Support Program (SSP)",
+      "htmlDetails": {
+        "pageTitle": "SSP — NIDHI – Seed Support Program · Startup Schemes Playbook",
+        "metaDescription": "Seed support through NIDHI STEPs/TBIs for incubated DPIIT startups to fund product development, testing, trials and mentoring.",
+        "name": "NIDHI – Seed Support Program",
+        "alternateName": "SSP",
+        "description": "Seed support through NIDHI STEPs/TBIs for incubated DPIIT startups to fund product development, testing, trials and mentoring.",
+        "provider": "Department of Science & Technology (DST)",
+        "officialUrl": "https://nidhi.dst.gov.in/nidhissp/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "nidhi-tbi",
+      "sourceFile": "nidhi-tbi.html",
+      "matchedExistingRecord": true,
+      "existingName": "National Initiative for Developing and Harnessing Innovations - Technology Business Incubator",
+      "htmlDetails": {
+        "pageTitle": "NIDHI-TBI — National Initiative for Developing and Harnessing Innovations - Technology Business Incubator · Startup Schemes Playbook",
+        "metaDescription": "Grant support for institutions to set up Technology Business Incubators, covering capital and recurring costs of running the incubator.",
+        "name": "National Initiative for Developing and Harnessing Innovations - Technology Business Incubator",
+        "alternateName": "NIDHI-TBI",
+        "description": "Grant support for institutions to set up Technology Business Incubators, covering capital and recurring costs of running the incubator.",
+        "provider": "Department of Science and Technology",
+        "officialUrl": "https://nidhi.dst.gov.in/nidhitbi/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "nlm",
+      "sourceFile": "nlm.html",
+      "matchedExistingRecord": true,
+      "existingName": "National Livestock Mission",
+      "htmlDetails": {
+        "pageTitle": "NLM — National Livestock Mission · Startup Schemes Playbook",
+        "metaDescription": "100% central assistance for extension, R&D and innovation in livestock, plus startup incentives and a Grand Challenge programme.",
+        "name": "National Livestock Mission",
+        "alternateName": "NLM",
+        "description": "100% central assistance for extension, R&D and innovation in livestock, plus startup incentives and a Grand Challenge programme.",
+        "provider": "Department of Animal Husbandry & Dairying",
+        "officialUrl": "https://nlm.udyamimitra.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "nm-icps",
+      "sourceFile": "nm-icps.html",
+      "matchedExistingRecord": true,
+      "existingName": "National Mission on Interdisciplinary Cyber-Physical Systems – Technology Innovation Hubs",
+      "htmlDetails": {
+        "pageTitle": "NM-ICPS — National Mission on Interdisciplinary Cyber-Physical Systems – Technology Innovation Hubs · Startup Schemes Playbook",
+        "metaDescription": "25 Technology Innovation Hubs give startups, students, and researchers funding and non-financial support to build advanced-tech products.",
+        "name": "National Mission on Interdisciplinary Cyber-Physical Systems – Technology Innovation Hubs",
+        "alternateName": "NM-ICPS",
+        "description": "25 Technology Innovation Hubs give startups, students, and researchers funding and non-financial support to build advanced-tech products.",
+        "provider": "Department of Science & Technology (DST)",
+        "officialUrl": "https://nmicps.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "nqm",
+      "sourceFile": "nqm.html",
+      "matchedExistingRecord": true,
+      "existingName": "National Quantum Mission (NQM)",
+      "htmlDetails": {
+        "pageTitle": "NQM — National Quantum Mission · Startup Schemes Playbook",
+        "metaDescription": "Seed, prototype and scale-up funding for quantum technology startups and R&D routed through NQM Thematic Hubs.",
+        "name": "National Quantum Mission",
+        "alternateName": "NQM",
+        "description": "Seed, prototype and scale-up funding for quantum technology startups and R&D routed through NQM Thematic Hubs.",
+        "provider": "Department of Science & Technology (DST)",
+        "officialUrl": "https://www.psa.gov.in/mission/national-quantum-mission/26"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "nssh",
+      "sourceFile": "nssh.html",
+      "matchedExistingRecord": true,
+      "existingName": "National SC-ST Hub Scheme",
+      "htmlDetails": {
+        "pageTitle": "NSSH — National SC-ST Hub Scheme · Startup Schemes Playbook",
+        "metaDescription": "Gives SC/ST entrepreneurs subsidies, training, marketing and mentoring support, and access to government procurement.",
+        "name": "National SC-ST Hub Scheme",
+        "alternateName": "NSSH",
+        "description": "Gives SC/ST entrepreneurs subsidies, training, marketing and mentoring support, and access to government procurement.",
+        "provider": "Ministry of Micro, Small & Medium Enterprises",
+        "officialUrl": "https://www.scsthub.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "pace",
+      "sourceFile": "pace.html",
+      "matchedExistingRecord": true,
+      "existingName": "Promoting Academic Research Conversion to Enterprise",
+      "htmlDetails": {
+        "pageTitle": "PACE — Promoting Academic Research Conversion to Enterprise · Startup Schemes Playbook",
+        "metaDescription": "BIRAC grants for academia to develop biotech proofs-of-concept and validate them with industry partners — up to ₹50 lakh under AIR.",
+        "name": "Promoting Academic Research Conversion to Enterprise",
+        "alternateName": "PACE",
+        "description": "BIRAC grants for academia to develop biotech proofs-of-concept and validate them with industry partners — up to ₹50 lakh under AIR.",
+        "provider": "Department of Biotechnology (DBT)",
+        "officialUrl": "https://birac.nic.in/desc_new.php?id=286"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "pmfme",
+      "sourceFile": "pmfme.html",
+      "matchedExistingRecord": true,
+      "existingName": "Pradhan Mantri Formalisation of Micro Food Processing Enterprises Scheme",
+      "htmlDetails": {
+        "pageTitle": "PMFME — Pradhan Mantri Formalisation of Micro Food Processing Enterprises Scheme · Startup Schemes Playbook",
+        "metaDescription": "Gives micro food processing units a 35% capital subsidy up to ₹10 lakh, plus training, seed capital for SHGs and incubation support.",
+        "name": "Pradhan Mantri Formalisation of Micro Food Processing Enterprises Scheme",
+        "alternateName": "PMFME",
+        "description": "Gives micro food processing units a 35% capital subsidy up to ₹10 lakh, plus training, seed capital for SHGs and incubation support.",
+        "provider": "Ministry of Food Processing Industries (MoFPI)",
+        "officialUrl": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/sep/doc202592626401.pdf"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "pmmy",
+      "sourceFile": "pmmy.html",
+      "matchedExistingRecord": true,
+      "existingName": "Pradhan Mantri Mudra Yojana",
+      "htmlDetails": {
+        "pageTitle": "PMMY — Pradhan Mantri Mudra Yojana · Startup Schemes Playbook",
+        "metaDescription": "Collateral-free Mudra loans up to ₹20 lakh from banks, NBFCs and MFIs to start, run or expand a small business.",
+        "name": "Pradhan Mantri Mudra Yojana",
+        "alternateName": "PMMY",
+        "description": "Collateral-free Mudra loans up to ₹20 lakh from banks, NBFCs and MFIs to start, run or expand a small business.",
+        "provider": "Ministry of Finance",
+        "officialUrl": "https://www.mudra.org.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "prism",
+      "sourceFile": "prism.html",
+      "matchedExistingRecord": true,
+      "existingName": "Promoting Innovations in Individuals, Start-ups and MSMEs",
+      "htmlDetails": {
+        "pageTitle": "PRISM — Promoting Innovations in Individuals, Start-ups and MSMEs · Startup Schemes Playbook",
+        "metaDescription": "Grants for individual innovators, startups and MSMEs to build prototypes and commercialise ideas — up to ₹50 lakh in project support.",
+        "name": "Promoting Innovations in Individuals, Start-ups and MSMEs",
+        "alternateName": "PRISM",
+        "description": "Grants for individual innovators, startups and MSMEs to build prototypes and commercialise ideas — up to ₹50 lakh in project support.",
+        "provider": "Department of Science & Technology (DST)",
+        "officialUrl": "https://www.dsir.gov.in/offerings/schemes-and-services/details/promoting-innovations-in-individuals-start-ups-and-msmes-prism-kjMwITMtQWa"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "rdi",
+      "sourceFile": "rdi.html",
+      "matchedExistingRecord": true,
+      "existingName": "Research, Development & Innovation (RDI) Scheme",
+      "htmlDetails": {
+        "pageTitle": "RDI — Research, Development & Innovation (RDI) Scheme · Startup Schemes Playbook",
+        "metaDescription": "Debt and equity funding covering 50% of R&D project costs or funding rounds, via fund managers under a ₹1 lakh crore scheme.",
+        "name": "Research, Development & Innovation (RDI) Scheme",
+        "alternateName": "RDI",
+        "description": "Debt and equity funding covering 50% of R&D project costs or funding rounds, via fund managers under a ₹1 lakh crore scheme.",
+        "provider": "Department of Science & Technology (DST)",
+        "officialUrl": "https://rdifund.anrf.gov.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "rkvy",
+      "sourceFile": "rkvy.html",
+      "matchedExistingRecord": true,
+      "existingName": "Innovation & Agri-Entrepreneurship Program",
+      "htmlDetails": {
+        "pageTitle": "RKVY — Innovation & Agri-Entrepreneurship Program · Startup Schemes Playbook",
+        "metaDescription": "Pre-seed grants up to ₹5 lakh and seed grants up to ₹25 lakh with incubation and mentoring for DPIIT-recognised agri-startups.",
+        "name": "Innovation & Agri-Entrepreneurship Program",
+        "alternateName": "RKVY",
+        "description": "Pre-seed grants up to ₹5 lakh and seed grants up to ₹25 lakh with incubation and mentoring for DPIIT-recognised agri-startups.",
+        "provider": "Ministry of Agriculture & Farmers Welfare",
+        "officialUrl": "https://agristartup.gov.in/LetterAndCircular/OperationalGuidelineRKVY.pdf"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "samridh",
+      "sourceFile": "samridh.html",
+      "matchedExistingRecord": true,
+      "existingName": "Startup Accelerators of MeitY for Product Innovation, Development & Growth",
+      "htmlDetails": {
+        "pageTitle": "SAMRIDH — Startup Accelerators of MeitY for Product Innovation, Development & Growth · Startup Schemes Playbook",
+        "metaDescription": "Up to ₹40 lakh investment plus equal matching private funding and acceleration services to scale your IT product startup.",
+        "name": "Startup Accelerators of MeitY for Product Innovation, Development & Growth",
+        "alternateName": "SAMRIDH",
+        "description": "Up to ₹40 lakh investment plus equal matching private funding and acceleration services to scale your IT product startup.",
+        "provider": "Ministry of Electronics & Information Technology (MeitY)",
+        "officialUrl": "https://msh.meity.gov.in/schemes/samridh"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "sbiri",
+      "sourceFile": "sbiri.html",
+      "matchedExistingRecord": true,
+      "existingName": "Small Business Innovation Research Initiative",
+      "htmlDetails": {
+        "pageTitle": "SBIRI — Small Business Innovation Research Initiative · Startup Schemes Playbook",
+        "metaDescription": "100% BIRAC grant-in-aid up to ₹50 lakh (partial above that) for biotech startups developing and validating products with partners.",
+        "name": "Small Business Innovation Research Initiative",
+        "alternateName": "SBIRI",
+        "description": "100% BIRAC grant-in-aid up to ₹50 lakh (partial above that) for biotech startups developing and validating products with partners.",
+        "provider": "Department of Biotechnology (DBT)",
+        "officialUrl": "https://birac.nic.in/desc_new.php?id=217"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "sipp",
+      "sourceFile": "sipp.html",
+      "matchedExistingRecord": true,
+      "existingName": "Scheme for Facilitating Startups Intellectual Property Protection",
+      "htmlDetails": {
+        "pageTitle": "SIPP — Scheme for Facilitating Startups Intellectual Property Protection · Startup Schemes Playbook",
+        "metaDescription": "Free IP facilitator support to file patents, trademarks and designs — startups pay only statutory government fees.",
+        "name": "Scheme for Facilitating Startups Intellectual Property Protection",
+        "alternateName": "SIPP",
+        "description": "Free IP facilitator support to file patents, trademarks and designs — startups pay only statutory government fees.",
+        "provider": "Department for Promotion of Industry and Internal Trade (DPIIT)",
+        "officialUrl": "https://www.dpiit.gov.in/offerings/schemes-and-services/details/sipp-gTM1UDNtQWa"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "sisfs",
+      "sourceFile": "sisfs.html",
+      "matchedExistingRecord": true,
+      "existingName": "Startup India Seed Fund Scheme",
+      "htmlDetails": {
+        "pageTitle": "SISFS — Startup India Seed Fund Scheme · Startup Schemes Playbook",
+        "metaDescription": "Get up to ₹20 lakh in grants and ₹50 lakh in investment to validate your idea, build a prototype, and enter the market.",
+        "name": "Startup India Seed Fund Scheme",
+        "alternateName": "SISFS",
+        "description": "Get up to ₹20 lakh in grants and ₹50 lakh in investment to validate your idea, build a prototype, and enter the market.",
+        "provider": "Department for Promotion of Industry and Internal Trade (DPIIT)",
+        "officialUrl": "https://seedfund.startupindia.gov.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "sitare",
+      "sourceFile": "sitare.html",
+      "matchedExistingRecord": true,
+      "existingName": "Students Innovations for Translation & Advancement of Research Explorations",
+      "htmlDetails": {
+        "pageTitle": "SITARE — Students Innovations for Translation & Advancement of Research Explorations · Startup Schemes Playbook",
+        "metaDescription": "Grants up to ₹15 lakh plus training and mentoring for biotech student innovators to turn research ideas into startups.",
+        "name": "Students Innovations for Translation & Advancement of Research Explorations",
+        "alternateName": "SITARE",
+        "description": "Grants up to ₹15 lakh plus training and mentoring for biotech student innovators to turn research ideas into startups.",
+        "provider": "Department of Biotechnology (DBT)",
+        "officialUrl": "https://www.birac.nic.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "space-taf",
+      "sourceFile": "space-taf.html",
+      "matchedExistingRecord": true,
+      "existingName": "Space Technology Adoption Fund",
+      "htmlDetails": {
+        "pageTitle": "TAF — Space Technology Adoption Fund · Startup Schemes Playbook",
+        "metaDescription": "Funds up to 60% of project cost (capped at ₹25 crore) to help space companies turn TRL-3/4 technologies into market-ready products.",
+        "name": "Space Technology Adoption Fund",
+        "alternateName": "TAF",
+        "description": "Funds up to 60% of project cost (capped at ₹25 crore) to help space companies turn TRL-3/4 technologies into market-ready products.",
+        "provider": "Indian National Space Promotion and Authorization Centre (IN-SPACe), Department of Space",
+        "officialUrl": "https://www.inspace.gov.in/inspace?id=inspace_taf"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "sparsh",
+      "sourceFile": "sparsh.html",
+      "matchedExistingRecord": true,
+      "existingName": "Social Innovation Programme for Products Affordable & Relevant to Social Health",
+      "htmlDetails": {
+        "pageTitle": "SPARSH — Social Innovation Programme for Products Affordable & Relevant to Social Health · Startup Schemes Playbook",
+        "metaDescription": "Grant-in-aid of up to ₹50 lakh over 18 months to build affordable healthcare products for underserved communities.",
+        "name": "Social Innovation Programme for Products Affordable & Relevant to Social Health",
+        "alternateName": "SPARSH",
+        "description": "Grant-in-aid of up to ₹50 lakh over 18 months to build affordable healthcare products for underserved communities.",
+        "provider": "Department of Biotechnology (DBT) / BIRAC",
+        "officialUrl": "https://www.birac.nic.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "sri-fund",
+      "sourceFile": "sri-fund.html",
+      "matchedExistingRecord": true,
+      "existingName": "Self-Reliant India Fund",
+      "htmlDetails": {
+        "pageTitle": "SRI Fund — Self-Reliant India Fund · Startup Schemes Playbook",
+        "metaDescription": "Growth capital as equity or quasi-equity for MSMEs through government-backed Daughter Funds under a ₹50,000 crore provision.",
+        "name": "Self-Reliant India Fund",
+        "alternateName": "SRI Fund",
+        "description": "Growth capital as equity or quasi-equity for MSMEs through government-backed Daughter Funds under a ₹50,000 crore provision.",
+        "provider": "Ministry of Micro, Small and Medium Enterprises",
+        "officialUrl": "https://dcmsme.gov.in/CLCS_TUS_Scheme/SRI_Fund/Scheme_Guidelines.aspx"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "st-prism",
+      "sourceFile": "st-prism.html",
+      "matchedExistingRecord": true,
+      "existingName": "Promotion of Research & Innovation in Mining, Minerals & Recycling Sector",
+      "htmlDetails": {
+        "pageTitle": "S&T-PRISM — Promotion of Research & Innovation in Mining, Minerals & Recycling Sector · Startup Schemes Playbook",
+        "metaDescription": "Milestone-based grants up to ₹2 crore for early-stage mining, minerals, metals, and recycling startups to build prototypes and pilots.",
+        "name": "Promotion of Research & Innovation in Mining, Minerals & Recycling Sector",
+        "alternateName": "S&T-PRISM",
+        "description": "Milestone-based grants up to ₹2 crore for early-stage mining, minerals, metals, and recycling startups to build prototypes and pilots.",
+        "provider": "Ministry of Mines",
+        "officialUrl": "https://mines.gov.in/admin/storage/app/uploads/655212bdb9e5b1699877565.pdf"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "stand-up-india",
+      "sourceFile": "stand-up-india.html",
+      "matchedExistingRecord": true,
+      "existingName": "Stand-Up India",
+      "htmlDetails": {
+        "pageTitle": "Stand-Up India · Startup Schemes Playbook",
+        "metaDescription": "Bank loans between ₹10 lakh and ₹1 crore for SC/ST and women entrepreneurs setting up their first greenfield business.",
+        "name": "Stand-Up India",
+        "alternateName": "",
+        "description": "Bank loans between ₹10 lakh and ₹1 crore for SC/ST and women entrepreneurs setting up their first greenfield business.",
+        "provider": "Department of Financial Services",
+        "officialUrl": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/apr/doc20224535701.pdf"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "sti-hubs",
+      "sourceFile": "sti-hubs.html",
+      "matchedExistingRecord": true,
+      "existingName": "Science Technology and Innovation (STI) Hubs for Development of Scheduled Caste (SC) and Scheduled Tribe (ST) Communities",
+      "htmlDetails": {
+        "pageTitle": "STI Hubs — Science Technology and Innovation (STI) Hubs for Development of Scheduled Caste (SC) and Scheduled Tribe (ST) Communities · Startup Schemes Playbook",
+        "metaDescription": "Funds academic and S&T institutions to set up STI Hubs that improve SC and ST community livelihoods through technology.",
+        "name": "Science Technology and Innovation (STI) Hubs for Development of Scheduled Caste (SC) and Scheduled Tribe (ST) Communities",
+        "alternateName": "STI Hubs",
+        "description": "Funds academic and S&T institutions to set up STI Hubs that improve SC and ST community livelihoods through technology.",
+        "provider": "Department of Science and Technology (DST)",
+        "officialUrl": "https://dst.gov.in/callforproposals/science-technology-and-innovation-sti-hubs-development-scheduled-caste-sc-and"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "stpi-ngis",
+      "sourceFile": "stpi-ngis.html",
+      "matchedExistingRecord": true,
+      "existingName": "STPI – Next Generation Incubation Scheme",
+      "htmlDetails": {
+        "pageTitle": "NGIS — STPI – Next Generation Incubation Scheme · Startup Schemes Playbook",
+        "metaDescription": "Seed funding up to ₹25 lakh plus incubation, labs, and mentoring for software-product startups at STPI centres in Tier-II/III cities.",
+        "name": "STPI – Next Generation Incubation Scheme",
+        "alternateName": "NGIS",
+        "description": "Seed funding up to ₹25 lakh plus incubation, labs, and mentoring for software-product startups at STPI centres in Tier-II/III cities.",
+        "provider": "Ministry of Electronics & Information Technology (MeitY) / STPI",
+        "officialUrl": "https://startup.stpi.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "svep",
+      "sourceFile": "svep.html",
+      "matchedExistingRecord": true,
+      "existingName": "Start-up Village Entrepreneurship Programme",
+      "htmlDetails": {
+        "pageTitle": "SVEP — Start-up Village Entrepreneurship Programme · Startup Schemes Playbook",
+        "metaDescription": "Gives rural SHG members local business support and Community Enterprise Fund capital to start small non-farm businesses.",
+        "name": "Start-up Village Entrepreneurship Programme",
+        "alternateName": "SVEP",
+        "description": "Gives rural SHG members local business support and Community Enterprise Fund capital to start small non-farm businesses.",
+        "provider": "Ministry of Rural Development (MoRD)",
+        "officialUrl": "https://svep.nrlm.gov.in/landing"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "tdf",
+      "sourceFile": "tdf.html",
+      "matchedExistingRecord": true,
+      "existingName": "Technology Development Fund",
+      "htmlDetails": {
+        "pageTitle": "TDF — Technology Development Fund · Startup Schemes Playbook",
+        "metaDescription": "DRDO grants covering up to 90% of a ₹10 crore project cost for Indian companies and startups developing defence technologies.",
+        "name": "Technology Development Fund",
+        "alternateName": "TDF",
+        "description": "DRDO grants covering up to 90% of a ₹10 crore project cost for Indian companies and startups developing defence technologies.",
+        "provider": "DRDO, Ministry of Defence",
+        "officialUrl": "https://tdf.drdo.gov.in/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "tdic",
+      "sourceFile": "tdic.html",
+      "matchedExistingRecord": true,
+      "existingName": "Technology Development-cum-Incubation Centers",
+      "htmlDetails": {
+        "pageTitle": "Technology Development-cum-Incubation Centers · Startup Schemes Playbook",
+        "metaDescription": "DAE incubation centres give startups and MSMEs prototyping facilities, test beds, and mentors to commercialise nuclear-sector tech.",
+        "name": "Technology Development-cum-Incubation Centers",
+        "alternateName": "",
+        "description": "DAE incubation centres give startups and MSMEs prototyping facilities, test beds, and mentors to commercialise nuclear-sector tech.",
+        "provider": "Department of Atomic Energy",
+        "officialUrl": "https://dae.gov.in/video/dae-launches-technology-development-cum-incubation-centres/"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "tide-2",
+      "sourceFile": "tide-2.html",
+      "matchedExistingRecord": true,
+      "existingName": "TIDE 2.0 – Technology Incubation & Development of Entrepreneurs",
+      "htmlDetails": {
+        "pageTitle": "TIDE 2.0 — TIDE 2.0 – Technology Incubation & Development of Entrepreneurs · Startup Schemes Playbook",
+        "metaDescription": "Grants from ₹4 lakh to ₹40 lakh plus incubation and mentoring for DPIIT-recognised IT startups, from idea to market-ready product.",
+        "name": "TIDE 2.0 – Technology Incubation & Development of Entrepreneurs",
+        "alternateName": "TIDE 2.0",
+        "description": "Grants from ₹4 lakh to ₹40 lakh plus incubation and mentoring for DPIIT-recognised IT startups, from idea to market-ready product.",
+        "provider": "Ministry of Electronics and Information Technology (MeitY)",
+        "officialUrl": "https://msh.meity.gov.in/schemes/tide"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "vcf-sc",
+      "sourceFile": "vcf-sc.html",
+      "matchedExistingRecord": true,
+      "existingName": "Venture Capital Fund for Scheduled Castes",
+      "htmlDetails": {
+        "pageTitle": "VCF-SC — Venture Capital Fund for Scheduled Castes · Startup Schemes Playbook",
+        "metaDescription": "Concessional loans of ₹10 lakh to ₹15 crore at a 4% coupon rate for businesses majority-owned by Scheduled Caste entrepreneurs.",
+        "name": "Venture Capital Fund for Scheduled Castes",
+        "alternateName": "VCF-SC",
+        "description": "Concessional loans of ₹10 lakh to ₹15 crore at a 4% coupon rate for businesses majority-owned by Scheduled Caste entrepreneurs.",
+        "provider": "Ministry of Social Justice and Empowerment",
+        "officialUrl": "https://vcfsc.in/apply-online.html"
+      },
+      "structuredDataFound": true
+    },
+    {
+      "slug": "yuva-sahakar",
+      "sourceFile": "yuva-sahakar.html",
+      "matchedExistingRecord": true,
+      "existingName": "Yuva Sahakar – Cooperative Enterprise Support and Innovation Scheme",
+      "htmlDetails": {
+        "pageTitle": "Yuva Sahakar – Cooperative Enterprise Support and Innovation Scheme · Startup Schemes Playbook",
+        "metaDescription": "Long-term finance with a 2% interest concession on term loans for newly formed cooperative societies with innovative ideas.",
+        "name": "Yuva Sahakar – Cooperative Enterprise Support and Innovation Scheme",
+        "alternateName": "",
+        "description": "Long-term finance with a 2% interest concession on term loans for newly formed cooperative societies with innovative ideas.",
+        "provider": "Ministry of Cooperation",
+        "officialUrl": "https://www.ncdc.in/documents/booklet/3812280223E-Book-NCDC.pdf"
+      },
+      "structuredDataFound": true
+    }
+  ]
+}

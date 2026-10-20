@@ -1,0 +1,124 @@
+{
+ "intro": "Use this table to find schemes based on what type of support you are looking for.",
+ "rows": [
+  {
+   "need": "Grant",
+   "needNote": "Funding with no repayment",
+   "startupSpecific": [
+    "SISFS",
+    "BIG",
+    "PRAYAS 2.0",
+    "iDEX",
+    "ADITI",
+    "DCIS",
+    "IN-SPACe Seed Fund",
+    "RKVY",
+    "SPARSH",
+    "GREAT",
+    "NQM"
+   ],
+   "startupRelevant": [
+    "TIDE 2.0",
+    "BIPP",
+    "SBIRI",
+    "PRISM",
+    "PACE",
+    "E-YUVA",
+    "SITARE",
+    "NM-ICPS",
+    "MAHIR"
+   ]
+  },
+  {
+   "need": "Equity Investment",
+   "needNote": "VC/angel",
+   "startupSpecific": [
+    "FFS",
+    "Startup India FoF 2.0",
+    "AcE",
+    "AgriSURE",
+    "BIRAC SEED",
+    "LEAP Fund",
+    "SAMRIDH"
+   ],
+   "startupRelevant": [
+    "Antariksh VCF",
+    "SRI Fund",
+    "SBIRI"
+   ]
+  },
+  {
+   "need": "Loan or Credit Support",
+   "needNote": "",
+   "startupSpecific": [
+    "CGSS"
+   ],
+   "startupRelevant": [
+    "CGTMSE",
+    "PMMY",
+    "Stand Up India",
+    "PMFME",
+    "NLM",
+    "Yuva Sahakar"
+   ]
+  },
+  {
+   "need": "Incubation / Lab / Mentoring",
+   "needNote": "",
+   "startupSpecific": [
+    "GENESIS",
+    "SAMRIDH",
+    "STPI-NGIS",
+    "C2S"
+   ],
+   "startupRelevant": [
+    "NIDHI-TBI",
+    "i-TBI",
+    "BioNEST",
+    "AICs",
+    "ACICs",
+    "EICs",
+    "TIDE 2.0",
+    "NM-ICPS",
+    "ESDP"
+   ]
+  },
+  {
+   "need": "IP Protection",
+   "needNote": "Patents, Trademarks",
+   "startupSpecific": [
+    "SIPP"
+   ],
+   "startupRelevant": []
+  },
+  {
+   "need": "Market Access / Sell to Government",
+   "needNote": "",
+   "startupSpecific": [
+    "GeM Startup Runway"
+   ],
+   "startupRelevant": [
+    "International Cooperation Scheme",
+    "BHARATI"
+   ]
+  },
+  {
+   "need": "Sector-Specific Support",
+   "needNote": "",
+   "startupSpecific": [
+    "iDEX / ADITI / TDF (Defence)",
+    "IN-SPACe Seed Fund / NQM (Space/Quantum)",
+    "RKVY / AgriSURE (Agri)",
+    "DCIS (Telecom)",
+    "DLI",
+    "Chips to Startup (C2S)"
+   ],
+   "startupRelevant": [
+    "BioNEST (Biotech)",
+    "MAHIR (Energy)",
+    "NLM (Livestock)",
+    "SVEP (Rural)"
+   ]
+  }
+ ]
+}

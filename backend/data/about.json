@@ -1,0 +1,60 @@
+{
+ "title": "PLAYBOOK OF GOVERNMENT SCHEMES AND INITIATIVES FOR STARTUPS",
+ "edition": "June 2026",
+ "disclaimer": "This playbook has been developed as a consolidated reference guide to facilitate awareness and access to Central Government schemes, programmes, initiatives, and support mechanisms that may be relevant to startups across sectors and stages of growth. The information contained herein has been compiled on a best-effort basis from publicly available sources, official publications, notifications, websites, reports, and other secondary reference materials.\n\nGiven the breadth and dynamic nature of the Government support ecosystem, this playbook may not be exhaustive. While every effort has been made to include a wide range of relevant initiatives, certain schemes, programmes, or opportunities may not have been captured, may have undergone modifications, or may not be active or open for applications at a particular point in time. Several schemes operate through specific application windows, calls for proposals, periodic notifications, or time-bound implementation cycles, which may change from time to time.\n\nThe information provided in this playbook is intended solely for general guidance and knowledge dissemination. It presents a high-level summary of schemes and initiatives and should not be construed as a substitute for the detailed guidelines, notifications, eligibility conditions, or directions issued by the respective Ministry, Department, implementing agency, or other competent authority.\n\nReaders are encouraged to consult the official websites, notifications, and communications of the concerned Ministries, Departments, and implementing agencies for the latest and most comprehensive information, including eligibility criteria, application processes, timelines, and other operational details.\n\nWhile reasonable care has been taken in compiling and presenting the information, the authors and publishers make no representation regarding the completeness, accuracy, or continued availability of any scheme or programme. Any decisions, applications, or actions taken based on the contents of this playbook should be undertaken after appropriate verification of the applicable scheme guidelines and requirements.",
+ "objective": "This Playbook consolidates Central Government schemes and incentives relevant to India's startup ecosystem into a single, usable reference document. It is designed to help entrepreneurs find the right scheme for their stage and sector.",
+ "whoItIsFor": [
+  "Entrepreneurs & Founders",
+  "Students & Aspiring Entrepreneurs",
+  "Investors & Incubators",
+  "Policymakers & Intermediaries"
+ ],
+ "howToUse": "1. Start with the Decision Tree. Answer 5 quick questions to find schemes suited to you. 2. Check the \"What Do You Need?\" Index for a need-based view (grant, equity, loan, etc.). 3. Use the Lifecycle Map to find schemes matching your stage of growth. 4. Explore the Summary Table for a structured overview of all schemes with key details. 5. Deep dive into Scheme One-Pagers for full scheme details including how to apply. Startup Focus Legend: Startup-Specific — startups are the primary or sole eligible beneficiary explicitly named in scheme eligibility; Startup-Relevant — broader eligibility (MSMEs, companies, institutions) but startups regularly benefit and apply.",
+ "stats": {
+  "schemesCovered": "65+",
+  "ministries": "35+",
+  "supportCategories": 6,
+  "lifecycleStages": [
+   "Ideation",
+   "Prototype / PoC",
+   "Seed / early stage",
+   "Growth / Scaling",
+   "Market Access & IP"
+  ],
+  "sectorsHighlighted": [
+   "Defence & Allied",
+   "Biotec & Allied",
+   "Semicon & Electronics",
+   "Space",
+   "Agriculture & Food",
+   "Quantum Tech"
+  ]
+ },
+ "supportCategories": [
+  {
+   "name": "GRANT",
+   "description": "Fund given with no repayment needed, no equity given up."
+  },
+  {
+   "name": "EQUITY",
+   "description": "Investment in exchange for a stake in your startup."
+  },
+  {
+   "name": "LOAN / CREDIT",
+   "description": "Repayable loan or credit guarantee to help access debt."
+  },
+  {
+   "name": "INCUBATION",
+   "description": "Access to lab, workspace, mentoring and ecosystem support."
+  },
+  {
+   "name": "MARKET ACCESS",
+   "description": "Pathways to sell, export, or access procurement markets."
+  },
+  {
+   "name": "MIXED",
+   "description": "Combination of the above as well any other types of support provided to startups."
+  }
+ ],
+ "structure": "The front matter comprises a disclaimer (page 2), an 'About this Playbook' overview with headline stats, support categories, startup lifecycle coverage and industry/sector coverage (page 5), the Objective / Who It Is For / How to Use This Playbook / Focus Legend page (page 6), and a two-page List of Abbreviations of Schemes and Programmes covering roughly 50 scheme acronyms from SISFS through ESDP (pages 7-8). The body then begins at page 9 with SECTION 1 'Quick Navigation' ('Your fastest route to the right scheme / program'), which per the how-to-use guidance contains the Decision Tree, the 'What Do You Need?' need-based index, the Lifecycle Map and the Summary Table, followed later by detailed Scheme One-Pagers with full scheme details including how to apply."
+}

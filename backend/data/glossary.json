@@ -1,0 +1,68 @@
+{
+ "terms": [
+  {
+   "term": "DPIIT-Recognised Startup",
+   "definition": "A startup officially recognised by the Department for Promotion of Industry & Internal Trade (DPIIT) as per notified eligibility criteria."
+  },
+  {
+   "term": "Fund of Funds (FoF)",
+   "definition": "A fund that invests in other venture funds (AIFs) rather than directly in startups. Startups receive funding when their venture fund makes an investment."
+  },
+  {
+   "term": "AIF (Alternative Investment Fund)",
+   "definition": "SEBI-registered private investment fund that pools capital from investors and deploys into startups/companies."
+  },
+  {
+   "term": "Credit Guarantee",
+   "definition": "A government-backed promise to repay a lender if the borrower (startup) defaults. Enables startups to access loans without pledging collateral."
+  },
+  {
+   "term": "Grant",
+   "definition": "Non-repayable financial assistance provided by the government. The startup does not repay the money and does not give equity."
+  },
+  {
+   "term": "Equity Investment",
+   "definition": "Capital provided in exchange for ownership stake (shares) in the startup. The investor becomes a part-owner."
+  },
+  {
+   "term": "Convertible Debt",
+   "definition": "A loan that can convert into equity at a later stage. Used when valuation is uncertain at the time of investment."
+  },
+  {
+   "term": "Proof of Concept (PoC)",
+   "definition": "Early demonstration that an idea or technology works, typically in a lab or controlled setting. Pre-prototype stage."
+  },
+  {
+   "term": "TRL (Technology Readiness Level)",
+   "definition": "A 1–9 scale measuring how mature a technology is. TRL-1 = basic research; TRL-9 = fully commercial system."
+  },
+  {
+   "term": "TBI (Technology Business Incubator)",
+   "definition": "An institution providing physical space, mentoring, seed funding and networks to early-stage technology startups."
+  },
+  {
+   "term": "Incubator / Accelerator",
+   "definition": "Organisations that support startups at early stages (incubator) or fast-track growth of already-validated startups (accelerator)."
+  },
+  {
+   "term": "EMD (Earnest Money Deposit)",
+   "definition": "A security deposit required in government tenders. DPIIT-recognised startups are exempt from EMD on GeM."
+  },
+  {
+   "term": "SEBI",
+   "definition": "Securities and Exchange Board of India."
+  },
+  {
+   "term": "CGPDTM",
+   "definition": "Office of the Controller General of Patents, Designs & Trade Marks."
+  },
+  {
+   "term": "Startup-Specific",
+   "definition": "In this Playbook: schemes where startups are the primary or sole named eligible beneficiary in the scheme’s eligibility criteria."
+  },
+  {
+   "term": "Startup-Relevant",
+   "definition": "In this Playbook: schemes with broader eligibility (MSMEs, companies, institutions) that startups commonly access and benefit from."
+  }
+ ]
+}

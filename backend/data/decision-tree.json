@@ -1,0 +1,598 @@
+{
+  "intro": "Answer the questions below in order. Each branch points you to the most relevant schemes. You can appear in more than one branch.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Are you a student or early-stage researcher / aspiring entrepreneur (not yet a registered startup)?",
+      "branches": [
+        {
+          "label": "Yes",
+          "note": "",
+          "schemes": [
+            {
+              "name": "NIDHI-EIR",
+              "qual": "",
+              "slug": "nidhi-eir",
+              "category": "grant",
+              "full": "NIDHI – Entrepreneur in Residence",
+              "tagline": "Monthly fellowship of ₹10,000–₹30,000 for up to 18 months, plus co-working space and mentoring to turn your startup idea into a business."
+            },
+            {
+              "name": "E-YUVA",
+              "qual": "",
+              "slug": "e-yuva",
+              "category": "grant",
+              "full": "Empowering Youth for Undertaking Value Added Innovative Translational Research",
+              "tagline": "Gives students and young researchers fellowships of ₹30,000-₹50,000 a month plus research grants up to ₹5 lakh for biotech ideas."
+            },
+            {
+              "name": "SITARE",
+              "qual": "",
+              "slug": "sitare",
+              "category": "grant",
+              "full": "Students Innovations for Translation & Advancement of Research Explorations",
+              "tagline": "Grants up to ₹15 lakh plus training and mentoring for biotech student innovators to turn research ideas into startups."
+            },
+            {
+              "name": "Atal Tinkering Labs",
+              "qual": "",
+              "slug": "atal-tinkering-labs",
+              "category": "grant",
+              "full": "Atal Innovation Mission – Atal Tinkering Labs",
+              "tagline": "Gives schools a ₹20 lakh grant-in-aid to set up Atal Tinkering Labs where students learn STEM and innovation skills."
+            }
+          ]
+        },
+        {
+          "label": "No",
+          "note": "You are either a registered or incorporated startup. Continue below.",
+          "schemes": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is your current startup stage?",
+      "branches": [
+        {
+          "label": "Idea / PoC Stage: Grants to start",
+          "note": "",
+          "schemes": [
+            {
+              "name": "BIG",
+              "qual": "",
+              "slug": "big",
+              "category": "grant",
+              "full": "Biotechnology Ignition Grant Scheme",
+              "tagline": "Grant-in-aid of up to ₹50 lakh over 18 months for biotech startups and entrepreneurs to turn scientific ideas into products."
+            },
+            {
+              "name": "PRAYAS 2.0",
+              "qual": "",
+              "slug": "nidhi-prayas",
+              "category": "grant",
+              "full": "NIDHI – Promotion and Acceleration of Young and Aspiring Technology Entrepreneurs (PRAYAS) 2.0",
+              "tagline": "Prototyping grants of up to ₹20 lakh (₹40 lakh at deep-tech APCs) for innovators and young startups via PRAYAS Centres."
+            },
+            {
+              "name": "RKVY",
+              "qual": "",
+              "slug": "rkvy",
+              "category": "grant",
+              "full": "Innovation & Agri-Entrepreneurship Program",
+              "tagline": "Pre-seed grants up to ₹5 lakh and seed grants up to ₹25 lakh with incubation and mentoring for DPIIT-recognised agri-startups."
+            },
+            {
+              "name": "SPARSH",
+              "qual": "",
+              "slug": "sparsh",
+              "category": "grant",
+              "full": "Social Innovation Programme for Products Affordable & Relevant to Social Health",
+              "tagline": "Grant-in-aid of up to ₹50 lakh over 18 months to build affordable healthcare products for underserved communities."
+            },
+            {
+              "name": "GREAT",
+              "qual": "",
+              "slug": "great",
+              "category": "grant",
+              "full": "Grant for Research & Entrepreneurship across Aspiring Innovators in Technical Textiles",
+              "tagline": "Grant-in-aid up to ₹50 lakh plus incubator support to turn technical-textile prototypes into market-ready products."
+            }
+          ]
+        },
+        {
+          "label": "Prototype and beyond: Ready to build",
+          "note": "",
+          "schemes": [
+            {
+              "name": "SISFS",
+              "qual": "",
+              "slug": "sisfs",
+              "category": "mixed",
+              "full": "Startup India Seed Fund Scheme",
+              "tagline": "Get up to ₹20 lakh in grants and ₹50 lakh in investment to validate your idea, build a prototype, and enter the market."
+            },
+            {
+              "name": "NIDHI-SSP",
+              "qual": "",
+              "slug": "nidhi-ssp",
+              "category": "equity",
+              "full": "NIDHI – Seed Support Program",
+              "tagline": "Seed support through NIDHI STEPs/TBIs for incubated DPIIT startups to fund product development, testing, trials and mentoring."
+            },
+            {
+              "name": "TIDE 2.0",
+              "qual": "",
+              "slug": "tide-2",
+              "category": "incubation",
+              "full": "TIDE 2.0 – Technology Incubation & Development of Entrepreneurs",
+              "tagline": "Grants from ₹4 lakh to ₹40 lakh plus incubation and mentoring for DPIIT-recognised IT startups, from idea to market-ready product."
+            },
+            {
+              "name": "iDEX",
+              "qual": "",
+              "slug": "idex",
+              "category": "grant",
+              "full": "Innovations for Defence Excellence",
+              "tagline": "Defence innovation grants of ₹1.5–10 crore plus incubator support for startups and MSMEs solving military challenges."
+            },
+            {
+              "name": "IN-SPACe Seed Fund",
+              "qual": "",
+              "slug": "in-space-seed-fund",
+              "category": "grant",
+              "full": "IN-SPACe Seed Fund Scheme",
+              "tagline": "Grants of ₹1 crore plus mentoring for DPIIT-recognised early-stage space startups moving ideas from concept to prototype."
+            },
+            {
+              "name": "DCIS",
+              "qual": "",
+              "slug": "dcis",
+              "category": "grant",
+              "full": "Digital Communication Innovation Square",
+              "tagline": "Milestone-based telecom R&D funding — up to ₹50 lakh for startups, ₹2 crore for MSMEs, ₹10 crore for bigger technology products."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What type of support do you primarily need?",
+      "branches": [
+        {
+          "label": "Grant (funding with no repayment)",
+          "note": "",
+          "schemes": [
+            {
+              "name": "SISFS",
+              "qual": "",
+              "slug": "sisfs",
+              "category": "mixed",
+              "full": "Startup India Seed Fund Scheme",
+              "tagline": "Get up to ₹20 lakh in grants and ₹50 lakh in investment to validate your idea, build a prototype, and enter the market."
+            },
+            {
+              "name": "BIG",
+              "qual": "",
+              "slug": "big",
+              "category": "grant",
+              "full": "Biotechnology Ignition Grant Scheme",
+              "tagline": "Grant-in-aid of up to ₹50 lakh over 18 months for biotech startups and entrepreneurs to turn scientific ideas into products."
+            },
+            {
+              "name": "iDEX",
+              "qual": "",
+              "slug": "idex",
+              "category": "grant",
+              "full": "Innovations for Defence Excellence",
+              "tagline": "Defence innovation grants of ₹1.5–10 crore plus incubator support for startups and MSMEs solving military challenges."
+            },
+            {
+              "name": "ADITI",
+              "qual": "",
+              "slug": "aditi",
+              "category": "grant",
+              "full": "Acing Development of Innovative Technologies with iDEX",
+              "tagline": "Grants up to ₹25 crore (50% of product budget) for startups building strategic defence and aerospace technologies via iDEX challenges."
+            },
+            {
+              "name": "PRAYAS 2.0",
+              "qual": "",
+              "slug": "nidhi-prayas",
+              "category": "grant",
+              "full": "NIDHI – Promotion and Acceleration of Young and Aspiring Technology Entrepreneurs (PRAYAS) 2.0",
+              "tagline": "Prototyping grants of up to ₹20 lakh (₹40 lakh at deep-tech APCs) for innovators and young startups via PRAYAS Centres."
+            },
+            {
+              "name": "DCIS",
+              "qual": "",
+              "slug": "dcis",
+              "category": "grant",
+              "full": "Digital Communication Innovation Square",
+              "tagline": "Milestone-based telecom R&D funding — up to ₹50 lakh for startups, ₹2 crore for MSMEs, ₹10 crore for bigger technology products."
+            },
+            {
+              "name": "IN-SPACe Seed Fund",
+              "qual": "",
+              "slug": "in-space-seed-fund",
+              "category": "grant",
+              "full": "IN-SPACe Seed Fund Scheme",
+              "tagline": "Grants of ₹1 crore plus mentoring for DPIIT-recognised early-stage space startups moving ideas from concept to prototype."
+            },
+            {
+              "name": "RKVY",
+              "qual": "",
+              "slug": "rkvy",
+              "category": "grant",
+              "full": "Innovation & Agri-Entrepreneurship Program",
+              "tagline": "Pre-seed grants up to ₹5 lakh and seed grants up to ₹25 lakh with incubation and mentoring for DPIIT-recognised agri-startups."
+            },
+            {
+              "name": "SPARSH",
+              "qual": "",
+              "slug": "sparsh",
+              "category": "grant",
+              "full": "Social Innovation Programme for Products Affordable & Relevant to Social Health",
+              "tagline": "Grant-in-aid of up to ₹50 lakh over 18 months to build affordable healthcare products for underserved communities."
+            },
+            {
+              "name": "GREAT",
+              "qual": "",
+              "slug": "great",
+              "category": "grant",
+              "full": "Grant for Research & Entrepreneurship across Aspiring Innovators in Technical Textiles",
+              "tagline": "Grant-in-aid up to ₹50 lakh plus incubator support to turn technical-textile prototypes into market-ready products."
+            },
+            {
+              "name": "NQM",
+              "qual": "",
+              "slug": "nqm",
+              "category": "grant",
+              "full": "National Quantum Mission",
+              "tagline": "Seed, prototype and scale-up funding for quantum technology startups and R&D routed through NQM Thematic Hubs."
+            }
+          ]
+        },
+        {
+          "label": "Equity Investment (you give a stake)",
+          "note": "",
+          "schemes": [
+            {
+              "name": "FFS",
+              "qual": "",
+              "slug": "ffs",
+              "category": "equity",
+              "full": "Fund of Funds for Startups",
+              "tagline": "A ₹10,000 crore fund that backs SEBI-registered venture funds (AIFs), which in turn invest equity in DPIIT-recognised startups."
+            },
+            {
+              "name": "Startup India FoF 2.0",
+              "qual": "",
+              "slug": "ffs-2",
+              "category": "equity",
+              "full": "Startup India Fund of Funds 2.0",
+              "tagline": "A new ₹10,000 crore fund of funds channeling capital through AIFs into deep tech, manufacturing and other priority startups."
+            },
+            {
+              "name": "AcE",
+              "qual": "",
+              "slug": "ace",
+              "category": "equity",
+              "full": "Biotechnology Innovation Fund – Accelerating Entrepreneurs",
+              "tagline": "BIRAC fund of funds whose partner AIFs invest up to ₹7 crore equity (plus ₹3.5 crore follow-on) in scaling biotech startups."
+            },
+            {
+              "name": "AgriSURE",
+              "qual": "",
+              "slug": "agrisure",
+              "category": "equity",
+              "full": "Agri Fund for Startups & Rural Enterprises",
+              "tagline": "A ₹750 crore blended fund investing up to ₹25 crore per startup in agriculture and rural enterprises, plus incubation support."
+            },
+            {
+              "name": "BIRAC SEED",
+              "qual": "",
+              "slug": "birac-seed",
+              "category": "equity",
+              "full": "BIRAC Incubator SEED Fund",
+              "tagline": "Seed equity funding of up to ₹30 lakh, routed through incubators, for biotech, med-tech and life sciences startups."
+            },
+            {
+              "name": "LEAP Fund",
+              "qual": "",
+              "slug": "leap-fund",
+              "category": "equity",
+              "full": "LEAP Fund – Launching Entrepreneurial Driven Affordable Products",
+              "tagline": "Equity funding above ₹30 lakh and up to ₹1 crore per startup to help biotech startups pilot and commercialise products."
+            },
+            {
+              "name": "SAMRIDH",
+              "qual": "",
+              "slug": "samridh",
+              "category": "equity",
+              "full": "Startup Accelerators of MeitY for Product Innovation, Development & Growth",
+              "tagline": "Up to ₹40 lakh investment plus equal matching private funding and acceleration services to scale your IT product startup."
+            },
+            {
+              "name": "Antariksh VCF",
+              "qual": "",
+              "slug": "antariksh-vcf",
+              "category": "equity",
+              "full": "Antariksh Venture Capital Fund/ Space VCF",
+              "tagline": "A ₹1,005 crore government-anchored VC fund that makes equity investments in unlisted Indian space companies at TRL 4 and above."
+            },
+            {
+              "name": "NIDHI-SSP",
+              "qual": "",
+              "slug": "nidhi-ssp",
+              "category": "equity",
+              "full": "NIDHI – Seed Support Program",
+              "tagline": "Seed support through NIDHI STEPs/TBIs for incubated DPIIT startups to fund product development, testing, trials and mentoring."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Do you need a loan / credit or IP / Other support?",
+      "branches": [
+        {
+          "label": "Loan / Credit Guarantee",
+          "note": "",
+          "schemes": [
+            {
+              "name": "CGSS",
+              "qual": "",
+              "slug": "cgss",
+              "category": "loan-credit",
+              "full": "Credit Guarantee Scheme for Startups",
+              "tagline": "Government guarantees up to ₹20 crore on loans to DPIIT-recognised startups, so lenders can fund you without collateral."
+            },
+            {
+              "name": "CGTMSE",
+              "qual": "",
+              "slug": "cgtmse",
+              "category": "loan-credit",
+              "full": "Credit Guarantee Trust Fund for Micro & Small Enterprises",
+              "tagline": "Get collateral-free bank loans as a micro or small enterprise, with the trust guaranteeing cover of up to ₹10 crore per borrower."
+            },
+            {
+              "name": "PMMY",
+              "qual": "",
+              "slug": "pmmy",
+              "category": "loan-credit",
+              "full": "Pradhan Mantri Mudra Yojana",
+              "tagline": "Collateral-free Mudra loans up to ₹20 lakh from banks, NBFCs and MFIs to start, run or expand a small business."
+            },
+            {
+              "name": "Stand Up India",
+              "qual": "",
+              "slug": "stand-up-india",
+              "category": "loan-credit",
+              "full": "Stand-Up India",
+              "tagline": "Bank loans between ₹10 lakh and ₹1 crore for SC/ST and women entrepreneurs setting up their first greenfield business."
+            }
+          ]
+        },
+        {
+          "label": "IP Protection / Market Access",
+          "note": "",
+          "schemes": [
+            {
+              "name": "SIPP",
+              "qual": "",
+              "slug": "sipp",
+              "category": "market-access",
+              "full": "Scheme for Facilitating Startups Intellectual Property Protection",
+              "tagline": "Free IP facilitator support to file patents, trademarks and designs — startups pay only statutory government fees."
+            },
+            {
+              "name": "GeM Startup Runway",
+              "qual": "",
+              "slug": "gem-startup-runway",
+              "category": "market-access",
+              "full": "GeM Startup Runway",
+              "tagline": "Sell your innovative products directly to government buyers on GeM, with exemptions from prior turnover, experience and EMD requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Are you in a specific strategic or deep-tech sector?",
+      "branches": [
+        {
+          "label": "Defence / Allied",
+          "note": "",
+          "schemes": [
+            {
+              "name": "iDEX",
+              "qual": "",
+              "slug": "idex",
+              "category": "grant",
+              "full": "Innovations for Defence Excellence",
+              "tagline": "Defence innovation grants of ₹1.5–10 crore plus incubator support for startups and MSMEs solving military challenges."
+            },
+            {
+              "name": "ADITI",
+              "qual": "",
+              "slug": "aditi",
+              "category": "grant",
+              "full": "Acing Development of Innovative Technologies with iDEX",
+              "tagline": "Grants up to ₹25 crore (50% of product budget) for startups building strategic defence and aerospace technologies via iDEX challenges."
+            },
+            {
+              "name": "TDF",
+              "qual": "",
+              "slug": "tdf",
+              "category": "grant",
+              "full": "Technology Development Fund",
+              "tagline": "DRDO grants covering up to 90% of a ₹10 crore project cost for Indian companies and startups developing defence technologies."
+            }
+          ]
+        },
+        {
+          "label": "Space",
+          "note": "",
+          "schemes": [
+            {
+              "name": "IN-SPACe Seed Fund",
+              "qual": "",
+              "slug": "in-space-seed-fund",
+              "category": "grant",
+              "full": "IN-SPACe Seed Fund Scheme",
+              "tagline": "Grants of ₹1 crore plus mentoring for DPIIT-recognised early-stage space startups moving ideas from concept to prototype."
+            },
+            {
+              "name": "Antariksh VCF",
+              "qual": "",
+              "slug": "antariksh-vcf",
+              "category": "equity",
+              "full": "Antariksh Venture Capital Fund/ Space VCF",
+              "tagline": "A ₹1,005 crore government-anchored VC fund that makes equity investments in unlisted Indian space companies at TRL 4 and above."
+            },
+            {
+              "name": "Space TAF",
+              "qual": "",
+              "slug": "space-taf",
+              "category": "grant",
+              "full": "Space Technology Adoption Fund",
+              "tagline": "Funds up to 60% of project cost (capped at ₹25 crore) to help space companies turn TRL-3/4 technologies into market-ready products."
+            }
+          ]
+        },
+        {
+          "label": "Biotech / Allied",
+          "note": "",
+          "schemes": [
+            {
+              "name": "BIG",
+              "qual": "",
+              "slug": "big",
+              "category": "grant",
+              "full": "Biotechnology Ignition Grant Scheme",
+              "tagline": "Grant-in-aid of up to ₹50 lakh over 18 months for biotech startups and entrepreneurs to turn scientific ideas into products."
+            },
+            {
+              "name": "BIRAC SEED",
+              "qual": "",
+              "slug": "birac-seed",
+              "category": "equity",
+              "full": "BIRAC Incubator SEED Fund",
+              "tagline": "Seed equity funding of up to ₹30 lakh, routed through incubators, for biotech, med-tech and life sciences startups."
+            },
+            {
+              "name": "LEAP Fund",
+              "qual": "",
+              "slug": "leap-fund",
+              "category": "equity",
+              "full": "LEAP Fund – Launching Entrepreneurial Driven Affordable Products",
+              "tagline": "Equity funding above ₹30 lakh and up to ₹1 crore per startup to help biotech startups pilot and commercialise products."
+            },
+            {
+              "name": "SPARSH",
+              "qual": "",
+              "slug": "sparsh",
+              "category": "grant",
+              "full": "Social Innovation Programme for Products Affordable & Relevant to Social Health",
+              "tagline": "Grant-in-aid of up to ₹50 lakh over 18 months to build affordable healthcare products for underserved communities."
+            },
+            {
+              "name": "AcE",
+              "qual": "",
+              "slug": "ace",
+              "category": "equity",
+              "full": "Biotechnology Innovation Fund – Accelerating Entrepreneurs",
+              "tagline": "BIRAC fund of funds whose partner AIFs invest up to ₹7 crore equity (plus ₹3.5 crore follow-on) in scaling biotech startups."
+            },
+            {
+              "name": "SBIRI",
+              "qual": "",
+              "slug": "sbiri",
+              "category": "grant",
+              "full": "Small Business Innovation Research Initiative",
+              "tagline": "100% BIRAC grant-in-aid up to ₹50 lakh (partial above that) for biotech startups developing and validating products with partners."
+            }
+          ]
+        },
+        {
+          "label": "Agriculture / Food",
+          "note": "",
+          "schemes": [
+            {
+              "name": "RKVY",
+              "qual": "",
+              "slug": "rkvy",
+              "category": "grant",
+              "full": "Innovation & Agri-Entrepreneurship Program",
+              "tagline": "Pre-seed grants up to ₹5 lakh and seed grants up to ₹25 lakh with incubation and mentoring for DPIIT-recognised agri-startups."
+            },
+            {
+              "name": "AgriSURE",
+              "qual": "",
+              "slug": "agrisure",
+              "category": "equity",
+              "full": "Agri Fund for Startups & Rural Enterprises",
+              "tagline": "A ₹750 crore blended fund investing up to ₹25 crore per startup in agriculture and rural enterprises, plus incubation support."
+            },
+            {
+              "name": "BHARATI",
+              "qual": "",
+              "slug": "bharati",
+              "category": "market-access",
+              "full": "Bharat’s Hub for Agritech, Resilience, Advancement & Incubation for Export Innovation",
+              "tagline": "APEDA acceleration, market access, and ecosystem connections to make agri-food and agritech startups export-ready."
+            }
+          ]
+        },
+        {
+          "label": "Semicon / Electronics",
+          "note": "",
+          "schemes": [
+            {
+              "name": "DLI",
+              "qual": "",
+              "slug": "dli",
+              "category": "mixed",
+              "full": "Design Linked Incentive Scheme",
+              "tagline": "EDA tools, IP cores and incentives up to ₹15 crore (design) plus ₹30 crore (deployment) for Indian chip-design startups and MSMEs."
+            },
+            {
+              "name": "Chips to Startup (C2S)",
+              "qual": "",
+              "slug": "c2s",
+              "category": "incubation",
+              "full": "Chips to Startup Programme",
+              "tagline": "Financial and technical support, EDA tools, and fab access for chip-design projects by institutions, startups, and MSMEs."
+            },
+            {
+              "name": "GENESIS",
+              "qual": "",
+              "slug": "genesis",
+              "category": "grant",
+              "full": "Gen-Next Support for Innovative Startups",
+              "tagline": "Funding from ₹10 lakh up to ₹1 crore plus mentoring and infrastructure for tech startups in Tier-II and Tier-III cities."
+            }
+          ]
+        },
+        {
+          "label": "Quantum Technology",
+          "note": "",
+          "schemes": [
+            {
+              "name": "NQM Startup Support",
+              "qual": "",
+              "slug": "nqm",
+              "category": "grant",
+              "full": "National Quantum Mission",
+              "tagline": "Seed, prototype and scale-up funding for quantum technology startups and R&D routed through NQM Thematic Hubs."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

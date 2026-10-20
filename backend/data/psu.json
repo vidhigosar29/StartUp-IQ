@@ -1,0 +1,107 @@
+{
+ "intro": "",
+ "programs": [
+  {
+   "organization": "Oil and Natural Gas Corporation (ONGC)",
+   "program": "ONGC Startup Fund",
+   "description": "",
+   "url": "https://startup.ongc.co.in/web/ongcstartup"
+  },
+  {
+   "organization": "Bharat Heavy Electricals Limited (BHEL)",
+   "program": "SanRachna Platform",
+   "description": "",
+   "url": "https://sanrachna.bhel.in/home"
+  },
+  {
+   "organization": "Bharat Petroleum (BPCL)",
+   "program": "Project Ankur / Ankur Fund",
+   "description": "",
+   "url": "https://ebiz.bpc.co.in/BPCLStartup/"
+  },
+  {
+   "organization": "Bharat Petroleum (BPCL)",
+   "program": "Launch Pad for Entrepreneurship",
+   "description": "",
+   "url": "https://www.bharatpetroleum.in/bharat-petroleum-for/startups/launch-pad-for-entrepreneurship"
+  },
+  {
+   "organization": "Coal India (CIL)",
+   "program": "CIL Innovation & Incubation Centre (CII Centre)",
+   "description": "",
+   "url": "https://ciicentre.iitism.ac.in/"
+  },
+  {
+   "organization": "GAIL (India) Limited",
+   "program": "Pankh",
+   "description": "",
+   "url": "https://gailebank.gail.co.in/GSUICBG/frmStartUpGAIL.aspx; https://www.gailonline.com/PressRelease_01042025.html"
+  },
+  {
+   "organization": "Hindustan Petroleum (HPCL)",
+   "program": "HP Udgam",
+   "description": "",
+   "url": "https://startup.hpcl.co.in/HPCLStartup/index.jsp"
+  },
+  {
+   "organization": "Indian Oil (IOCL)",
+   "program": "IndS_UP StartUp Scheme",
+   "description": "",
+   "url": "https://iocl.com/pages/r-and-d-centre"
+  },
+  {
+   "organization": "Steel Authority of India Limited (SAIL)",
+   "program": "Startup Connect",
+   "description": "",
+   "url": "https://webapp.sailcorp.in/startup/"
+  },
+  {
+   "organization": "Oil India (OIL)",
+   "program": "Start Up Fund",
+   "description": "",
+   "url": "https://www.oil-india.com/start-fund"
+  },
+  {
+   "organization": "Engineers India Limited",
+   "program": "EngSUI",
+   "description": "",
+   "url": "https://www6.eil.co.in/engsui/Open/Default.aspx; https://www.engineersindia.com/startup-india@eil"
+  },
+  {
+   "organization": "Bharat Dynamics Limited",
+   "program": "BDL Start Ups",
+   "description": "",
+   "url": "https://bdl-india.in/en/start-ups"
+  },
+  {
+   "organization": "EXIM Bank",
+   "program": "Ubharte Sitaare",
+   "description": "",
+   "url": "https://www.sidbiventure.co.in/ubharte_sitaare_fund.html"
+  },
+  {
+   "organization": "Reserve Bank of India",
+   "program": "Regulatory sandbox",
+   "description": "",
+   "url": "https://fintech.rbi.org.in/FS_Publications?id=1262"
+  },
+  {
+   "organization": "Insurance Regulatory and Development Authority of India (IRDAI)",
+   "program": "Regulatory sandbox",
+   "description": "",
+   "url": "https://irdai.gov.in/document-detail?documentId=6541188"
+  },
+  {
+   "organization": "International Financial Services Centres Authority (IFSCA)",
+   "program": "Regulatory sandbox",
+   "description": "",
+   "url": "https://ifsca.gov.in/Legal/Index?MId=IeTjhim8HvY="
+  },
+  {
+   "organization": "Securities and Exchange Board of India (SEBI)",
+   "program": "Regulatory sandbox",
+   "description": "",
+   "url": "https://www.sebi.gov.in/legal/circulars/jun-2021/revised-framework-for-regulatory-sandbox_50521.html"
+  }
+ ]
+}

@@ -1,0 +1,3257 @@
+{
+ "intro": "Every Indian state and union territory runs its own startup policy on top of the central schemes — seed grants, sustenance allowances, patent and marketing reimbursements, SGST refunds, lease-rental and power subsidies, and preferential public procurement. State benefits stack with central ones. This index gathers the concrete schemes and incentives each state offers, straight from its official startup policy — kept separate from the central playbook.",
+ "states": [
+  {
+   "state": "Andaman and Nicobar Islands",
+   "policy": "Andaman & Nicobar Islands Innovation and Startup Policy 2018 (operationalised via the A & N Islands Startup Funding and Incentives Scheme 2019)",
+   "period": "",
+   "portal": "http://ls1.and.nic.in/startupindia/index.php",
+   "nodalAgency": "Directorate of Industries, Andaman and Nicobar Administration",
+   "summary": "A&N was the first UT with a dedicated startup policy (2018), delivered through a detailed funding and incentives scheme (2019) offering monthly sustenance allowances, growth grants, subsidies and reimbursements to recognized startups.",
+   "sectors": [],
+   "email": "sunitakumari.ad@and.nic.in",
+   "phone": "03192-231517",
+   "schemes": [
+    {
+     "name": "Startup Monthly Allowance (Sustenance)",
+     "type": "Grant",
+     "benefit": "Rs 15,000/month (Rs 20,000/month for women/SC/ST/SEBC/PH founders) for 1 year",
+     "description": "Monthly sustenance allowance to support founders during the early stage.",
+     "eligibility": "Eligible recognized startups; higher rate for women/reserved-category founders",
+     "url": ""
+    },
+    {
+     "name": "Startup Growth Grant",
+     "type": "Grant",
+     "benefit": "Up to Rs 3 lakh (one-time)",
+     "description": "One-time grant to help startups develop their product/service.",
+     "eligibility": "Startups meeting eligibility criteria",
+     "url": ""
+    },
+    {
+     "name": "Marketing Assistance",
+     "type": "Grant",
+     "benefit": "Up to Rs 3 lakh (one-time)",
+     "description": "One-time support for marketing and publicity expenditure.",
+     "eligibility": "DPIIT-recognized startups",
+     "url": ""
+    },
+    {
+     "name": "Subsidized Incubation / Co-working",
+     "type": "Subsidy",
+     "benefit": "50% subsidy, max Rs 5,000/month for 1 year",
+     "description": "Subsidy on incubation or co-working space rental.",
+     "eligibility": "Recognized startups",
+     "url": ""
+    },
+    {
+     "name": "Power Subsidy",
+     "type": "Subsidy",
+     "benefit": "50% subsidy, max Rs 5 lakh per annum for 3 years",
+     "description": "Subsidy on power/electricity costs for eligible startups.",
+     "eligibility": "Recognized startups",
+     "url": ""
+    },
+    {
+     "name": "GST Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Up to Rs 3 lakh per year for 3 years",
+     "description": "Reimbursement of goods and services tax paid by the startup.",
+     "eligibility": "DPIIT-recognized startups",
+     "url": ""
+    },
+    {
+     "name": "Patent Cost Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Full reimbursement of filing/prosecution costs",
+     "description": "Reimbursement of patent filing and prosecution expenses.",
+     "eligibility": "Recognized startups",
+     "url": ""
+    },
+    {
+     "name": "Digital Technology Subsidy",
+     "type": "Subsidy",
+     "benefit": "50% of capital expenditure, max Rs 1 lakh",
+     "description": "Reimbursement of half the capital cost of computers and related hardware.",
+     "eligibility": "Recognized startups",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "state": "Andhra Pradesh",
+   "policy": "Andhra Pradesh Innovation & Startup Policy (4.0) 2024-2029",
+   "period": "2024-2029",
+   "portal": "https://apis.ap.gov.in/",
+   "nodalAgency": "Andhra Pradesh Innovation Society (APIS), Department of Information Technology, Electronics & Communications",
+   "summary": "Andhra Pradesh runs its startup ecosystem through the AP Innovation Society (APIS), offering phased grants, equity-based seed funding, and a range of reimbursements (SGST, patents, marketing, interest) to registered startups and student innovators.",
+   "sectors": [
+    "IT/ITeS",
+    "Deep Tech",
+    "Advanced Technology"
+   ],
+   "email": "innovationsociety@ap.gov.in",
+   "phone": "+91-7396603335",
+   "schemes": [
+    {
+     "name": "Startup Grants (Idea to Product Viability)",
+     "type": "Grant",
+     "benefit": "Upfront initial grant up to Rs.2 Lakhs; further grant up to Rs.15 Lakhs (total capped at Rs.15 Lakhs)",
+     "description": "Converts innovative ideas into a proof of concept and then supports the startup phase-wise up to product viability. Disbursed in three installments (15%/30%/55%) based on stage and performance.",
+     "eligibility": "Students and startups approved under APISP by the Monitoring and Evaluation Committee (MEC)",
+     "url": ""
+    },
+    {
+     "name": "Grants for Women/BC/SC/ST/Minority/Differently Abled led startups",
+     "type": "Grant",
+     "benefit": "Grant up to Rs.20 Lakhs per startup",
+     "description": "Enhanced phase-wise grant for startups with a founder from Women, BC, SC, ST, Minority, Differently Abled and other underrepresented groups, given until product viability is reached.",
+     "eligibility": "Startups with a founder from Women/BC/SC/ST/Minority/Differently Abled & Others categories",
+     "url": ""
+    },
+    {
+     "name": "Seed Funding with Equity",
+     "type": "Seed funding",
+     "benefit": "Up to Rs.50 Lakhs, based on equity-sharing model",
+     "description": "Seed capital investment to help a startup develop its idea and business to the point of attracting further investment.",
+     "eligibility": "Eligible startups approved under APISP",
+     "url": ""
+    },
+    {
+     "name": "Go-to-Market Support",
+     "type": "Seed funding",
+     "benefit": "Up to Rs.50 Lakhs, based on equity-sharing model",
+     "description": "Funding to help startups commercialize and take their products to market.",
+     "eligibility": "Eligible startups approved under APISP",
+     "url": ""
+    },
+    {
+     "name": "Need-Based Seed Funding for Deeptech & Advanced Tech Startups",
+     "type": "Seed funding",
+     "benefit": "Up to Rs.1 Crore, plus 100% rental subsidy for workstations for 30 employees for one year in notified co-working/neighborhood-work/MSME parks",
+     "description": "Larger need-based seed funding plus workspace rental subsidy targeted at deeptech and advanced technology startups.",
+     "eligibility": "Deeptech and advanced technology startups approved under APISP",
+     "url": ""
+    },
+    {
+     "name": "SGST Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% reimbursement of Net SGST accrued to the state from the startup for 5 years",
+     "description": "Refund of net State GST paid on goods produced by the startup, claimed within six months after completion of the financial year.",
+     "eligibility": "Eligible startups under APISP (capped at 100% of eligible fixed capital investment)",
+     "url": ""
+    },
+    {
+     "name": "Interest Subsidy",
+     "type": "Subsidy",
+     "benefit": "8% of term loan due reimbursed",
+     "description": "Reimbursement of interest cost up to 8% on the balance term loan taken by the startup.",
+     "eligibility": "Eligible startups under APISP with a term loan",
+     "url": ""
+    },
+    {
+     "name": "Patent Filing Cost Reimbursement (IPR)",
+     "type": "Reimbursement",
+     "benefit": "50% of patent expenses, up to Rs.2 Lakh for an India patent and Rs.10 Lakh for a foreign patent",
+     "description": "Reimbursement of patent filing fees to encourage protection of intellectual property.",
+     "eligibility": "Eligible startups under APISP that have filed patents",
+     "url": ""
+    },
+    {
+     "name": "Marketing / Fairs & Events Support",
+     "type": "Reimbursement",
+     "benefit": "75% of cost, up to Rs.3 Lakhs (max 1 event per year per startup)",
+     "description": "Support towards registration, travel, event participation, lodging and boarding expenses for attending fairs and events.",
+     "eligibility": "Eligible startups under APISP with an invitation/registration confirmation from the event organizer",
+     "url": ""
+    },
+    {
+     "name": "Accelerator Program Support",
+     "type": "Reimbursement",
+     "benefit": "50% of program fee, up to Rs.2 Lakhs per program (maximum 2 programs per startup)",
+     "description": "Reimbursement of acceleration program fees on successful completion of the program.",
+     "eligibility": "Eligible startups under APISP",
+     "url": ""
+    },
+    {
+     "name": "Matching Grant for Incubators/CoEs/Accelerators",
+     "type": "Incubation",
+     "benefit": "Up to 100% matching grant under any Government of India scheme, limited to Rs.50 Lakhs",
+     "description": "Support for setting up or expanding incubators, Centres of Excellence and accelerators in government universities or educational institutes in the state.",
+     "eligibility": "Select new or existing incubators/CoEs/accelerators in government universities or educational institutes",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "state": "Arunachal Pradesh",
+   "policy": "Arunachal Pradesh Startup Policy 2022-23",
+   "period": "5 years (from 2022-23)",
+   "portal": "https://www.startup.arunachal.gov.in/",
+   "nodalAgency": "Department of Finance, Planning & Investment (Arunachal Pradesh Innovation and Investment Park, APIIP), Itanagar",
+   "summary": "Arunachal Pradesh's Startup Policy 2022-23 offers a five-year package of grants, reimbursements and procurement support to build the state's startup ecosystem, with dedicated incentives for women-led ventures and support that complements the central Startup India SISFS scheme.",
+   "sectors": [],
+   "email": "arunachal.startups@gmail.com",
+   "phone": "+91 94352 78774",
+   "schemes": [
+    {
+     "name": "Idea Support Grant",
+     "type": "Grant",
+     "benefit": "Rs. 5,00,000 (top 10 winners); Rs. 4,00,000 (next 40 winners)",
+     "description": "One-time grant awarded to selected early-stage ideas to help convert concepts into ventures.",
+     "eligibility": "Selected/winning idea-stage entrepreneurs in the state",
+     "url": ""
+    },
+    {
+     "name": "Proof of Concept / Seed Support",
+     "type": "Seed funding",
+     "benefit": "Up to Rs. 20,00,000 (via central SISFS); up to Rs. 10,00,000 as State support for those not covered under SISFS",
+     "description": "Grant for validation of proof of concept, prototype development or product trials, up to 100% of eligible capital expenditure, targeting 100 startups over five years.",
+     "eligibility": "Recognised startups needing PoC/prototype validation",
+     "url": ""
+    },
+    {
+     "name": "R&D Incentive",
+     "type": "Reimbursement",
+     "benefit": "50% of capital cost, up to Rs. 5,00,000",
+     "description": "Reimbursement of a share of capital cost incurred on research and development activities.",
+     "eligibility": "Eligible state startups undertaking R&D",
+     "url": ""
+    },
+    {
+     "name": "Patent Cost Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% up to Rs. 10,000 (Indian patent); up to Rs. 1,00,000 (international patent)",
+     "description": "Reimbursement of patent filing and processing costs for domestic and international filings.",
+     "eligibility": "Startups filing patents",
+     "url": ""
+    },
+    {
+     "name": "Quality Certification Support",
+     "type": "Reimbursement",
+     "benefit": "100% reimbursement, up to Rs. 5,00,000",
+     "description": "Reimbursement of costs of obtaining quality/standards certifications.",
+     "eligibility": "Eligible state startups",
+     "url": ""
+    },
+    {
+     "name": "Domicile Incentive",
+     "type": "Incentive",
+     "benefit": "Rs. 1,00,000 one-time grant",
+     "description": "One-time incentive for domicile/local startups registered in the state.",
+     "eligibility": "Domiciled startups of Arunachal Pradesh",
+     "url": ""
+    },
+    {
+     "name": "Recruitment Incentive",
+     "type": "Incentive",
+     "benefit": "Rs. 40,000 per employee (women / differently-abled)",
+     "description": "Incentive to encourage startups to recruit women and differently-abled employees.",
+     "eligibility": "Startups hiring women or differently-abled staff",
+     "url": ""
+    },
+    {
+     "name": "Scale-up Grant",
+     "type": "Grant",
+     "benefit": "Up to Rs. 25,00,000 (75% reimbursement)",
+     "description": "Support for scaling operations, including marketing and growth-stage expenditure.",
+     "eligibility": "Growth-stage startups",
+     "url": ""
+    },
+    {
+     "name": "Digital Up-scaling Subsidy",
+     "type": "Subsidy",
+     "benefit": "Up to Rs. 10,00,000 per startup",
+     "description": "Reimbursement for procurement and upgradation of high-end computers, hardware, software and related digital infrastructure.",
+     "eligibility": "Eligible state startups",
+     "url": ""
+    },
+    {
+     "name": "Purchase / Procurement Preference",
+     "type": "Procurement",
+     "benefit": "20% procurement preference; waiver of prior experience, turnover, EMD and bid-security requirements",
+     "description": "Preference and relaxed tender conditions for state startups in government procurement.",
+     "eligibility": "Registered state startups bidding for government tenders",
+     "url": ""
+    },
+    {
+     "name": "Women Entrepreneurship Support",
+     "type": "Grant",
+     "benefit": "Minimum 33% of seed fund reserved for women-led startups; Entrepreneurship Centre for Women with 50% capital grants up to Rs. 2 crore",
+     "description": "Reserved seed funding and a dedicated women's entrepreneurship centre to support women founders.",
+     "eligibility": "Women-led/women-founded startups",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "state": "Assam",
+   "policy": "Assam Startup Policy, 2017",
+   "period": "2017 onwards",
+   "portal": "http://startup.assam.gov.in/",
+   "nodalAgency": "Department of Industries & Commerce, Government of Assam",
+   "summary": "Assam's startup policy supports innovation-driven ventures registered on the state portal (which issues a 'MASI' My Assam Startup ID) and anchored by the state's flagship incubator 'The Nest' in Guwahati, offering sustenance allowance, seed/proof-of-concept grants and a range of reimbursements and subsidies.",
+   "sectors": [
+    "IT/ITeS",
+    "Deep-tech",
+    "Artificial Intelligence",
+    "Agritech",
+    "Biotechnology"
+   ],
+   "email": "startupassam2018@gmail.com",
+   "phone": "1800 345 3957",
+   "schemes": [
+    {
+     "name": "Sustenance Allowance",
+     "type": "Incentive",
+     "benefit": "Rs. 20,000/month per startup for 1 year (additional Rs. 5,000/month for Women/ST/SC/Divyang-led startups)",
+     "description": "Monthly allowance to support founders during the early stage, with preference accorded to women entrepreneurs.",
+     "eligibility": "Startups with valid MASI (My Assam Startup ID)",
+     "url": "https://startup.assam.gov.in/?page_id=1204"
+    },
+    {
+     "name": "Idea2POC (Idea to Proof of Concept) Grant",
+     "type": "Grant",
+     "benefit": "Rs. 5,00,000 one-time per startup",
+     "description": "One-time grant to help develop a product/service from idea stage to proof of concept.",
+     "eligibility": "Startups with valid MASI",
+     "url": "https://startup.assam.gov.in/?page_id=1204"
+    },
+    {
+     "name": "Seed Grant",
+     "type": "Seed funding",
+     "benefit": "Up to Rs. 50,00,000 per startup (inclusive of the Rs. 5,00,000 Idea2POC grant)",
+     "description": "Seed funding support for eligible startups to scale product/service development.",
+     "eligibility": "Startups with valid MASI, as evaluated by nodal agencies",
+     "url": "https://startup.assam.gov.in/?page_id=1204"
+    },
+    {
+     "name": "Patent (IPR) Filing Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% of costs up to Rs. 1 lakh (domestic patent) and up to Rs. 5 lakh (international patent)",
+     "description": "Reimbursement of actual patent filing costs to encourage protection of intellectual property.",
+     "eligibility": "Startups with valid MASI",
+     "url": "https://startup.assam.gov.in/?page_id=1204"
+    },
+    {
+     "name": "Marketing & Promotion Assistance",
+     "type": "Reimbursement",
+     "benefit": "50% of costs, up to Rs. 5 lakh per startup",
+     "description": "Reimbursement of marketing, promotion and related travel costs incurred by the startup.",
+     "eligibility": "Startups with valid MASI",
+     "url": "https://startup.assam.gov.in/?page_id=1204"
+    },
+    {
+     "name": "GST Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Up to Rs. 5 lakh per year for 3 years",
+     "description": "Annual reimbursement of state GST paid on sales of goods.",
+     "eligibility": "Startups with valid MASI",
+     "url": "https://startup.assam.gov.in/?page_id=1204"
+    },
+    {
+     "name": "Lease Rental Reimbursement",
+     "type": "Subsidy",
+     "benefit": "50% of lease rental for 3 years, ceiling Rs. 5 lakh",
+     "description": "Reimbursement of office/workspace lease rental to reduce operating costs.",
+     "eligibility": "Startups with valid MASI",
+     "url": "https://startup.assam.gov.in/?page_id=1204"
+    },
+    {
+     "name": "Power Subsidy",
+     "type": "Subsidy",
+     "benefit": "50% subsidy, max Rs. 10 lakh per year for 5 years",
+     "description": "Subsidy on power/electricity charges for eligible startups.",
+     "eligibility": "Startups with valid MASI",
+     "url": "https://startup.assam.gov.in/?page_id=1204"
+    },
+    {
+     "name": "Stamp Duty Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% of stamp duty/transaction fees on first transaction",
+     "description": "Reimbursement of stamp duty on the first land/property transaction by the startup.",
+     "eligibility": "Startups with valid MASI",
+     "url": "https://startup.assam.gov.in/?page_id=1204"
+    },
+    {
+     "name": "Digital Upgradation Subsidy",
+     "type": "Subsidy",
+     "benefit": "50% of capital expenditure, max Rs. 1 lakh",
+     "description": "Subsidy on capital expenditure incurred for digital upgradation of the startup.",
+     "eligibility": "Startups with valid MASI",
+     "url": "https://startup.assam.gov.in/?page_id=1204"
+    },
+    {
+     "name": "Recruitment Assistance (Women/Transgender/Differently-abled hiring)",
+     "type": "Incentive",
+     "benefit": "Rs. 5,000 per candidate hired, max Rs. 1 lakh over 3 years",
+     "description": "Incentive for employing women, transgender or differently-abled persons.",
+     "eligibility": "Startups with valid MASI",
+     "url": "https://startup.assam.gov.in/?page_id=1204"
+    },
+    {
+     "name": "The Nest - Incubation Support",
+     "type": "Incubation",
+     "benefit": "Incubation space, mentoring and startup support at Guwahati",
+     "description": "Flagship state startup incubator ('The Nest') providing physical incubation, mentorship and ecosystem support.",
+     "eligibility": "Recognised startups / applicants on the Assam Startup portal",
+     "url": "http://startup.assam.gov.in/"
+    }
+   ]
+  },
+  {
+   "state": "Bihar",
+   "policy": "Bihar Startup Policy 2022",
+   "period": "2022 onwards",
+   "portal": "https://startup.bihar.gov.in/",
+   "nodalAgency": "Department of Industries, Government of Bihar (Start-up Support Unit)",
+   "summary": "Bihar Startup Policy 2022 aims to re-ignite the state's startup ecosystem through an interest-free seed fund, enhanced grants for women/SC-ST/differently-abled founders, patent and incubation support, and matching support for angel-funded startups.",
+   "sectors": [],
+   "email": "startup-bihar@gov.in",
+   "phone": "18003456214",
+   "schemes": [
+    {
+     "name": "Seed Grant (Interest-Free Loan)",
+     "type": "Seed funding",
+     "benefit": "Up to Rs 10 lakh interest-free loan for 10 years",
+     "description": "Seed capital provided to validation/early-stage startups as an interest-free loan repayable over 10 years, released against milestones.",
+     "eligibility": "Startups registered under the Bihar Startup Policy",
+     "url": "https://startup.bihar.gov.in/"
+    },
+    {
+     "name": "Additional Support for Women Entrepreneurs",
+     "type": "Grant",
+     "benefit": "+5% additional grant (seed grant of Rs 10.5 lakh)",
+     "description": "Women-led startups receive an additional 5% over the standard seed grant amount.",
+     "eligibility": "Women-led startups",
+     "url": ""
+    },
+    {
+     "name": "Additional Support for SC/ST Entrepreneurs",
+     "type": "Grant",
+     "benefit": "+5% additional grant (22% of corpus reserved)",
+     "description": "Startups led by Scheduled Caste or Scheduled Tribe founders receive an additional 5%, with 22% of the fund corpus reserved for SC/ST entrepreneurs.",
+     "eligibility": "SC/ST-led startups",
+     "url": ""
+    },
+    {
+     "name": "Additional Support for Differently-Abled Entrepreneurs",
+     "type": "Grant",
+     "benefit": "+15% additional grant (seed grant of Rs 11.5 lakh)",
+     "description": "Startups led by differently-abled founders receive an additional 15% over the standard seed grant amount.",
+     "eligibility": "Differently-abled founders",
+     "url": ""
+    },
+    {
+     "name": "Training / Product Enhancement Grant",
+     "type": "Grant",
+     "benefit": "Rs 3 lakh grant",
+     "description": "Grant for rigorous training for product enhancement and funding readiness.",
+     "eligibility": "Registered startups undergoing acceleration/training",
+     "url": ""
+    },
+    {
+     "name": "Patent (IPR) Support",
+     "type": "Reimbursement",
+     "benefit": "100% funding of domestic patents; reimbursement for foreign patents",
+     "description": "Full coverage of domestic patent filing costs and reimbursement of expenses for foreign patents.",
+     "eligibility": "Registered startups filing patents",
+     "url": ""
+    },
+    {
+     "name": "Angel Funding Success Fee",
+     "type": "Incentive",
+     "benefit": "2% of investment as success fee",
+     "description": "Success fee provided to early-stage startups that raise capital from state-registered angel investors.",
+     "eligibility": "Startups raising angel investment",
+     "url": ""
+    },
+    {
+     "name": "Matching Loan Support",
+     "type": "Loan/Credit",
+     "benefit": "Loan matching the investment raised",
+     "description": "Government provides a matching loan for startups that raise funds from Angel Groups or Category-I AIFs.",
+     "eligibility": "Startups that secure angel/AIF investment",
+     "url": ""
+    },
+    {
+     "name": "Co-working / Shared Office Space",
+     "type": "Incubation",
+     "benefit": "Free co-working space and shared amenities",
+     "description": "Access to free shared office space, amenities and developing co-working spaces for startups.",
+     "eligibility": "Registered startups",
+     "url": ""
+    },
+    {
+     "name": "Free Valuation Services",
+     "type": "Other",
+     "benefit": "Complimentary valuation services",
+     "description": "Free valuation services provided to startups at the commercialization stage.",
+     "eligibility": "Registered startups at commercialization stage",
+     "url": ""
+    },
+    {
+     "name": "Incubator Support",
+     "type": "Incubation",
+     "benefit": "Up to Rs 2 lakh reimbursement per incubatee; 1:1 matching grants",
+     "description": "Incubators receive reimbursement up to Rs 2 lakh per incubatee, a 2-5% fiscal incentive on incubatee investments, and matching grants on a 1:1 basis for Government of India funding.",
+     "eligibility": "Recognised incubators in Bihar",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "state": "Chandigarh",
+   "policy": "Chandigarh Startup Policy 2025",
+   "period": "2025-2030",
+   "portal": "https://investchandigarh.org/",
+   "nodalAgency": "Department of Industries, Chandigarh Administration",
+   "summary": "Chandigarh has a dedicated Startup Policy 2025 (five-year cycle) with a grant-in-aid seed fund and staged financial support administered by the Department of Industries, targeting 200+ startups over five years.",
+   "sectors": [],
+   "email": "",
+   "phone": "",
+   "schemes": [
+    {
+     "name": "Idea Stage Grant (Grand Competition)",
+     "type": "Grant",
+     "benefit": "Rs 2 lakh for top 20 startups; Rs 1 lakh for next 50 startups",
+     "description": "Early idea-stage grants awarded through a startup grand competition to help validate and develop ideas.",
+     "eligibility": "Early idea-stage startups selected via competition",
+     "url": ""
+    },
+    {
+     "name": "Seed Stage Grant",
+     "type": "Seed funding",
+     "benefit": "Up to Rs 7 lakh per startup; additional Rs 2 lakh for women/transgender-led startups",
+     "description": "Grant-in-aid seed funding to support product development and early operations.",
+     "eligibility": "Recognized seed-stage startups",
+     "url": ""
+    },
+    {
+     "name": "Early-Stage Commercialisation Grant",
+     "type": "Grant",
+     "benefit": "Up to Rs 12 lakh per startup; additional Rs 2 lakh for women/transgender-led startups",
+     "description": "Grant to support commercialisation and scaling of validated products/services.",
+     "eligibility": "Early-stage startups moving to commercialisation",
+     "url": ""
+    },
+    {
+     "name": "Rental Subsidy",
+     "type": "Subsidy",
+     "benefit": "Rs 5,000/month for 12 months",
+     "description": "Rental support for startups using recognized co-working spaces.",
+     "eligibility": "Startups using recognized co-working spaces",
+     "url": ""
+    },
+    {
+     "name": "Incubation Support",
+     "type": "Incubation",
+     "benefit": "Free incubation facilities for one year",
+     "description": "Free access to incubation facilities; administration also partners with HEIs to set up or upgrade incubators.",
+     "eligibility": "Recognized startups",
+     "url": ""
+    },
+    {
+     "name": "Patent and Certification Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Patent support up to Rs 10,000 (80% of cost); certification support up to Rs 1 lakh (80% of cost)",
+     "description": "Reimbursement of a share of IP filing and quality certification costs.",
+     "eligibility": "Recognized startups",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "state": "Chhattisgarh",
+   "policy": "Chhattisgarh Innovation and Startup Promotion Policy 2025-30",
+   "period": "2025-2030",
+   "portal": "https://invest.cg.gov.in/startup",
+   "nodalAgency": "Department of Commerce & Industries, Government of Chhattisgarh (state incubator: 36Inc)",
+   "summary": "Chhattisgarh's 2025-30 startup policy is a sector-agnostic framework supporting recognized startups from ideation to scale-up through seed funding, a Rs.100 crore Startup Capital Fund, collateral-free credit, and a range of subsidies and reimbursements. Implementation is led by the Department of Commerce & Industries with the state-backed 36Inc incubator in Raipur.",
+   "sectors": [
+    "Sector-agnostic (open to all sectors)"
+   ],
+   "email": "invest-support@cg.gov.in",
+   "phone": "0771-3101500",
+   "schemes": [
+    {
+     "name": "Seed Funding (Proof of Concept / MVP)",
+     "type": "Seed funding",
+     "benefit": "Up to Rs. 10 lakh",
+     "description": "Grant/seed funding of up to Rs. 10 lakh for startups with a validated Proof of Concept to develop a Minimum Viable Product (MVP).",
+     "eligibility": "Recognized startups with a validated Proof of Concept",
+     "url": "https://invest.cg.gov.in/startup"
+    },
+    {
+     "name": "Startup Capital Fund",
+     "type": "Seed funding",
+     "benefit": "Rs. 100 crore corpus",
+     "description": "A Rs. 100 crore Startup Capital Fund deployed through SEBI-registered Alternative Investment Funds to provide equity/scale-up capital to startups.",
+     "eligibility": "Recognized startups seeking growth/scale-up capital",
+     "url": "https://invest.cg.gov.in/startup"
+    },
+    {
+     "name": "Credit Risk Fund / Collateral-Free Loans",
+     "type": "Loan/Credit",
+     "benefit": "Collateral-free loans up to Rs. 1 crore (Rs. 50 crore fund)",
+     "description": "A Rs. 50 crore Credit Risk Fund provides credit guarantees enabling startup units to access collateral-free bank loans of up to Rs. 1 crore.",
+     "eligibility": "Recognized startup units",
+     "url": "https://invest.cg.gov.in/startup"
+    },
+    {
+     "name": "Interest Subsidy",
+     "type": "Subsidy",
+     "benefit": "Up to 75% for 5 years, max Rs. 50 lakh",
+     "description": "Interest subsidy of up to 75% for a period of five years on term loans or working capital, subject to a maximum of Rs. 50 lakh.",
+     "eligibility": "Recognized startups with term/working capital loans",
+     "url": "https://invest.cg.gov.in/startup"
+    },
+    {
+     "name": "Patent / IPR Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "75% of cost; max Rs. 10 lakh (national), Rs. 20 lakh (international)",
+     "description": "Reimbursement of 75% of expenses incurred in obtaining a patent, up to Rs. 10 lakh for national patents and up to Rs. 20 lakh for international patents.",
+     "eligibility": "Recognized startups filing patents",
+     "url": "https://invest.cg.gov.in/startup"
+    },
+    {
+     "name": "Lease / Rental Subsidy",
+     "type": "Subsidy",
+     "benefit": "50% of rent, max Rs. 15,000/month for 3 years",
+     "description": "50% assistance on monthly rent/lease of workspace for up to three years, subject to a maximum of Rs. 15,000 per month, including space at incubation centres.",
+     "eligibility": "Recognized startups in leased/rented or incubation premises",
+     "url": "https://invest.cg.gov.in/startup"
+    },
+    {
+     "name": "EPF Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "75% of EPF contribution, max Rs. 1 crore/year for 5 years",
+     "description": "Reimbursement of 75% of the employer's EPF contribution for skilled and semi-skilled employees of Chhattisgarh domicile for up to five years from start of commercial production, capped at Rs. 1 crore per year.",
+     "eligibility": "Startups employing Chhattisgarh-domicile skilled/semi-skilled workers",
+     "url": "https://invest.cg.gov.in/startup"
+    },
+    {
+     "name": "Employment / Wage Incentive",
+     "type": "Incentive",
+     "benefit": "Rs. 6,000/month per female, Rs. 5,000/month per male employee",
+     "description": "Startups creating more than 10 permanent jobs receive assistance of up to Rs. 6,000 per month per female employee and Rs. 5,000 per month per male employee.",
+     "eligibility": "Startups providing more than 10 permanent jobs",
+     "url": "https://invest.cg.gov.in/startup"
+    },
+    {
+     "name": "Special Category Wage Subsidy",
+     "type": "Incentive",
+     "benefit": "Up to 40% wage subsidy for 5 years",
+     "description": "Enhanced wage subsidy of up to 40% for five years for employing specially-abled persons, retired Agniveers, and Naxalism-affected individuals.",
+     "eligibility": "Startups employing special-category workers",
+     "url": "https://invest.cg.gov.in/startup"
+    },
+    {
+     "name": "Marketing / Event Participation Support",
+     "type": "Grant",
+     "benefit": "50% grant on event costs; digital advertising reimbursement",
+     "description": "50% grant on total expenditure (travel, registration, stall/booth charges) for participation in national and international startup events, plus reimbursement of digital/online advertising expenses.",
+     "eligibility": "Recognized startups participating in startup events",
+     "url": "https://invest.cg.gov.in/startup"
+    },
+    {
+     "name": "Quality Certification & Technology Support",
+     "type": "Subsidy",
+     "benefit": "Support for quality certification, patents and technology acquisition",
+     "description": "Assistance towards quality certifications, technology purchase/acquisition and related standards compliance for startups (quantum as notified under policy guidelines).",
+     "eligibility": "Recognized startups",
+     "url": "https://invest.cg.gov.in/startup"
+    },
+    {
+     "name": "SGST Reimbursement & Stamp Duty Exemption",
+     "type": "Reimbursement",
+     "benefit": "Net SGST reimbursement; stamp duty exemption on land/building",
+     "description": "Reimbursement of net SGST paid by eligible startups along with stamp duty exemption on land and building documents, aligned with the state Industrial Development Policy.",
+     "eligibility": "Recognized startup units",
+     "url": "https://invest.cg.gov.in/startup"
+    },
+    {
+     "name": "Government Procurement Relaxation",
+     "type": "Procurement",
+     "benefit": "Relaxation of procurement norms for startups",
+     "description": "Relaxation of government procurement norms (such as prior turnover and experience conditions) to enable startups to supply to state government departments.",
+     "eligibility": "Recognized startups bidding for government tenders",
+     "url": "https://invest.cg.gov.in/startup"
+    },
+    {
+     "name": "Incubation Support (36Inc & Incubators)",
+     "type": "Incubation",
+     "benefit": "Incubator establishment grant 40% of cost, up to Rs. 40 lakh; annual operational support",
+     "description": "Support for incubators including establishment grants of 40% of expenses (up to Rs. 40 lakh) and annual operational support, with mentorship, co-working space and fund support delivered through the state 36Inc incubator.",
+     "eligibility": "Incubators, academic institutions and startups",
+     "url": "https://36inc.in/"
+    }
+   ]
+  },
+  {
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "policy": "Investment Promotion Scheme (IPS) 2022-2027",
+   "period": "2022-2027",
+   "portal": "https://swp.dddgov.in/",
+   "nodalAgency": "District Industries Centre, Dadra and Nagar Haveli and Daman and Diu",
+   "summary": "DNHDD has no separate stand-alone startup policy; support runs through the industrial Investment Promotion Scheme (IPS) 2022-2027 and its reimbursement schemes, alongside the national Startup India initiative. Startup-specific monetary caps are not published on the official portal.",
+   "sectors": [],
+   "email": "",
+   "phone": "",
+   "schemes": [
+    {
+     "name": "Investment Promotion Scheme (IPS) 2022-2027",
+     "type": "Incentive",
+     "benefit": "",
+     "description": "Umbrella industrial incentive scheme (2022-2027) administered via the Single Window / NSWS portal, offering fiscal incentives and multiple reimbursement schemes to industrial units including MSMEs and startups.",
+     "eligibility": "Eligible industrial units/enterprises registered in the UT",
+     "url": "https://swp.dddgov.in/"
+    }
+   ]
+  },
+  {
+   "state": "Delhi",
+   "policy": "Draft Delhi Startup Policy, 2025 (successor to the Cabinet-approved Delhi Startup Policy, 2022)",
+   "period": "2025 onwards (draft; targets 5,000 startups by 2035)",
+   "portal": "https://industries.delhi.gov.in/",
+   "nodalAgency": "Department of Industries, Govt. of NCT of Delhi (implemented via a Policy Monitoring Committee chaired by the Commissioner of Industries and a Startup Task Force)",
+   "summary": "Delhi's startup framework offers fiscal and non-fiscal support including a monthly sustenance allowance, lease-rental and patent reimbursements, exhibition/marketing assistance and a proposed VC fund, delivered through the Department of Industries and a dedicated Delhi Startup Portal. The 2025 policy is still in draft (public comments were sought Aug-Sep 2025); it builds on the Delhi Startup Policy 2022 approved by the Cabinet in May 2022.",
+   "sectors": [
+    "Artificial Intelligence",
+    "Robotics",
+    "Fintech",
+    "Healthcare",
+    "Gaming",
+    "Deep-tech / innovation-based enterprises"
+   ],
+   "email": "",
+   "phone": "",
+   "schemes": [
+    {
+     "name": "Sustenance (Operational) Allowance",
+     "type": "Incentive",
+     "benefit": "Monthly allowance of Rs 2 lakh for up to one year",
+     "description": "Recurring monthly allowance to cover operational/running expenses of early-stage startups.",
+     "eligibility": "Recognised Delhi startups (early-stage)",
+     "url": "https://industries.delhi.gov.in/"
+    },
+    {
+     "name": "Delhi Startup Venture Capital Fund",
+     "type": "Seed funding",
+     "benefit": "Proposed Rs 200 crore fund",
+     "description": "A state venture capital fund to provide early-stage backing to high-potential startups while encouraging private co-investment.",
+     "eligibility": "Early-stage, high-potential recognised startups",
+     "url": "https://industries.delhi.gov.in/"
+    },
+    {
+     "name": "Collateral-free Loan Support",
+     "type": "Loan/Credit",
+     "benefit": "Collateral-free loans (up to Rs 20 lakh referenced under the central CGTMSE scheme)",
+     "description": "Facilitation of collateral-free credit for startups, leveraging central credit-guarantee support.",
+     "eligibility": "Recognised Delhi startups",
+     "url": "https://industries.delhi.gov.in/"
+    },
+    {
+     "name": "Patent / IPR Filing Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Up to Rs 1 lakh for domestic patents and up to Rs 3 lakh for international patents",
+     "description": "Reimbursement of costs incurred by startups in filing domestic and international patents.",
+     "eligibility": "Recognised Delhi startups filing patents",
+     "url": "https://industries.delhi.gov.in/"
+    },
+    {
+     "name": "Marketing / Exhibition Assistance (Market Development Assistance)",
+     "type": "Reimbursement",
+     "benefit": "Up to Rs 5 lakh for domestic events and up to Rs 10 lakh for international events",
+     "description": "Reimbursement of participation, stall and travel costs for domestic and international exhibitions and startup events.",
+     "eligibility": "Recognised Delhi startups participating in approved events",
+     "url": "https://industries.delhi.gov.in/"
+    },
+    {
+     "name": "Lease Rental / Co-working Space Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% reimbursement of lease rentals up to Rs 10 lakh per year for three years",
+     "description": "Full reimbursement of co-working / office lease rentals to reduce workspace costs for startups.",
+     "eligibility": "Recognised Delhi startups leasing eligible workspace",
+     "url": "https://industries.delhi.gov.in/"
+    },
+    {
+     "name": "Women-led Startup Special Incentives",
+     "type": "Incentive",
+     "benefit": "Enhanced exhibition reimbursement ceilings (about Rs 5.5 lakh domestic / Rs 11 lakh international once a year), plus priority access and mentorship",
+     "description": "Higher reimbursement ceilings, priority access to benefits and curated mentorship from industry leaders, CAs and legal experts for women-led startups and marginalised communities.",
+     "eligibility": "Women-led startups and startups from marginalised communities",
+     "url": "https://industries.delhi.gov.in/"
+    },
+    {
+     "name": "Delhi Incubation Hub & Incubation Support",
+     "type": "Incubation",
+     "benefit": "Virtual incubation services plus new incubation centres and co-working spaces with subsidies (up to five years)",
+     "description": "A Delhi Incubation Hub offering mentorship, expert and industry-network access, and physical incubation/co-working infrastructure with capital and operational subsidies.",
+     "eligibility": "Recognised Delhi startups",
+     "url": "https://industries.delhi.gov.in/"
+    },
+    {
+     "name": "Delhi Startup Portal & Free Professional Services",
+     "type": "Other",
+     "benefit": "Single-window portal plus free consultancy (legal, CA, marketing, taxation, fundraising)",
+     "description": "A digital single-window portal for registration, incentive applications, mentor-matching and grievance redressal, supported by a panel of lawyers, CAs and experts providing free-of-cost services to startups.",
+     "eligibility": "Recognised Delhi startups",
+     "url": "https://industries.delhi.gov.in/"
+    }
+   ]
+  },
+  {
+   "state": "Goa",
+   "policy": "Goa Start-up Policy 2017",
+   "period": "2017 onwards",
+   "portal": "https://www.startup.goa.gov.in/",
+   "nodalAgency": "Start-up Promotion Cell (SITPC), Department of Information Technology, Electronics & Communications, Government of Goa",
+   "summary": "Goa's IT Start-up Policy offers technology-based startups a package of grants and reimbursements covering seed capital, rent, salaries, internet/cloud costs, IPR and R&D, administered through the Start-up Promotion Cell (SITPC) under the state IT Department.",
+   "sectors": [
+    "Information Technology (IT/ITeS)",
+    "Electronics System Design & Manufacturing (ESDM)",
+    "Technology-based / innovation-driven startups"
+   ],
+   "email": "spc-dit.goa@gov.in",
+   "phone": "1800-233-5060",
+   "schemes": [
+    {
+     "name": "Seed Capital Scheme",
+     "type": "Seed funding",
+     "benefit": "One-time grant of up to INR 10 lakh",
+     "description": "One-time seed grant for promising startups, with up to 100 startups selected each year by the SITPC.",
+     "eligibility": "SITPC-certified startups with Aadhaar-linked director bank accounts",
+     "url": "https://www.startup.goa.gov.in/StartupIncentives.html"
+    },
+    {
+     "name": "Lease Rental Subsidy (Leased/Privately Owned Premises Scheme)",
+     "type": "Subsidy",
+     "benefit": "INR 20 per sq ft per month, capped at INR 3 lakh per annum, for up to 2 years",
+     "description": "Reimbursement of lease rent for local startups operating from rented premises, reimbursed quarterly; up to 25 startups selected per year.",
+     "eligibility": "SITPC-certified local startups not using government co-working facilities",
+     "url": "https://www.startup.goa.gov.in/StartupIncentives.html"
+    },
+    {
+     "name": "Internet, Software & Cloud Cost Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Up to INR 1 lakh per quarter for up to 1 year",
+     "description": "Reimbursement of internet connectivity, software license fees and cloud service fees for startups operating from own or rented premises; up to 20 startups per year.",
+     "eligibility": "SITPC-certified startups not using government co-working spaces",
+     "url": "https://www.startup.goa.gov.in/StartupIncentives.html"
+    },
+    {
+     "name": "Salary Reimbursement Scheme",
+     "type": "Reimbursement",
+     "benefit": "50% of fresher salary up to INR 15,000/month per employee; plus up to 25% of local workforce salary capped at INR 25 lakh/year",
+     "description": "Reimbursement to encourage hiring of local talent and freshers, for up to 25 employees over 3 years.",
+     "eligibility": "SITPC-certified startups; employees hired for a minimum of 12 months with Aadhaar-linked accounts",
+     "url": "https://www.startup.goa.gov.in/StartupIncentives.html"
+    },
+    {
+     "name": "IPR Reimbursement Scheme",
+     "type": "Reimbursement",
+     "benefit": "100% of costs up to INR 2 lakh (national IP) or INR 5 lakh (international IP)",
+     "description": "Reimbursement of government and attorney fees for filing technology-based patents/IP; up to 200 startups per year.",
+     "eligibility": "SITPC-certified startups with technology-based IP; one-time payment per IP application",
+     "url": "https://www.startup.goa.gov.in/StartupIncentives.html"
+    },
+    {
+     "name": "Trademark Reimbursement Scheme",
+     "type": "Reimbursement",
+     "benefit": "50% of trademark registration cost, up to INR 25,000",
+     "description": "Reimbursement of trademark registration costs upon successful registration; up to 200 applicants per year.",
+     "eligibility": "SITPC-certified startups with successful trademark registration",
+     "url": "https://www.startup.goa.gov.in/StartupIncentives.html"
+    },
+    {
+     "name": "R&D Reimbursement Scheme",
+     "type": "Reimbursement",
+     "benefit": "50% of R&D expenses up to INR 5 lakh/year (salary component capped at INR 2 lakh), for 2 years",
+     "description": "Reimbursement of research and development expenses including salaries of PhD/Master degree holders; up to 100 startups per year.",
+     "eligibility": "SITPC-certified local startups with a working prototype and qualified staff hired 12+ months",
+     "url": "https://www.startup.goa.gov.in/StartupIncentives.html"
+    },
+    {
+     "name": "Co-Working Spaces/Incubators/Accelerators Subsidy Scheme",
+     "type": "Incubation",
+     "benefit": "50% of seat cost: up to INR 3,000/seat (co-working, 2 yrs), INR 5,000/seat (incubator, 1 yr), INR 6,000/seat (accelerator, 3 months), max 8 seats",
+     "description": "Subsidy on seat/desk costs at co-working spaces, incubators and accelerators; deserving startups may get up to 100% reimbursement.",
+     "eligibility": "SITPC-certified startups using digital payments and Aadhaar-linked bank accounts",
+     "url": "https://www.startup.goa.gov.in/StartupIncentives.html"
+    },
+    {
+     "name": "Grant for Incubation Centres within Educational Institutes",
+     "type": "Grant",
+     "benefit": "Up to INR 10 lakh one-time capital grant plus INR 3 lakh/year operational support for 3 years",
+     "description": "Grants to set up and run incubation centres within educational institutes; up to 15 institutes per year for capital support.",
+     "eligibility": "Educational institutes affiliated with recognised public universities",
+     "url": "https://www.startup.goa.gov.in/StartupIncentives.html"
+    },
+    {
+     "name": "Technology Fellowship and Patent Promotion Scheme",
+     "type": "Incentive",
+     "benefit": "Fellowship of up to INR 10 lakh per year and patent grant of up to INR 15 lakh",
+     "description": "Supports technology educators through training/summer schools at Centres of Excellence and funds business and value-driven patents.",
+     "eligibility": "Technology educators/faculty in Goa as certified by SITPC",
+     "url": "https://www.startup.goa.gov.in/StartupIncentives.html"
+    }
+   ]
+  },
+  {
+   "state": "Gujarat",
+   "policy": "Scheme for Assistance for Startups/Innovation (under Gujarat Industrial Policy 2020)",
+   "period": "2020-2025",
+   "portal": "https://startup.gujarat.gov.in/",
+   "nodalAgency": "Industries Commissionerate, Government of Gujarat",
+   "summary": "Gujarat supports startups mainly through the Scheme for Assistance for Startups/Innovation (Industrial Policy 2020), offering a monthly sustenance allowance, seed support, IPR and skill-development assistance and incubation grants, complemented by the Student Startup & Innovation Policy (SSIP 2.0) for student innovators.",
+   "sectors": [
+    "Sector-agnostic"
+   ],
+   "email": "icstup@gujarat.gov.in",
+   "phone": "1800-233-0616",
+   "schemes": [
+    {
+     "name": "Sustenance Allowance",
+     "type": "Incentive",
+     "benefit": "INR 20,000/month for 1 year (INR 25,000/month if at least one woman co-founder)",
+     "description": "Monthly allowance paid to approved startups to help founders sustain themselves during the early development phase.",
+     "eligibility": "Startups/innovators approved under the Scheme for Assistance for Startups/Innovation, recommended by a nodal institution",
+     "url": "https://startup.gujarat.gov.in/scheme-for-assistance/scheme-one"
+    },
+    {
+     "name": "Seed Support",
+     "type": "Seed funding",
+     "benefit": "Up to INR 30 lakh",
+     "description": "Assistance toward cost of raw materials, consumables, hardware/software, professional services and other tools required for prototype/product/process development, testing and marketing.",
+     "eligibility": "Approved startups under the Scheme for Assistance for Startups/Innovation",
+     "url": "https://startup.gujarat.gov.in/scheme-for-assistance/scheme-one"
+    },
+    {
+     "name": "Assistance for Social Impact Startups",
+     "type": "Grant",
+     "benefit": "Additional up to INR 10 lakh",
+     "description": "Extra assistance for startups generating significant positive impact on society, over and above the standard seed support.",
+     "eligibility": "Startups demonstrating significant social impact",
+     "url": "https://startup.gujarat.gov.in/scheme-for-assistance/scheme-one"
+    },
+    {
+     "name": "Skill Development / Soft Skills Training Assistance",
+     "type": "Grant",
+     "benefit": "Up to INR 1 lakh per startup",
+     "description": "Support to cover the cost of soft-skills and capability-building training for startup founders/teams.",
+     "eligibility": "Approved startups under the Scheme for Assistance for Startups/Innovation",
+     "url": "https://startup.gujarat.gov.in/scheme-for-assistance/scheme-one"
+    },
+    {
+     "name": "IPR / Patent Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Up to INR 2 lakh (domestic patent) / up to INR 10 lakh (international patent)",
+     "description": "Reimbursement of costs incurred by startups in filing and obtaining patents and other intellectual property rights.",
+     "eligibility": "Approved startups under the Scheme for Assistance for Startups/Innovation",
+     "url": "https://startup.gujarat.gov.in/scheme-for-assistance/scheme-one"
+    },
+    {
+     "name": "Acceleration Program Assistance",
+     "type": "Incentive",
+     "benefit": "Up to INR 3 lakh",
+     "description": "Reimbursement to enable startups to participate in a nationally or internationally recognised acceleration program.",
+     "eligibility": "Approved startups under the Scheme for Assistance for Startups/Innovation",
+     "url": "https://startup.gujarat.gov.in/scheme-for-assistance/scheme-one"
+    },
+    {
+     "name": "Assistance to Incubators / Nodal Institutions",
+     "type": "Incubation",
+     "benefit": "Capital grant up to 50% (max INR 50 lakh); mentoring assistance up to INR 5 lakh/year",
+     "description": "Support to recognised institutions to set up and operate incubation infrastructure and to provide mentoring to startups.",
+     "eligibility": "Universities, educational bodies, incubators, PSUs and R&D institutions recognised as nodal institutions",
+     "url": "https://startup.gujarat.gov.in/scheme-for-assistance/scheme-one"
+    },
+    {
+     "name": "Student Startup & Innovation Policy (SSIP 2.0)",
+     "type": "Grant",
+     "benefit": "Up to INR 2.5 lakh per PoC/prototype (INR 20,000 for school students up to Class 12); IPR support up to 100% of cost",
+     "description": "Education Department scheme funding student proof-of-concepts, prototypes and innovations, plus IPR support for patents, copyrights and trademarks.",
+     "eligibility": "Students (school to doctoral) and alumni of Gujarat-based institutions, up to age 35, via participating institutes",
+     "url": "https://startup.gujarat.gov.in/scheme-for-assistance/scheme-five"
+    },
+    {
+     "name": "Pre-Series A Funding (Gujarat Venture Finance Ltd)",
+     "type": "Seed funding",
+     "benefit": "INR 50 lakh to INR 3 crore",
+     "description": "Mid-stage/pre-Series A equity financing for growth-stage startups through a dedicated fund managed by Gujarat Venture Finance Limited.",
+     "eligibility": "Growth-stage startups meeting the fund's investment criteria",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "state": "Haryana",
+   "policy": "Haryana State Startup Policy 2022",
+   "period": "7 July 2022 to 6 July 2027 (5 years)",
+   "portal": "https://startupharyana.gov.in/",
+   "nodalAgency": "Department of Industries and Commerce, Haryana (Startup Haryana Cell)",
+   "summary": "Haryana's 2022 startup policy offers DPIIT-recognised, Startup Haryana-registered ventures a package of fiscal benefits including seed grants, lease-rental subsidy, patent-cost and net-SGST reimbursement, and cloud/acceleration support, with enhanced rates for women-led startups.",
+   "sectors": [
+    "Information Technology",
+    "Electronics",
+    "Engineering",
+    "Automobiles",
+    "Electric Vehicles",
+    "Textiles",
+    "Hi-Technology Industries",
+    "Data Centers"
+   ],
+   "email": "startupharyanacell@gmail.com",
+   "phone": "+91 172 467 1337",
+   "schemes": [
+    {
+     "name": "Seed Grant / Seed Funding for Startups",
+     "type": "Seed funding",
+     "benefit": "Up to INR 10 Lakh per startup",
+     "description": "Seed grant to help startups validate ideas, build prototypes, demonstrate proof of concept, and undertake market research, skill training and initial marketing.",
+     "eligibility": "Startups registered with Startup Haryana; allocation by block category (100 in 'A', 250 in 'B', 750 in 'C', 1000 in 'D' blocks)",
+     "url": "https://startupharyana.gov.in/assets/images/pdf/Startup-Seed-Funding-Scheme.pdf"
+    },
+    {
+     "name": "Lease Rental Subsidy",
+     "type": "Subsidy",
+     "benefit": "30% of lease rental (45% for women-only founder startups), max INR 5 Lakh for 1 year",
+     "description": "Reimbursement of lease rental for startups operating from incubators, IT Parks, industrial clusters or other notified locations.",
+     "eligibility": "Registered startups operating from eligible premises; enhanced rate for startups with only women founders",
+     "url": "https://startupharyana.gov.in/front/startup-fiscal-benefits"
+    },
+    {
+     "name": "Patent Cost Reimbursement (IPR)",
+     "type": "Reimbursement",
+     "benefit": "100% of actual expenses, maximum INR 25 Lakh",
+     "description": "Reimburses patent filing, consultancy, search, maintenance and publishing fees for domestic and international patents.",
+     "eligibility": "Startups registered with Startup Haryana",
+     "url": "https://startupharyana.gov.in/front/startup-fiscal-benefits"
+    },
+    {
+     "name": "Net SGST Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "50% Net SGST reimbursement for 7 years, capped at 100% of Fixed Capital Investment",
+     "description": "Reimbursement of net State GST paid, to reduce tax burden on eligible startups.",
+     "eligibility": "Startups registered with Startup Haryana",
+     "url": "https://startupharyana.gov.in/front/startup-fiscal-benefits"
+    },
+    {
+     "name": "Cloud Storage / Hosting Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "75% reimbursement up to INR 2.5 Lakh per startup per annum for 5 years",
+     "description": "Reimbursement of cloud computing and storage expenses incurred on Haryana-based data centres.",
+     "eligibility": "Registered startups using Haryana-based data centres",
+     "url": "https://startupharyana.gov.in/front/startup-fiscal-benefits"
+    },
+    {
+     "name": "Acceleration Program Assistance",
+     "type": "Incentive",
+     "benefit": "Up to INR 2.5 Lakh annually",
+     "description": "Assistance towards fees for participation in national acceleration programs.",
+     "eligibility": "Startups registered with Startup Haryana",
+     "url": "https://startupharyana.gov.in/front/startup-fiscal-benefits"
+    }
+   ]
+  },
+  {
+   "state": "Himachal Pradesh",
+   "policy": "Chief Minister's Startup/Innovation Projects/New Industries Scheme, 2016 (amended)",
+   "period": "2016 onwards",
+   "portal": "https://emerginghimachal.hp.gov.in/startup/",
+   "nodalAgency": "Department of Industries, Government of Himachal Pradesh",
+   "summary": "Himachal Pradesh's flagship startup scheme aims to turn educated youth from job seekers into job creators by supporting innovation projects and startups with a monthly sustenance allowance, free incubation, patent and marketing assistance, and fiscal incentives such as interest subvention and concessional land/stamp duty.",
+   "sectors": [
+    "Technology-driven innovation",
+    "Agriculture and horticulture",
+    "Food processing",
+    "Clean technology and renewable energy",
+    "Healthcare",
+    "Tourism and hospitality",
+    "Mobile, IT and ITeS (including hardware)",
+    "Biotechnology",
+    "Retail",
+    "Rural infrastructure, crafts, water and sanitation"
+   ],
+   "email": "startuphimachal@gmail.com",
+   "phone": "0177-2659735",
+   "schemes": [
+    {
+     "name": "Sustenance Allowance",
+     "type": "Grant",
+     "benefit": "Rs. 25,000 per month for one year",
+     "description": "Monthly sustenance allowance paid for one year to approved innovation projects recommended by the host/incubation institution and cleared by the Empowered Committee.",
+     "eligibility": "Individuals/groups with innovative ideas whose projects are recommended by a host institution and approved by the Empowered Committee.",
+     "url": "https://emerginghimachal.hp.gov.in/startup/about/incentive-procedure/"
+    },
+    {
+     "name": "Free Incubation Support",
+     "type": "Incubation",
+     "benefit": "Free mentoring, lab and facility access",
+     "description": "Recognised incubation centres provide mentoring services and free-of-cost access to their labs and facilities to startups and innovation projects.",
+     "eligibility": "Startups and innovation projects hosted at an approved incubation centre.",
+     "url": "https://emerginghimachal.hp.gov.in/startup/about/incentive-procedure/"
+    },
+    {
+     "name": "Marketing / Commercialization Assistance",
+     "type": "Reimbursement",
+     "benefit": "Up to Rs. 10 lakh",
+     "description": "Support for marketing and commercialization of products/services once the idea is ready for the market, on recommendation of the incubation centre.",
+     "eligibility": "Approved startups/innovation projects recommended for commercialization by the incubation centre.",
+     "url": "https://emerginghimachal.hp.gov.in/startup/about/incentive-procedure/"
+    },
+    {
+     "name": "Patent (IPR) Filing Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Up to Rs. 2 lakh (Indian patent); up to Rs. 10 lakh (foreign patent)",
+     "description": "Reimbursement of patent filing costs, disbursed in stages (75% on filing, 25% on grant), up to Rs. 2 lakh for an Indian patent and up to Rs. 10 lakh (or actual cost, whichever is lower) for a foreign patent on a single subject.",
+     "eligibility": "Approved startups/innovation projects filing patents.",
+     "url": "https://emerginghimachal.hp.gov.in/startup/about/incentive-procedure/"
+    },
+    {
+     "name": "Interest Subvention",
+     "type": "Subsidy",
+     "benefit": "5% interest subvention for three years",
+     "description": "Interest subvention of 5% for micro-sector startups on eligible loans/investment (up to Rs. 25 lakh) for a period of three years.",
+     "eligibility": "Micro-sector startups with investment up to Rs. 25 lakh.",
+     "url": "https://emerginghimachal.hp.gov.in/startup/about/incentive-procedure/"
+    },
+    {
+     "name": "Concessional Land Allotment",
+     "type": "Incentive",
+     "benefit": "Land at 50% of standard rates",
+     "description": "Allotment of land to eligible startups at concessional rates of 50% of the standard/prevailing rate.",
+     "eligibility": "Approved startups under the scheme.",
+     "url": "https://emerginghimachal.hp.gov.in/startup/about/incentive-procedure/"
+    },
+    {
+     "name": "Stamp Duty Concession",
+     "type": "Incentive",
+     "benefit": "Stamp duty reduced to 3% on conveyance and lease deeds",
+     "description": "Reduced stamp duty on conveyance and lease deeds for startup units under the scheme.",
+     "eligibility": "Approved startups under the scheme.",
+     "url": "https://emerginghimachal.hp.gov.in/startup/about/incentive-procedure/"
+    },
+    {
+     "name": "Incubator Setup Grant",
+     "type": "Grant",
+     "benefit": "Up to Rs. 30 lakh per year for three years",
+     "description": "Financial support to establish and run recognised incubation centres, plus recurring expense support of up to Rs. 10 lakh per year.",
+     "eligibility": "Institutions setting up approved incubation centres under the scheme.",
+     "url": "https://emerginghimachal.hp.gov.in/startup/about/incentive-procedure/"
+    },
+    {
+     "name": "Incubator Lease Rental Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Rs. 5 per sq.ft. per month or 25% of actual rent (whichever is less), for three years",
+     "description": "Reimbursement of rental costs to recognised incubators for a period of three years.",
+     "eligibility": "Approved incubation centres under the scheme.",
+     "url": "https://emerginghimachal.hp.gov.in/startup/about/incentive-procedure/"
+    }
+   ]
+  },
+  {
+   "state": "Jammu and Kashmir",
+   "policy": "New Jammu & Kashmir Start-up Policy 2024-27",
+   "period": "2024-2027",
+   "portal": "https://startupjk.com/",
+   "nodalAgency": "Jammu and Kashmir Entrepreneurship Development Institute (JKEDI), under the Industries & Commerce Department, J&K",
+   "summary": "J&K's revised startup policy (superseding the 2018 policy) aims to establish 2,000 startups by 2027 through seed funding, a venture capital fund, incubation support, mentorship, patent assistance and special support for women and student entrepreneurs, implemented by JKEDI.",
+   "sectors": [
+    "IT/ITeS",
+    "Agri-Tech",
+    "Food Processing",
+    "Skill Development",
+    "Business Support Services",
+    "Construction & Engineering"
+   ],
+   "email": "jkediciibm@gmail.com",
+   "phone": "+91-7006504038",
+   "schemes": [
+    {
+     "name": "Startup Seed Fund Scheme",
+     "type": "Seed funding",
+     "benefit": "One-time assistance up to Rs 20 lakh (in 4 equal installments)",
+     "description": "Financial assistance to JKEDI-recognised startups for prototype/product development, marketing and scaling of innovative products.",
+     "eligibility": "Startup recognised by JKEDI and approved by the Startup Task Force Committee",
+     "url": "https://www.startupjk.com/welcome/seedfund"
+    },
+    {
+     "name": "J&K Startup Venture Capital Fund",
+     "type": "Seed funding",
+     "benefit": "Rs 250 crore fund (Rs 25 crore initial infusion by J&K Administration)",
+     "description": "A venture capital fund to invest in and scale up J&K startups, drawing further contributions from private entities and high net-worth individuals.",
+     "eligibility": "J&K-based recognised startups",
+     "url": ""
+    },
+    {
+     "name": "Incubation Support Grant",
+     "type": "Incubation",
+     "benefit": "Capital grant of Rs 200 lakh to selected incubators (up to Rs 50 lakh each)",
+     "description": "Grant to establish and empower incubation centres to provide infrastructure, mentoring and handholding to startups.",
+     "eligibility": "Selected incubators / incubation centres in J&K",
+     "url": ""
+    },
+    {
+     "name": "Co-working / Office Space Subsidy",
+     "type": "Subsidy",
+     "benefit": "50% discount on office space for 1 year (focus-sector startups); free space for Section 8 SDG firms",
+     "description": "Subsidised co-working space at JKEDI campuses (Pampore, Bari-Brahmana), with free space for Section 8 companies working on sustainable development goals.",
+     "eligibility": "Recognised startups, focus-sector/Section 8 firms",
+     "url": ""
+    },
+    {
+     "name": "Patent / IPR Assistance",
+     "type": "Reimbursement",
+     "benefit": "",
+     "description": "Patent-related assistance and facilitation for recognised startups to protect intellectual property.",
+     "eligibility": "JKEDI-recognised startups",
+     "url": ""
+    },
+    {
+     "name": "Mentorship Financial Assistance",
+     "type": "Incentive",
+     "benefit": "",
+     "description": "Financial assistance for mentorship, acceleration programmes, networking and exposure visits for recognised startups.",
+     "eligibility": "JKEDI-recognised startups",
+     "url": ""
+    },
+    {
+     "name": "Women Entrepreneur Special Support",
+     "type": "Incentive",
+     "benefit": "",
+     "description": "Additional need-based support to female entrepreneurs to promote gender-inclusive startup growth.",
+     "eligibility": "Women-led startups in J&K",
+     "url": ""
+    },
+    {
+     "name": "Annual Startup Awards",
+     "type": "Other",
+     "benefit": "Cash recognition (e.g. Top Startup of the Year Rs 50,000)",
+     "description": "Annual awards recognising top startups and incubation centres in the Union Territory.",
+     "eligibility": "Recognised J&K startups and incubators",
+     "url": ""
+    },
+    {
+     "name": "Public Procurement Relaxation & Self-Certification",
+     "type": "Procurement",
+     "benefit": "Relaxed public procurement norms and self-certification under labour/environment laws",
+     "description": "Eases market access and compliance burden for recognised startups in government procurement.",
+     "eligibility": "JKEDI/DPIIT-recognised startups",
+     "url": ""
+    },
+    {
+     "name": "Youth Start-up Loan Scheme (YSLS)",
+     "type": "Loan/Credit",
+     "benefit": "Bank credit facility up to Rs 8 lakh",
+     "description": "JKEDI-implemented soft-loan scheme (under SKEWPY) enabling unemployed youth to set up start-up enterprises.",
+     "eligibility": "Unemployed J&K state subjects aged 18-40 with minimum 10+2 qualification",
+     "url": "https://jkedi.org/ysls.aspx"
+    },
+    {
+     "name": "Seed Capital Fund Scheme (SCFS / SKEWPY)",
+     "type": "Seed funding",
+     "benefit": "Seed money up to Rs 7.50 lakh with concessional bank finance",
+     "description": "Provides seed capital coupled with bank finance at concessional rates to eligible youth to establish enterprises.",
+     "eligibility": "Unemployed J&K state subjects aged 18-40 (up to 42 for differently-abled) with 10+2 qualification",
+     "url": "https://jkedi.org/Seed.html"
+    }
+   ]
+  },
+  {
+   "state": "Jharkhand",
+   "policy": "Jharkhand Startup Policy 2023",
+   "period": "2023 onwards",
+   "portal": "https://abvil.jharkhand.gov.in/",
+   "nodalAgency": "Atal Bihari Vajpayee Innovation Lab (ABVIL), Department of Information Technology & e-Governance, Government of Jharkhand",
+   "summary": "Jharkhand's 2023 startup policy, implemented through ABVIL, offers stage-wise support (sustenance allowance and scale-up grants) plus a range of fiscal reimbursements (SGST, patents, lease rentals, marketing) and extra incentives for women, SC/ST, transgender and Divyang founders, with a goal of nurturing 1,000 startups by 2028.",
+   "sectors": [
+    "Design and Media",
+    "IT/ITeS",
+    "Agriculture",
+    "Renewable energy"
+   ],
+   "email": "it-secretary@jharkhand.gov.in",
+   "phone": "0651-2400001",
+   "schemes": [
+    {
+     "name": "Sustenance/Subsistence Allowance",
+     "type": "Grant",
+     "benefit": "INR 15,000 per member per month (up to 3 members) for 12 months",
+     "description": "Monthly stipend for selected startups at the idea/seed/prototype stage, paid for 12 months from the date of selection to support founders while building their product.",
+     "eligibility": "Selected individuals/groups at idea, seed or prototype stage",
+     "url": "https://abvil.jharkhand.gov.in/documents/Policy2023.pdf"
+    },
+    {
+     "name": "Special Additional Allowance (Women / SC-ST / Transgender / Divyang)",
+     "type": "Incentive",
+     "benefit": "Additional INR 2,000 per member per month for 12 months over the sustenance allowance",
+     "description": "Extra monthly allowance on top of the sustenance allowance for eligible Jharkhand female, SC/ST, transgender or Divyang (differently-abled) members.",
+     "eligibility": "Female, SC/ST, transgender or Divyang members of selected startups",
+     "url": "https://abvil.jharkhand.gov.in/documents/Policy2023.pdf"
+    },
+    {
+     "name": "Scale-up Stage Grant",
+     "type": "Seed funding",
+     "benefit": "One-time grant up to INR 10 lakh",
+     "description": "One-time support to help startups scale up their business, product or solution at the secondary/scale-up stage.",
+     "eligibility": "Startups moving to the scale-up stage",
+     "url": "https://abvil.jharkhand.gov.in/documents/Policy2023.pdf"
+    },
+    {
+     "name": "SGST Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% of net SGST paid in cash per annum for 5 years",
+     "description": "Reimbursement of the net State GST paid in cash by the unit each year for up to five years.",
+     "eligibility": "Startups registered in Jharkhand",
+     "url": "https://abvil.jharkhand.gov.in/documents/Policy2023.pdf"
+    },
+    {
+     "name": "Patent / IPR Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Up to INR 50,000 per patent (companies); INR 25,000 per candidate for colleges (max 20/year)",
+     "description": "Reimbursement of patent filing fees, provided the patent is filed from a Jharkhand office and granted; colleges running patent-filing courses are reimbursed per passing candidate.",
+     "eligibility": "Startups/units and colleges located in Jharkhand",
+     "url": "https://abvil.jharkhand.gov.in/documents/Policy2023.pdf"
+    },
+    {
+     "name": "Lease Rental Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "50% of lease rentals, max INR 5 lakh per year for 3 years",
+     "description": "Reimbursement of office lease rentals for startups leasing space in STPIs, IT/multi-purpose SEZs or IT Parks.",
+     "eligibility": "Startups leasing office space in STPI/SEZ/IT Parks",
+     "url": "https://abvil.jharkhand.gov.in/documents/Policy2023.pdf"
+    },
+    {
+     "name": "Special Reimbursement Uplift (Women / SC-ST / Divyang)",
+     "type": "Incentive",
+     "benefit": "Additional 5% reimbursement on lease rentals, internet bandwidth and electricity bills",
+     "description": "SC/ST, female and Divyang startups receive an extra 5% on lease rental, internet bandwidth and electricity reimbursements, subject to the same maximum caps.",
+     "eligibility": "SC/ST, female and Divyang startups",
+     "url": "https://abvil.jharkhand.gov.in/documents/Policy2023.pdf"
+    },
+    {
+     "name": "Quality Certification Support",
+     "type": "Reimbursement",
+     "benefit": "100% financial support up to INR 25 lakh",
+     "description": "Full support for costs of obtaining quality certification from BIS and internationally recognized institutions.",
+     "eligibility": "Registered Jharkhand startups",
+     "url": "https://abvil.jharkhand.gov.in/documents/Policy2023.pdf"
+    },
+    {
+     "name": "Stamp Duty & Registration Fee Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% of stamp duty and registration fee on the first transaction",
+     "description": "Full reimbursement of stamp duty and registration fee paid on sale/lease deeds, on the first transaction only.",
+     "eligibility": "Registered Jharkhand startups",
+     "url": "https://abvil.jharkhand.gov.in/documents/Policy2023.pdf"
+    },
+    {
+     "name": "Trade Fair & Marketing Support",
+     "type": "Reimbursement",
+     "benefit": "75% of stall charges (max INR 4 lakh) and 75% of airfare (up to INR 50,000/person, max 2 per unit per year) for international trade fairs",
+     "description": "Support for participation in international trade fairs to help startups market their products globally.",
+     "eligibility": "Registered Jharkhand startups",
+     "url": "https://abvil.jharkhand.gov.in/documents/Policy2023.pdf"
+    },
+    {
+     "name": "Jharkhand Entrepreneurship Development Fund",
+     "type": "Seed funding",
+     "benefit": "State fund for startup investment and support",
+     "description": "A dedicated state fund established under the policy to channel funding and financial support to startups.",
+     "eligibility": "Startups selected under the policy",
+     "url": "https://abvil.jharkhand.gov.in/documents/Policy2023.pdf"
+    },
+    {
+     "name": "Incubation & Innovation Infrastructure",
+     "type": "Incubation",
+     "benefit": "Central Innovation Lab, incubation centres and incentives for private incubators/accelerators",
+     "description": "Setting up a Central Innovation Lab as a networking platform, incubation centres in higher educational institutions, Centers of Excellence, and incentives for private incubators and accelerators.",
+     "eligibility": "Startups, institutions and private incubators/accelerators",
+     "url": "https://abvil.jharkhand.gov.in/documents/Policy2023.pdf"
+    }
+   ]
+  },
+  {
+   "state": "Karnataka",
+   "policy": "Karnataka Startup Policy 2022-2027",
+   "period": "2022-2027",
+   "portal": "https://www.missionstartupkarnataka.org/",
+   "nodalAgency": "Karnataka Innovation and Technology Society (KITS) / Karnataka Startup Cell, Department of Electronics, IT, Bt and S&T, Government of Karnataka",
+   "summary": "Karnataka's startup policy aims to nurture up to 25,000 startups across a 9-pillar approach (funding, incubation, infrastructure, mentoring, inclusion), with a strong thrust on emerging clusters Beyond Bengaluru. It offers seed grants, a venture capital fund, and a package of reimbursements and concessions to DPIIT-style recognised startups registered with the Karnataka Startup Cell.",
+   "sectors": [
+    "IT/ITeS",
+    "Biotechnology & Life Sciences",
+    "Electronics System Design & Manufacturing (ESDM)",
+    "Animation, Visual Effects, Gaming & Comic (AVGC)",
+    "Artificial Intelligence / Machine Learning",
+    "EdTech",
+    "Agritech",
+    "Fintech",
+    "Telecom",
+    "Deep Tech",
+    "Clean Energy / Sustainability / Circular Economy",
+    "MedTech, Robotics & Drones"
+   ],
+   "email": "startupcell@karnataka.gov.in",
+   "phone": "",
+   "schemes": [
+    {
+     "name": "Idea2PoC Grant-in-Aid Scheme (ELEVATE)",
+     "type": "Seed funding",
+     "benefit": "One-time grant of up to ₹50 lakh",
+     "description": "Early-stage seed funding to help startups develop their idea to a proof-of-concept stage; 10% of the fund is earmarked for Deep Tech, Assistive Technology and SDG-related startups, with subsidised incubation support.",
+     "eligibility": "Startups registered with the Karnataka Startup Cell requiring early-stage seed support to reach PoC.",
+     "url": ""
+    },
+    {
+     "name": "Startup Funding through Fund of Funds (Venture Capital Fund)",
+     "type": "Seed funding",
+     "benefit": "₹100 crore venture capital fund",
+     "description": "A state venture capital fund to invest in emerging, innovative and deep-tech startups in AI, ML, electric vehicles, MedTech, robotics, drones and other disruptive technologies across sectors.",
+     "eligibility": "Emerging innovative and deep-tech startups; 25% of the fund earmarked for women-led startups.",
+     "url": ""
+    },
+    {
+     "name": "Beyond Bengaluru Cluster Seed Fund",
+     "type": "Seed funding",
+     "benefit": "Dedicated seed fund (amount per startup not specified)",
+     "description": "Funding support for growth-stage startups established outside Bengaluru Urban District to enable scaling up, dedicated to the emerging technology clusters of Mysuru, Hubballi and Mangalore.",
+     "eligibility": "Growth-stage startups established outside Bengaluru Urban District.",
+     "url": ""
+    },
+    {
+     "name": "Reimbursement of State GST (SGST)",
+     "type": "Reimbursement",
+     "benefit": "100% reimbursement of annual SGST for first 3 years",
+     "description": "Full reimbursement of annual State GST for the first three years of incubation for Beyond Bengaluru startups incubated in Government-supported incubators/CIFs.",
+     "eligibility": "Beyond Bengaluru startups incubated in GoK-supported incubators/CIFs with maximum annual turnover of ₹1 crore.",
+     "url": ""
+    },
+    {
+     "name": "Marketing Cost Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "30% of actual cost, up to ₹5 lakh per year",
+     "description": "Reimbursement of 30% of actual costs (including travel) incurred in international marketing through trade show participation.",
+     "eligibility": "Registered startups; capped at ₹5 lakh per year per startup.",
+     "url": ""
+    },
+    {
+     "name": "Patents Filing Cost Reimbursement (IPR)",
+     "type": "Reimbursement",
+     "benefit": "Up to ₹2 lakh per Indian patent; up to ₹10 lakh for foreign patents",
+     "description": "Reimbursement of patent filing and prosecution costs, paid 75% after filing and 25% after grant, for startups incubated in GoK-supported incubators/CIFs.",
+     "eligibility": "Startups incubated in GoK-supported incubators/CIFs; ₹2 lakh per Indian patent awarded, up to ₹10 lakh for a foreign patent on a single subject matter.",
+     "url": ""
+    },
+    {
+     "name": "Quality Certification Cost Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "50% of cost, overall ceiling ₹6 lakh",
+     "description": "Reimbursement of 50% of quality certification fees for up to 3 industry-standard certifications.",
+     "eligibility": "Startups located outside Bengaluru Urban District.",
+     "url": ""
+    },
+    {
+     "name": "Women Entrepreneurship Support (Elevate WomEN)",
+     "type": "Incentive",
+     "benefit": "Direct loan up to ₹10 lakh; 25% of ₹100 cr VC fund earmarked; 20% incubator seats reserved",
+     "description": "A package for women-led startups including an exclusive Idea2PoC/seed program for Beyond Bengaluru, the Elevate WomEN acceleration and incubation programme, 20% reserved incubator seats, and a direct loan through the Karnataka State Women Development Corporation.",
+     "eligibility": "Entities with women founder/co-founder holding minimum 51% stake (partial benefits for 51% women employment).",
+     "url": ""
+    },
+    {
+     "name": "Grand Challenges Karnataka (GCK)",
+     "type": "Grant",
+     "benefit": "Initial grant ₹10 lakh + follow-on ₹50 lakh",
+     "description": "Challenge-based grants where winning startups receive an initial grant to test/demonstrate a solution to a societal problem and follow-on funding for deployment; 3 challenges announced each year with Government departments/corporates.",
+     "eligibility": "Startups proposing solutions to societal/ESG/SDG challenges identified by Government departments.",
+     "url": ""
+    },
+    {
+     "name": "Experiential Internship Support",
+     "type": "Subsidy",
+     "benefit": "Up to ₹1 lakh internship subsidy per startup",
+     "description": "Subsidises internship fees for social entrepreneurs to hire up to 3 interns (minimum 6 months); available for about 50 startups annually, once during the policy period.",
+     "eligibility": "Social-entrepreneur startups hiring interns from Beyond Bengaluru.",
+     "url": ""
+    },
+    {
+     "name": "Regulatory Sandbox Fee Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "75% of application fees reimbursed to startups",
+     "description": "Under the Karnataka Innovation Authority Act 2020, startups participating in a regulatory sandbox get 75% of application fees reimbursed (sandbox operators supporting 5+ startups get 50% of processing fees).",
+     "eligibility": "Startups participating in a regulatory sandbox under the KIA Act 2020.",
+     "url": ""
+    },
+    {
+     "name": "Preferential Market Access in Public Procurement",
+     "type": "Procurement",
+     "benefit": "Relaxations and value-based preference in Government tenders",
+     "description": "Amended Karnataka Transparency in Public Procurements Rules provide general relaxations for startups, value-based preferential procurement, and adoption of a startup inclusion plan in tenders. Startups may also self-certify under specified labour laws.",
+     "eligibility": "Startups registered with the Karnataka Startup Cell participating in Government/PSU procurement.",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "state": "Kerala",
+   "policy": "Kerala Technology Startup Policy",
+   "period": "2014 onwards",
+   "portal": "https://startupmission.kerala.gov.in/",
+   "nodalAgency": "Kerala Startup Mission (KSUM)",
+   "summary": "Kerala Startup Mission is the nodal agency implementing the state's technology startup policy, offering staged innovation grants, soft-loan seed funding, IPR reimbursement, and market, rent and procurement support to technology-based product startups registered in Kerala.",
+   "sectors": [
+    "Technology-based product startups"
+   ],
+   "email": "info@startupmission.in",
+   "phone": "0471-2700270",
+   "schemes": [
+    {
+     "name": "Idea Grant",
+     "type": "Grant",
+     "benefit": "Up to Rs. 3 lakhs",
+     "description": "Milestone-based grant helping early-stage entrepreneurs convert an idea or proof of concept into a working prototype and validate technical and market feasibility.",
+     "eligibility": "Kerala-based startups in ideation/PoC stage building an innovative tech product; incorporation (Pvt Ltd/LLP/OPC) and KSUM Unique ID required at disbursal.",
+     "url": "https://startupmission.kerala.gov.in/schemes/idea-grant"
+    },
+    {
+     "name": "Productisation Grant",
+     "type": "Grant",
+     "benefit": "Up to Rs. 7 lakhs (up to Rs. 12 lakhs for women-led startups)",
+     "description": "Grant to convert a minimum viable prototype into a market-ready product, covering testing, validation and early market entry.",
+     "eligibility": "Startups in product-development stage, incorporated as Pvt Ltd/LLP with active MCA status, owning an innovative tech product and holding a KSUM Unique ID.",
+     "url": "https://startupmission.kerala.gov.in/schemes/productisation-grant"
+    },
+    {
+     "name": "Scale-up Grant",
+     "type": "Grant",
+     "benefit": "Up to Rs. 15 lakhs",
+     "description": "Grant for market-validated startups to expand markets, strengthen branding, enhance products and accelerate customer acquisition and revenue.",
+     "eligibility": "Startups with a live tech product that generated Rs. 10 lakhs revenue in last 6 months OR raised at least Rs. 30 lakhs external equity; 50% margin money; valid KSUM Unique ID.",
+     "url": "https://startupmission.kerala.gov.in/schemes/scaleup-grant"
+    },
+    {
+     "name": "Seed Fund (Seed Support Scheme)",
+     "type": "Seed funding",
+     "benefit": "Soft loan up to Rs. 15 lakhs at 6% simple interest per annum",
+     "description": "Soft loan to early-stage startups for product development, customer development, marketing and scaling up, disbursed in tranches with a 12-month moratorium.",
+     "eligibility": "Startups registered in Kerala as LLP/Pvt Ltd with active KSUM Unique ID and DPIIT recognition, working on an innovative product (not service/trade).",
+     "url": "https://startupmission.kerala.gov.in/schemes/seed-fund"
+    },
+    {
+     "name": "Patent (IPR) Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Up to Rs. 2 lakhs per Indian patent; up to Rs. 10 lakhs per international patent",
+     "description": "Reimburses government filing charges and IP attorney/consultant fees for patent filing (excludes renewal and appellate costs).",
+     "eligibility": "Kerala-based startups registered with DPIIT and KSUM, less than 10 years old, patents filed on or after 9 November 2015 and not reimbursed elsewhere.",
+     "url": ""
+    },
+    {
+     "name": "Early Stage Equity / Fund of Funds",
+     "type": "Seed funding",
+     "benefit": "Ticket size Rs. 25 lakhs to Rs. 200 lakhs",
+     "description": "KSUM partners with SEBI-registered venture capital funds to invest early-stage risk capital in emerging technology startups.",
+     "eligibility": "Early-stage technology-based startups registered in Kerala.",
+     "url": ""
+    },
+    {
+     "name": "Government as Marketplace",
+     "type": "Procurement",
+     "benefit": "Direct procurement up to Rs. 20 lakhs; limited-tender purchases up to Rs. 100 lakhs",
+     "description": "Enables government departments to procure innovative products and services directly from registered startups, giving them their first public customers.",
+     "eligibility": "KSUM-registered startups with an innovative product or service.",
+     "url": ""
+    },
+    {
+     "name": "Marketing Support",
+     "type": "Subsidy",
+     "benefit": "50% subsidy on marketing expenses",
+     "description": "Subsidises marketing spend including digital and print media and PR activities to help startups reach markets.",
+     "eligibility": "KSUM-registered startups.",
+     "url": ""
+    },
+    {
+     "name": "Rent (Lease Rental) Subsidy",
+     "type": "Subsidy",
+     "benefit": "Reimbursement of a portion of rent paid, for a maximum of 3 years",
+     "description": "Reimburses part of the rent paid for built-up space in government parks or government-owned/leased premises to support scale-up-stage startups.",
+     "eligibility": "Startups showing at least 50% year-on-year revenue growth, with annual revenue of at least Rs. 50 lakhs or external equity funding of at least Rs. 150 lakhs.",
+     "url": "https://startupmission.kerala.gov.in/schemes/rent-subsidy"
+    },
+    {
+     "name": "Incubation & IEDC Support",
+     "type": "Incubation",
+     "benefit": "24/7 workspace, fab labs, business services and mentorship",
+     "description": "Provides incubation infrastructure, prototyping/fabrication facilities and mentoring through KSUM incubators and campus Innovation & Entrepreneurship Development Centres (IEDCs).",
+     "eligibility": "Startups and student entrepreneurs in Kerala.",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "state": "Ladakh",
+   "policy": "",
+   "period": "",
+   "portal": "https://ediiladakh.org/",
+   "nodalAgency": "Department of Higher Education, UT Administration of Ladakh (implemented by Entrepreneurship Development Institute of India, EDII)",
+   "summary": "Ladakh has no distinct financial startup scheme of its own yet; entrepreneurship support is delivered through the 'Enterprising Ladakh' programme (EDII with the UT Administration), which provides training, mentoring and incubation support and is developing a formal Startup, Innovation and Entrepreneurship Policy.",
+   "sectors": [
+    "Tourism",
+    "Handicrafts",
+    "AYUSH and wellness",
+    "Food processing",
+    "Pashmina"
+   ],
+   "email": "",
+   "phone": "",
+   "schemes": [
+    {
+     "name": "Enterprising Ladakh (EDIL) support",
+     "type": "Incubation",
+     "benefit": "Training, mentoring and incubation support (no fixed grant amount published)",
+     "description": "Flagship programme establishing the Entrepreneurship Development Institute of Ladakh, offering entrepreneurship training, a pool of startup mentors, and handholding for new ventures.",
+     "eligibility": "Aspiring and existing entrepreneurs/startups in Ladakh",
+     "url": "https://ediiladakh.org/about"
+    }
+   ]
+  },
+  {
+   "state": "Lakshadweep",
+   "policy": "",
+   "period": "",
+   "portal": "https://lakshadweep.gov.in/",
+   "nodalAgency": "Department of Industries, UT Administration of Lakshadweep",
+   "summary": "Lakshadweep has no distinct startup policy; entrepreneurship support is provided mainly through a general 25% Capital Investment Subsidy Scheme for micro and small enterprises, with startups also relying on central schemes (e.g. SISFS, PMEGP).",
+   "sectors": [],
+   "email": "",
+   "phone": "",
+   "schemes": [
+    {
+     "name": "25% Capital Investment Subsidy Scheme",
+     "type": "Subsidy",
+     "benefit": "25% capital investment subsidy",
+     "description": "Subsidy on capital investment for micro and small entrepreneurial units in the UT, per revised guidelines issued by the administration.",
+     "eligibility": "Micro and small entrepreneurial units in Lakshadweep",
+     "url": "https://lakshadweep.gov.in/notice/revised-guidelines-for-providing-25-capital-investment-subsidy-scheme-to-micro-and-small-entrepreneural-units/"
+    }
+   ]
+  },
+  {
+   "state": "Madhya Pradesh",
+   "policy": "Madhya Pradesh Startup Policy and Implementation Scheme 2022",
+   "period": "2022 onwards (5 years from notification)",
+   "portal": "https://startup.mp.gov.in/",
+   "nodalAgency": "Department of Micro, Small and Medium Enterprises (MSME); MP Startup Centre under Madhya Pradesh Laghu Udyog Nigam (MPLUN)",
+   "summary": "Madhya Pradesh's 2022 startup policy supports DPIIT-recognised, MP-registered startups with a strong focus on product-based and agri/food ventures, offering investment assistance, lease-rental and patent reimbursement, employment and training support, incubation grants, procurement preference and a State Innovation Challenge grant of up to Rs.1 crore.",
+   "sectors": [
+    "Product-based manufacturing startups",
+    "Agriculture and Food processing",
+    "Innovation and technology solving economic-social problems"
+   ],
+   "email": "startup-centre@mp.gov.in",
+   "phone": "0755-3524017",
+   "schemes": [
+    {
+     "name": "Assistance on Investment Received",
+     "type": "Subsidy",
+     "benefit": "15% of investment, up to Rs.15 lakh per investment (max 4 stages); additional 20% for women-led startups",
+     "description": "Startups that raise funds from a SEBI/RBI-recognised financial institution get 15% of the investment reimbursed, up to Rs.15 lakh, payable separately for up to four investment stages over the startup's life.",
+     "eligibility": "DPIIT-recognised startups registered in MP that have received recognised investment; extra 20% for startups with 51%+ women stakeholding",
+     "url": ""
+    },
+    {
+     "name": "Lease Rental Assistance",
+     "type": "Reimbursement",
+     "benefit": "50% of monthly rent, up to Rs.5,000/month for 3 years",
+     "description": "Reimbursement of 50% of the rent paid on workspace leased by startups (also available on lease rent and maintenance charges in state-owned/aided industrial areas for product-based startups), capped at Rs.5,000 per month for up to three years.",
+     "eligibility": "Startups established/registered in Madhya Pradesh leasing workspace",
+     "url": ""
+    },
+    {
+     "name": "Patent Assistance",
+     "type": "Reimbursement",
+     "benefit": "Up to Rs.5 lakh per patent",
+     "description": "Reimbursement of up to Rs.5 lakh for obtaining a patent, provided the patent is obtained for a startup established in the state.",
+     "eligibility": "Startups established in Madhya Pradesh obtaining a patent",
+     "url": ""
+    },
+    {
+     "name": "Employment Generation Assistance",
+     "type": "Incentive",
+     "benefit": "Rs.5,000 per employee per month, up to 25 employees for up to 3 years",
+     "description": "Product-based startup units get Rs.5,000 per new employee per month for the first three years from commencement of commercial production, subject to minimum local-employment thresholds (50%/75%/90% MP natives by year 1/2/3).",
+     "eligibility": "Product-based startup units; new employees appointed within first 3 years of commercial production; max 25 employees",
+     "url": ""
+    },
+    {
+     "name": "Training Expenditure Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Rs.13,000 per employee per year for 3 years, up to 25 employees",
+     "description": "Reimbursement of skill development and training expenditure for startup employees at Rs.13,000 per employee per year for three years.",
+     "eligibility": "Startups employing workers domiciled in Madhya Pradesh; max 25 employees",
+     "url": ""
+    },
+    {
+     "name": "State Innovation Challenge Grant",
+     "type": "Grant",
+     "benefit": "Grant up to Rs.1 crore (in up to 4 phases) plus procurement and licence-fee exemptions",
+     "description": "Special financial assistance for concepts selected to solve four high-impact economic-social problems of the state, including a grant up to Rs.1 crore, exemption/reimbursement of licence and consent charges, and two years of procurement support.",
+     "eligibility": "Startups and institutions whose concepts are selected by the state-level Empowered Committee under the State Innovation Challenge",
+     "url": ""
+    },
+    {
+     "name": "Concession in Electricity Tariff and Electricity Duty Exemption",
+     "type": "Incentive",
+     "benefit": "Electricity at fixed Rs.5/unit for 3 years; full electricity duty exemption for 3 years",
+     "description": "Product-based startup units on new electricity connections get supply at a fixed Rs.5 per unit for three years and full exemption from electricity duty for three years from the date of connection.",
+     "eligibility": "Eligible new product-based startup units with new electricity connections",
+     "url": ""
+    },
+    {
+     "name": "Incubation Upgradation Assistance",
+     "type": "Incubation",
+     "benefit": "One-time Rs.5 lakh",
+     "description": "One-time assistance of Rs.5 lakh to upgrade an incubator, available once in the incubator's life, conditional on increasing existing seat capacity by an additional 20%.",
+     "eligibility": "Incubators located in Madhya Pradesh with Startup India recognition",
+     "url": ""
+    },
+    {
+     "name": "Event Organizing Assistance for Incubators",
+     "type": "Grant",
+     "benefit": "Rs.5 lakh per event, up to Rs.20 lakh per annum",
+     "description": "Assistance of Rs.5 lakh per event to incubators located in Madhya Pradesh for organising startup-related events, capped at Rs.20 lakh per annum.",
+     "eligibility": "Incubators located in Madhya Pradesh",
+     "url": ""
+    },
+    {
+     "name": "Marketing and Procurement Preference",
+     "type": "Procurement",
+     "benefit": "Exemption from experience/turnover conditions in government tenders up to Rs.1 crore; EMD/Security deposit exemption",
+     "description": "Under the MP Store Purchase and Service Procurement Rules, startups get exemption from prior-experience and turnover requirements for government tenders up to Rs.1 crore, acceptance of Proof of Concept, and exemption from EMD/security deposit on state tenders.",
+     "eligibility": "Startups registered in Madhya Pradesh participating in government procurement",
+     "url": ""
+    },
+    {
+     "name": "Margin Money and Interest Subsidy (via MSME Development Policy)",
+     "type": "Subsidy",
+     "benefit": "Margin money up to 15% (max Rs.12 lakh); interest subsidy up to 5% (6% for SC/ST/OBC/women), up to Rs.5 lakh/year for 7 years",
+     "description": "Startups can access the prevailing MSME Development Policy benefits including margin money assistance and interest subsidy on term loans, with enhanced rates for SC/ST/OBC and women entrepreneurs.",
+     "eligibility": "DPIIT-recognised MP startups eligible under the prevailing MSME Development Policy",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "state": "Maharashtra",
+   "policy": "Maharashtra Startup, Entrepreneurship and Innovation Policy 2025",
+   "period": "2025 (5-year policy)",
+   "portal": "https://msins.in/",
+   "nodalAgency": "Maharashtra State Innovation Society (MSInS), Dept. of Skills, Employment, Entrepreneurship & Innovation",
+   "summary": "Maharashtra runs its startup ecosystem through the Maharashtra State Innovation Society (MSInS), whose 2025 policy targets 50,000 recognised startups and 1.25 lakh entrepreneurs over five years, backed by a Rs 500 crore Maha-Fund plus fiscal incentives (patent/IPR, SGST, stamp-duty, testing and marketing reimbursements) and government procurement pilots.",
+   "sectors": [
+    "FinTech",
+    "Biotechnology",
+    "Manufacturing",
+    "Agriculture / rural enterprises",
+    "Social enterprises"
+   ],
+   "email": "team@msins.in",
+   "phone": "+91 22355 43099",
+   "schemes": [
+    {
+     "name": "Chief Minister's Maha-Fund",
+     "type": "Seed funding",
+     "benefit": "Rs 500 crore corpus; Rs 5-10 lakh support per early-stage entrepreneur",
+     "description": "Flagship state fund providing early-stage funding, mentoring and incubation through a three-stage selection, aiming to back 25,000 entrepreneurs from a pool of 5 lakh youth.",
+     "eligibility": "Early-stage entrepreneurs, with priority to youth, women and rural founders",
+     "url": "https://msins.in/"
+    },
+    {
+     "name": "Startup Week Government Work Orders",
+     "type": "Procurement",
+     "benefit": "Pilot work orders up to Rs 25 lakh",
+     "description": "Startups selected at the annual Startup Week pitch solutions to government departments and win pilot procurement work orders for implementation.",
+     "eligibility": "Startups selected through MSInS Startup Week",
+     "url": "https://msins.in/"
+    },
+    {
+     "name": "Departmental Innovation Fund",
+     "type": "Other",
+     "benefit": "0.5% of each state department's annual budget earmarked for innovation",
+     "description": "Every state government department must set aside 0.5% of its annual outlay to promote innovation and entrepreneurship, channelled through MSInS.",
+     "eligibility": "Routed via MSInS to startups and innovation programmes",
+     "url": ""
+    },
+    {
+     "name": "Patent / IPR Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "80% of patent filing cost, up to Rs 2 lakh (Indian patent) / Rs 10 lakh (international patent)",
+     "description": "Reimburses a share of patent filing costs to encourage startups to protect their intellectual property.",
+     "eligibility": "MSInS/DPIIT-recognised startups registered in Maharashtra",
+     "url": "https://msins.in/patent-scheme"
+    },
+    {
+     "name": "SGST Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Reimbursement of State GST paid",
+     "description": "Startups can claim back the State GST paid where input tax credit is not available, easing early-stage cash flow.",
+     "eligibility": "Eligible registered startups under the Maharashtra startup policy",
+     "url": ""
+    },
+    {
+     "name": "Stamp Duty & Registration Fee Exemption",
+     "type": "Incentive",
+     "benefit": "100% exemption for first 3 years, 50% for the next 3 years",
+     "description": "Exemption from stamp duty and registration charges on property/office lease agreements for recognised startups.",
+     "eligibility": "Recognised Maharashtra startups",
+     "url": ""
+    },
+    {
+     "name": "Quality Testing & Certification Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "80% of testing cost at BIS-accredited facilities",
+     "description": "Reimburses most of the cost of product quality testing and certification at accredited labs.",
+     "eligibility": "Recognised Maharashtra startups",
+     "url": ""
+    },
+    {
+     "name": "Marketing / Exhibition Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Rs 2 lakh (domestic) / Rs 5 lakh (international) exhibition participation",
+     "description": "Supports startups' participation in domestic and international trade shows and exhibitions to build markets.",
+     "eligibility": "Recognised Maharashtra startups",
+     "url": ""
+    },
+    {
+     "name": "Incubation Support",
+     "type": "Incubation",
+     "benefit": "Up to Rs 5 crore per incubation centre",
+     "description": "State grant support for new and existing incubators, plus micro-incubators in ITIs/polytechnics and regional innovation hubs across administrative divisions.",
+     "eligibility": "Approved incubators and host institutions",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "state": "Manipur",
+   "policy": "Manipur Startup Scheme 2.0 Policy 2022",
+   "period": "",
+   "portal": "https://startupmanipur.in/",
+   "nodalAgency": "Planning Department, Government of Manipur (in collaboration with NEDFi)",
+   "summary": "Manipur's startup programme, run by the state Planning Department, supports Manipur-domiciled entrepreneurs through stage-based seed grants and subsidised bank-loan packages plus IPR and stamp-duty reimbursements, with dedicated support for SC/ST/OBC/women/minority founders.",
+   "sectors": [
+    "Social impact",
+    "Waste management",
+    "Water management",
+    "Financial inclusion",
+    "Education",
+    "Agriculture",
+    "Food processing",
+    "Biotechnology",
+    "Healthcare",
+    "Energy",
+    "Mobility",
+    "Defence",
+    "Space",
+    "Railways",
+    "Oil and gas",
+    "Textiles"
+   ],
+   "email": "contact@startupmanipur.in",
+   "phone": "1800 345 3831",
+   "schemes": [
+    {
+     "name": "Idea Stage Seed Grant",
+     "type": "Grant",
+     "benefit": "Up to Rs. 3 lakh (two installments of Rs. 1.5 lakh)",
+     "description": "Seed grant for proof of concept, prototype development and market entry, with mandatory business incubation training/boot camp and mentorship.",
+     "eligibility": "Manipur domicile by birth; individual/group with an innovative, scalable business idea",
+     "url": "https://startupmanipur.in/"
+    },
+    {
+     "name": "Revenue Stage Support",
+     "type": "Subsidy",
+     "benefit": "30% subsidy up to Rs. 30 lakh (65% bank loan, 5% margin money)",
+     "description": "Scale-up assistance for existing entrepreneurs expanding a proven business, structured as a subsidy on top of a bank-financed project.",
+     "eligibility": "Manipur domicile; existing entrepreneurs seeking business expansion",
+     "url": "https://startupmanipur.in/"
+    },
+    {
+     "name": "Chief Minister's Entrepreneurship Support Scheme (CMESS)",
+     "type": "Subsidy",
+     "benefit": "Project support up to Rs. 10 lakh with 30% subsidy from Manipur Startup Fund (65% bank loan, 5% margin money)",
+     "description": "Support scheme for unemployed youth to set up bankable enterprises, with a 30% government subsidy on financially viable project cost.",
+     "eligibility": "Manipur domicile, unemployed, age 18-65; one applicant per family; business not older than 2 years; no prior startup subsidy",
+     "url": "https://startupmanipur.in/"
+    },
+    {
+     "name": "ESS / Micro Entrepreneur Stage",
+     "type": "Subsidy",
+     "benefit": "Rs. 1 lakh subsidy plus Rs. 2 lakh bank loan",
+     "description": "Support package for existing micro entrepreneurs.",
+     "eligibility": "Manipur domicile; existing micro entrepreneurs",
+     "url": "https://startupmanipur.in/"
+    },
+    {
+     "name": "Stand Up Stage",
+     "type": "Incentive",
+     "benefit": "Same as Revenue stage (30% subsidy up to Rs. 30 lakh) for new projects",
+     "description": "Dedicated support for deprived sections to start new projects on the same terms as the Revenue stage.",
+     "eligibility": "SC / ST / OBC / Women / Minority applicants with new projects",
+     "url": "https://startupmanipur.in/"
+    },
+    {
+     "name": "Patent / IPR Filing Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% of actual costs up to Rs. 2 lakh (domestic) / Rs. 5 lakh (international); 75% on filing, 25% on grant",
+     "description": "Reimbursement of patent filing, attorney, search and maintenance fees for recognised startups.",
+     "eligibility": "Registered/recognised Manipur startups filing patents",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Manipur-state-policy.html"
+    },
+    {
+     "name": "Stamp Duty / Registration Fee Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% reimbursement of stamp duty / registration fee / conversion fee on first transaction",
+     "description": "Full reimbursement of stamp duty, registration and conversion fees paid on sale/lease deeds for the startup's first transaction.",
+     "eligibility": "Recognised Manipur startups (first transaction)",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Manipur-state-policy.html"
+    },
+    {
+     "name": "Manipur Startup Venture Fund (MSVF)",
+     "type": "Seed funding",
+     "benefit": "",
+     "description": "Collaborative venture fund between the Government of Manipur and NEDFi to provide risk capital to startups.",
+     "eligibility": "Recognised Manipur startups",
+     "url": "https://startupmanipur.in/"
+    }
+   ]
+  },
+  {
+   "state": "Meghalaya",
+   "policy": "Meghalaya Startup Policy 2018-2023",
+   "period": "2018-2023",
+   "portal": "https://www.primemeghalaya.com/",
+   "nodalAgency": "PRIME Meghalaya (Promotion and Incubation of Market-driven Enterprises), Government of Meghalaya; Department of Planning & Finance",
+   "summary": "Meghalaya supports startups mainly through PRIME (Promotion and Incubation of Market-driven Enterprises), launched in 2019, which offers stage-wise grants and interest-free loans, incubation and mentoring via PRIME Hubs, plus policy-level incentives such as GST, stamp duty and power reimbursements.",
+   "sectors": [],
+   "email": "info@primemeghalaya.com",
+   "phone": "+91 90778 26559",
+   "schemes": [
+    {
+     "name": "PRIME Kick Start Grant",
+     "type": "Grant",
+     "benefit": "Non-returnable grant up to Rs 10 lakh",
+     "description": "Early-stage grant to support research and development and help innovators transform concepts into viable, market-ready solutions.",
+     "eligibility": "Early-stage startups from Meghalaya working on an innovative/unique product or service",
+     "url": "https://www.primemeghalaya.com/prime-entrepreneurship-funding/"
+    },
+    {
+     "name": "PRIME Scale-up Innovation Loan",
+     "type": "Loan/Credit",
+     "benefit": "Zero-interest, collateral-free soft loan up to Rs 75 lakh",
+     "description": "Interest-free loan for startups with existing revenue to scale operations, refine business models and expand market reach.",
+     "eligibility": "Startup entrepreneurs / community-led enterprises with an existing innovative business needing capital to scale",
+     "url": "https://www.primemeghalaya.com/prime-entrepreneurship-funding/"
+    },
+    {
+     "name": "PRIME Small Support Grant",
+     "type": "Grant",
+     "benefit": "Grant up to Rs 3 lakh",
+     "description": "Financial assistance for infrastructure upgrades and technology adoption to improve productivity of small enterprises.",
+     "eligibility": "Registered micro or small enterprises",
+     "url": "https://www.primemeghalaya.com/prime-entrepreneurship-funding/"
+    },
+    {
+     "name": "PRIME InnoVenture Grant",
+     "type": "Grant",
+     "benefit": "Grant up to Rs 35 lakh",
+     "description": "Funds transformative ideas that address key challenges and have potential for sector-wide or cross-sectoral impact.",
+     "eligibility": "High-impact innovators / startups at scaling-up stage",
+     "url": "https://www.primemeghalaya.com/prime-entrepreneurship-funding/"
+    },
+    {
+     "name": "GST Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "State GST reimbursed for 7 years, up to Rs 7 lakh per startup per year",
+     "description": "Annual reimbursement of state GST paid on sale of goods for eligible startups.",
+     "eligibility": "Eligible startups under the Meghalaya Startup Policy",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Meghalaya-state-policy.html"
+    },
+    {
+     "name": "Power Subsidy",
+     "type": "Subsidy",
+     "benefit": "50% subsidy on power consumption, up to Rs 10 lakh per year for 5 years",
+     "description": "Subsidy on power charges to reduce operating costs for eligible startups.",
+     "eligibility": "Eligible startups under the Meghalaya Startup Policy",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Meghalaya-state-policy.html"
+    },
+    {
+     "name": "Patent Filing Cost Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% of filing cost up to Rs 2 lakh (domestic) or Rs 5 lakh (international)",
+     "description": "Reimbursement of patent filing costs to support protection of startup intellectual property.",
+     "eligibility": "Eligible startups under the Meghalaya Startup Policy",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Meghalaya-state-policy.html"
+    },
+    {
+     "name": "Stamp Duty & Lease Rental Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% stamp duty on first transaction; 50% lease rental for 3 years up to Rs 2 lakh/year",
+     "description": "Reimbursement of stamp duty/registration/conversion fees on first sale or lease deed, plus partial lease rental support for startups.",
+     "eligibility": "Eligible startups under the Meghalaya Startup Policy",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Meghalaya-state-policy.html"
+    }
+   ]
+  },
+  {
+   "state": "Mizoram",
+   "policy": "Mizoram Entrepreneurship & Startup Policy, 2019",
+   "period": "2019",
+   "portal": "https://startupmizoram.com/",
+   "nodalAgency": "Mizoram Startup Mission (MSUM), Planning & Programme Implementation Department / Entrepreneurship Development Centre (EDC)",
+   "summary": "Mizoram supports startups through the Mizoram Entrepreneurship & Startup Policy, 2019, implemented by the Mizoram Startup Mission and Entrepreneurship Development Centre, offering micro seed grants, research funding, awareness support, acceleration and a state-backed venture capital fund. It targets young indigenous Mizo entrepreneurs, aiming to build self-employment and reduce dependence on public-sector jobs.",
+   "sectors": [
+    "Technology-driven enterprises",
+    "Skill-based and industry-oriented products",
+    "Scalable and innovative business models"
+   ],
+   "email": "mizoramstartupmission@msum.co.in",
+   "phone": "+91 6909180207",
+   "schemes": [
+    {
+     "name": "Mizoram Rahbi (Micro Startup Capital / Seed Grant Competition)",
+     "type": "Seed funding",
+     "benefit": "Grant not exceeding Rs. 5 lakh or half the estimate of the business plan, whichever is lower",
+     "description": "A micro seed-capital competition ('Rahbi' means stepping stone) for early-stage entrepreneurs yet to gain traction; winners must match the balance of the business-plan cost through own funds or a bank loan.",
+     "eligibility": "Residents of Mizoram, particularly young indigenous early-stage entrepreneurs",
+     "url": "https://planning.mizoram.gov.in/page/mizoram-rahbi-micro-startup-capital-competition"
+    },
+    {
+     "name": "Bana Kaih Venture Capital Fund (Senhri Investment Fund)",
+     "type": "Other",
+     "benefit": "Target corpus of Rs. 100 crore (Government contribution of Rs. 20 crore, balance mobilised from other sources)",
+     "description": "A SEBI-registered pooled venture capital fund providing investment (not grants) to Mizoram entrepreneurs with scalable, innovative and technology-driven business models for startup initiation and expansion.",
+     "eligibility": "Mizoram entrepreneurs with high-growth, scalable and innovative ventures",
+     "url": ""
+    },
+    {
+     "name": "Research Funding",
+     "type": "Grant",
+     "benefit": "Up to Rs. 10 lakh per sector research project",
+     "description": "Funding support for research projects on priority sectors under the Mizoram Entrepreneurship & Startup Policy.",
+     "eligibility": "As per policy guidelines",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Mizoram-state-policy.html"
+    },
+    {
+     "name": "Acceleration Programme",
+     "type": "Incubation",
+     "benefit": "Seed investment plus mentorship and logistical support",
+     "description": "An acceleration programme combining seed investment with mentorship and logistical support to help startups scale.",
+     "eligibility": "As per policy guidelines",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Mizoram-state-policy.html"
+    },
+    {
+     "name": "Mizoram Outstanding Entrepreneurs Award",
+     "type": "Incentive",
+     "benefit": "Cash award of Rs. 50,000 per awardee, plus citation and trophy",
+     "description": "Recognition award for outstanding entrepreneurs in the state to encourage entrepreneurship.",
+     "eligibility": "Entrepreneurs in Mizoram",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Mizoram-state-policy.html"
+    },
+    {
+     "name": "Entrepreneurship Awareness Programmes",
+     "type": "Grant",
+     "benefit": "Grant up to Rs. 25,000 per event (minimum 300 attendees)",
+     "description": "Financial support for organising entrepreneurship awareness events to build a startup culture across the state.",
+     "eligibility": "Event organisers meeting minimum attendance criteria",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Mizoram-state-policy.html"
+    },
+    {
+     "name": "Startup Hub and Incubation Centre, Aizawl",
+     "type": "Incubation",
+     "benefit": "Incubation space and support for startups",
+     "description": "A state startup hub and incubation centre in Aizawl providing incubation, mentorship and ecosystem support to Mizoram startups.",
+     "eligibility": "Mizoram-based startups and entrepreneurs",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "state": "Nagaland",
+   "policy": "Nagaland Start-Up Policy 2019",
+   "period": "2019 onwards (effective 5 years from notification)",
+   "portal": "https://www.startupnagaland.in/",
+   "nodalAgency": "Department of Industries & Commerce, Government of Nagaland (implemented via the Nagaland Innovation Society)",
+   "summary": "Nagaland's Start-Up Policy 2019 aims to make the state a regional startup leader by nurturing local, rural, social and women-led enterprises through a mix of grants, subsidies and reimbursements administered by the Department of Industries & Commerce. Eligibility requires registration in Nagaland with an indigenous founder and at least 60% local workforce.",
+   "sectors": [
+    "Rural and social enterprises",
+    "Women-led enterprises",
+    "Technology and IP-driven innovation"
+   ],
+   "email": "start.nagaland@gmail.com",
+   "phone": "9434600925",
+   "schemes": [
+    {
+     "name": "Seed Grant",
+     "type": "Seed funding",
+     "benefit": "One-time seed grant up to INR 1.00 lakh at the ideation stage",
+     "description": "A one-time ideation-stage grant awarded to startups depending on the creativity and innovation of the idea.",
+     "eligibility": "Eligible startups registered under the policy at ideation stage",
+     "url": "https://www.startupnagaland.in/Startup-Incentives"
+    },
+    {
+     "name": "Innovation Catalyst Grant (ICG)",
+     "type": "Grant",
+     "benefit": "One-time grant up to INR 5.00 lakh",
+     "description": "Awarded to startups with the most innovative, scalable product addressing a critical problem within the State.",
+     "eligibility": "Recognised startups with high-impact, scalable products",
+     "url": "https://www.startupnagaland.in/Startup-Incentives"
+    },
+    {
+     "name": "GST Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Annual reimbursement of State GST up to INR 1.50 lakh per startup per year for 3 years (women-led get additional 30% for 2 more years)",
+     "description": "Reimbursement of State GST paid on sales of goods and services for the first three years of operation.",
+     "eligibility": "Recognised startups submitting GSTIN and filed GST returns",
+     "url": "https://www.startupnagaland.in/Startup-Incentives"
+    },
+    {
+     "name": "Digital Up-gradation Subsidy",
+     "type": "Subsidy",
+     "benefit": "One-time subsidy at 50% of capital expenditure, ceiling INR 2.00 lakh",
+     "description": "Supports purchase of computers, smartphones, related hardware/software and broadband connectivity.",
+     "eligibility": "Recognised startups",
+     "url": "https://www.startupnagaland.in/Startup-Incentives"
+    },
+    {
+     "name": "Power Subsidy",
+     "type": "Subsidy",
+     "benefit": "50% of actual power cost/bill, up to INR 1.00 lakh per year for 2 years",
+     "description": "Subsidy on electricity bills to reduce operating costs of startups.",
+     "eligibility": "Recognised startups",
+     "url": "https://www.startupnagaland.in/Startup-Incentives"
+    },
+    {
+     "name": "Trademark/Patent/IPR Filing Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Up to 100% of filing cost, max INR 1.00 lakh for domestic patent (INR 1.5 lakh for women-led)",
+     "description": "Reimburses filing, attorney, search and maintenance fees; paid 50% on filing and 50% on grant of the patent.",
+     "eligibility": "Startups selected under the policy",
+     "url": "https://www.startupnagaland.in/Startup-Incentives"
+    },
+    {
+     "name": "Marketing and Promotion Assistance",
+     "type": "Reimbursement",
+     "benefit": "50% of actual marketing and promotion costs, up to INR 2.00 lakh per startup",
+     "description": "Covers online/offline advertising, in-store promotions, trade show participation, market research and related travel.",
+     "eligibility": "Recognised startups",
+     "url": "https://www.startupnagaland.in/Startup-Incentives"
+    },
+    {
+     "name": "Company Registration & Compliance Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Up to INR 50,000 in the 1st year plus 50% of compliance cost for 2 years up to INR 30,000",
+     "description": "Reimburses incorporation costs under Company/Partnership/LLP Acts and DPIIT registration fees.",
+     "eligibility": "Recognised startups incorporating as a legal entity",
+     "url": "https://www.startupnagaland.in/Startup-Incentives"
+    },
+    {
+     "name": "Women-Led Startup Milestone-Based Seed Funding",
+     "type": "Seed funding",
+     "benefit": "INR 1.50 lakh per women-led startup, up to a maximum of 10 startups per year",
+     "description": "Seed funding for women-led startups disbursed against measurable milestones such as DPR, revenue forecasts, social impact and scalability.",
+     "eligibility": "Women-led startups (>51% women shareholding, indigenous inhabitant)",
+     "url": "https://www.startupnagaland.in/Startup-Incentives"
+    },
+    {
+     "name": "Women Digital Marketing & E-commerce Support",
+     "type": "Subsidy",
+     "benefit": "Up to INR 4.00 lakh per women entrepreneur (INR 2.00 lakh digital up-gradation + INR 2.00 lakh marketing assistance)",
+     "description": "Supports women startups migrating to digital marketing, advertising and e-commerce platforms, provided 90% of target consumers are women or products are women-focused.",
+     "eligibility": "Women-led startups with women-focused products/services",
+     "url": "https://www.startupnagaland.in/Startup-Incentives"
+    },
+    {
+     "name": "Incubation Support",
+     "type": "Incubation",
+     "benefit": "Capital grant up to INR 25.00 lakh per incubator; reimbursement up to INR 1.00 lakh per incubate on graduation; INR 30.00 lakh set aside for existing/new incubators",
+     "description": "Funds setting up and equipping incubation centres and reimburses incubators for successfully graduating startups with a scalable POC; mentorship fees of INR 1.00 lakh per year also provided.",
+     "eligibility": "Government-recognised incubators and higher/technical educational institutions",
+     "url": "https://www.startupnagaland.in/Startup-Incentives"
+    },
+    {
+     "name": "Public Procurement Preference",
+     "type": "Procurement",
+     "benefit": "Waiver of prior experience and turnover requirements in State tenders",
+     "description": "Encourages startup participation in public procurement and mandates eligible companies to partner startups for software and infrastructure projects.",
+     "eligibility": "Recognised startups whose products meet required specifications",
+     "url": "https://www.startupnagaland.in/Startup-Incentives"
+    }
+   ]
+  },
+  {
+   "state": "Odisha",
+   "policy": "Odisha Startup Policy 2016 (amended)",
+   "period": "2016 onwards",
+   "portal": "https://startupodisha.gov.in/",
+   "nodalAgency": "Directorate of Industries / Startup Odisha, Department of Micro, Small & Medium Enterprises (MSME), Government of Odisha",
+   "summary": "Odisha's Startup Policy offers recognized startups a monthly sustenance allowance, product-development and marketing assistance, patent (IPR) and SGST reimbursement, subsidized incubation/lease rental, seed and incubator funding, and public-procurement relaxations, with enhanced benefits for women, transgender and SC/ST/SEBC/PH founders. The policy is broadly sector-agnostic.",
+   "sectors": [
+    "Sector agnostic"
+   ],
+   "email": "startup.odisha@gov.in",
+   "phone": "0674-2586176",
+   "schemes": [
+    {
+     "name": "Monthly Sustenance Allowance",
+     "type": "Incentive",
+     "benefit": "Rs. 20,000/month for 1 year (Rs. 22,000/month if founder/co-founder is a Woman, transgender or from SC/ST/SEBC/PH)",
+     "description": "Monthly allowance paid to a recognized startup entity to help founders sustain themselves during the early stage.",
+     "eligibility": "Recognized Startup Odisha entity",
+     "url": "https://startupodisha.gov.in/startup-incentives/"
+    },
+    {
+     "name": "Need-Based / Product Development Assistance",
+     "type": "Grant",
+     "benefit": "Up to Rs. 10 lakh",
+     "description": "Assistance towards cost of raw material, components and related equipment required for developing a new innovative product.",
+     "eligibility": "Certified/recognized startup",
+     "url": "https://startupodisha.gov.in/startup-incentives/"
+    },
+    {
+     "name": "Marketing / Publicity Assistance",
+     "type": "Grant",
+     "benefit": "Up to Rs. 5 lakh (combined product-development + marketing up to Rs. 16 lakh where a Woman/transgender/SC/ST/SEBC/PH founder holds at least 50% equity)",
+     "description": "Support for introducing the innovated product into the market.",
+     "eligibility": "Recognized startup post product development",
+     "url": "https://startupodisha.gov.in/startup-incentives/"
+    },
+    {
+     "name": "Patent / IPR Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% reimbursement up to Rs. 10 lakh",
+     "description": "Reimbursement of the cost of filing and prosecution of patent applications.",
+     "eligibility": "Recognized startup filing patents",
+     "url": "https://startupodisha.gov.in/startup-incentives/"
+    },
+    {
+     "name": "SGST / VAT-CST Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Reimbursement of VAT/CST (SGST) paid in Odisha; exemption from VAT scrutiny for 3 years from certification",
+     "description": "State tax paid by the startup company in Odisha is reimbursed as per the prevailing Industrial Policy.",
+     "eligibility": "Certified startup company",
+     "url": "https://startupodisha.gov.in/startup-incentives/"
+    },
+    {
+     "name": "Incubation / Lease Rental Subsidy",
+     "type": "Subsidy",
+     "benefit": "50% of monthly rental of incubation space, up to Rs. 5,000/month, for a maximum of 1 year",
+     "description": "Rental subsidy for startups incubated at any incubator recognized by the Startup Odisha Initiative.",
+     "eligibility": "Startup incubated at a recognized incubator",
+     "url": "https://startupodisha.gov.in/startup-incentives/"
+    },
+    {
+     "name": "Public Procurement Support",
+     "type": "Procurement",
+     "benefit": "10% of public procurement reserved for startups (in addition to 20% for MSEs); EMD exemption; relaxation of prior turnover and prior experience criteria",
+     "description": "Startups registered under Startup Odisha / Startup India get EMD exemption and relaxation from prior-turnover and prior-experience conditions in open government tenders.",
+     "eligibility": "Startup Odisha / Startup India registered startups",
+     "url": "https://startupodisha.gov.in/public-procurement-support/"
+    },
+    {
+     "name": "Seed Fund (Startup Odisha Seed Fund)",
+     "type": "Seed funding",
+     "benefit": "Government participates as Limited Partner up to 25% of fund size; initial corpus of Rs. 100 crore",
+     "description": "State contributes as a limited partner alongside private investors to provide seed/early-stage capital to startups.",
+     "eligibility": "Recognized startups via participating funds",
+     "url": "https://startupodisha.gov.in/startup-incentives/"
+    },
+    {
+     "name": "Incubator Support Grants",
+     "type": "Incubation",
+     "benefit": "One-time capital grant of 50% of capital cost (excl. building) up to Rs. 1 crore; performance grant of Rs. 5 lakh per successfully incubated startup; matching grant up to Rs. 5 crore for universities",
+     "description": "Financial support to set up and operate incubators recognized under the Startup Odisha Initiative.",
+     "eligibility": "Institutions / incubators recognized by Startup Odisha",
+     "url": "https://startupodisha.gov.in/startup-incentives/"
+    }
+   ]
+  },
+  {
+   "state": "Puducherry",
+   "policy": "Aspiring Puducherry - Innovation and Startup Policy 2019",
+   "period": "2019 onwards",
+   "portal": "https://industry.py.gov.in/startup-policy-2019",
+   "nodalAgency": "Department of Industries and Commerce, Government of Puducherry (Puducherry Startup Cell)",
+   "summary": "Puducherry's Innovation and Startup Policy 2019 sets up a Puducherry Startup Cell and a Rs 10 crore Puducherry Startup Fund to build incubators and co-working spaces, and offers startups seed grants, monthly sustenance allowances, marketing and infrastructure support, along with fiscal incentives carried over from the Industrial Policy 2016.",
+   "sectors": [
+    "Information and Communication Technology (ICT)",
+    "Biotechnology, Bioinformatics and Healthcare",
+    "Cyber Security",
+    "Internet of Things (IoT)",
+    "Software Products and Mobile Technology",
+    "Big Data",
+    "Electronics System Design and Hardware",
+    "Robotics and Automation",
+    "Artificial Intelligence",
+    "Clean Tech and Renewable Energy",
+    "Bio Pharma and Medical Devices",
+    "Agriculture and allied fields",
+    "Automotive / Electric Vehicles",
+    "Nanotechnology",
+    "Water and Sanitation",
+    "E-Commerce and Digital Marketing",
+    "Marine processing and Marine Technologies"
+   ],
+   "email": "",
+   "phone": "1800-115-565",
+   "schemes": [
+    {
+     "name": "Startup Grant (Seed Grant)",
+     "type": "Grant",
+     "benefit": "Financial grant up to Rs 3 lakhs",
+     "description": "Financial grant of up to Rs 3 lakhs provided to projects recommended by incubators established by the Government/Private Sector/Academic Institutions, approved and monitored by the Committee of experts under the Innovation and Entrepreneurship Development Committee (IEDC).",
+     "eligibility": "Recognized startups whose projects are recommended by an incubator",
+     "url": "https://industry.py.gov.in/startup-policy-2019"
+    },
+    {
+     "name": "Sustenance Allowance",
+     "type": "Incentive",
+     "benefit": "Rs 10,000/month per person (max 5 persons); Rs 15,000/month if founder/co-founder is Women/SC/PH/Transgender",
+     "description": "Monthly sustenance allowance of Rs 10,000 per person up to a maximum of 5 persons; enhanced to Rs 15,000 per month where the founder or co-founder is a Woman/SC/Physically Handicapped/Transgender person.",
+     "eligibility": "Recognized startups, on recommendation of incubators",
+     "url": "https://industry.py.gov.in/startup-policy-2019"
+    },
+    {
+     "name": "Puducherry Startup Fund",
+     "type": "Seed funding",
+     "benefit": "Rs 10 crore corpus fund",
+     "description": "A corpus fund of Rs 10 crores to support establishment of startup incubators and co-working spaces, and to provide infrastructure support such as workstations, cloud services, laboratory, testing and marketing facilities to startups on the recommendation of incubators.",
+     "eligibility": "Incubators, co-working spaces and startups recommended by incubators",
+     "url": "https://industry.py.gov.in/startup-policy-2019"
+    },
+    {
+     "name": "Fiscal Incentives (Industrial Policy 2016)",
+     "type": "Incentive",
+     "benefit": "All Industrial Policy 2016 incentives; combined Centre + UT incentives capped at 75% of the capex of a component",
+     "description": "All incentives available under the Industrial Policy 2016 are extended to startups, and startups may claim State, Government of India and GoI-agency incentives, subject to a combined cap of 75% of the capex of that component.",
+     "eligibility": "Recognized startups",
+     "url": "https://industry.py.gov.in/startup-policy-2019"
+    },
+    {
+     "name": "Marketing Assistance",
+     "type": "Incentive",
+     "benefit": "Marketing support at MVP stage",
+     "description": "Marketing assistance provided by the Startup Cell with the approval of IEDC to recognized startups operating in Puducherry at the Minimum Viable Product (MVP) stage.",
+     "eligibility": "Recognized startups at MVP stage in Puducherry",
+     "url": "https://industry.py.gov.in/startup-policy-2019"
+    },
+    {
+     "name": "Incubation and Infrastructure Support (Non-Fiscal)",
+     "type": "Incubation",
+     "benefit": "Free cloud server, ERP software, and free access to universities/government libraries and laboratories",
+     "description": "Cloud server with necessary software connecting all incubators, free Enterprise Resource Planning (ERP) software, and free access to universities, government libraries and government laboratories through incubators, plus R&D/testing/fab-lab facilities and shared office space.",
+     "eligibility": "Recognized startups through incubators",
+     "url": "https://industry.py.gov.in/startup-policy-2019"
+    },
+    {
+     "name": "IPR Facilitation",
+     "type": "Other",
+     "benefit": "Fast-tracking and advisory on patents, trademarks and designs",
+     "description": "The Puducherry Startup Cell facilitates filing of patents, trademarks and designs, fast-tracks startup patent applications for examination and disposal, and provides general advisory on protecting and promoting IPRs.",
+     "eligibility": "Innovative recognized startups",
+     "url": "https://industry.py.gov.in/startup-policy-2019"
+    },
+    {
+     "name": "Self-Certification Compliance",
+     "type": "Other",
+     "benefit": "Self-certification for 6 labour and 3 environment laws; no labour inspections for 3 years",
+     "description": "Recognized startups tied to recognized incubators may self-certify compliance for six labour and three environment laws, with no labour inspections for a period of 3 years except on credible violation reports with prior approval of the Labour Commissioner.",
+     "eligibility": "Recognized startups signed with recognized incubators/accelerators",
+     "url": "https://industry.py.gov.in/startup-policy-2019"
+    },
+    {
+     "name": "Public Procurement Support",
+     "type": "Procurement",
+     "benefit": "Exemption from prior experience, turnover and security deposit criteria",
+     "description": "Norms for public entities to procure from startups, with exemptions in criteria such as prior experience, turnover and security deposits (no exemption in quality, technical specifications and standards).",
+     "eligibility": "Recognized startups bidding for public procurement",
+     "url": "https://industry.py.gov.in/startup-policy-2019"
+    }
+   ]
+  },
+  {
+   "state": "Punjab",
+   "policy": "Industrial & Business Development Policy 2017-2022 (Startup Punjab)",
+   "period": "2017-2022",
+   "portal": "https://pbindustries.gov.in/startup/home",
+   "nodalAgency": "Department of Industries & Commerce, Government of Punjab (implemented via Startup Punjab / Punjab Infotech)",
+   "summary": "Punjab supports startups under its Industrial & Business Development Policy through the Startup Punjab programme, offering seed grants, interest and lease-rental subsidies, IPR and stamp-duty reimbursement, incubation support and a dedicated scale-up fund.",
+   "sectors": [
+    "Digital Manufacturing",
+    "Agro & Food Processing",
+    "Life Sciences",
+    "Information Technology",
+    "Biotechnology"
+   ],
+   "email": "startup-pb@punjabinfotech.in",
+   "phone": "+91 9988666952",
+   "schemes": [
+    {
+     "name": "Seed Grant",
+     "type": "Grant",
+     "benefit": "Up to INR 3 lakh per startup",
+     "description": "One-time seed grant to support idea validation, prototyping, travel and market/field research or skill training.",
+     "eligibility": "Startups recognised under the policy, disbursed through recognised incubators",
+     "url": ""
+    },
+    {
+     "name": "Interest Subsidy",
+     "type": "Subsidy",
+     "benefit": "8% per annum for 5 years, up to INR 5 lakh per year",
+     "description": "Subsidy on interest paid on loans from banks/financial institutions to reduce cost of capital for early-stage startups.",
+     "eligibility": "Recognised startups availing loans from banks/FIs",
+     "url": ""
+    },
+    {
+     "name": "Lease Rental Subsidy",
+     "type": "Subsidy",
+     "benefit": "25% of lease rental for 1 year, up to INR 3 lakh per year",
+     "description": "Reimbursement of a share of office/workspace lease rentals to lower operating costs during the first year.",
+     "eligibility": "Recognised startups leasing approved space",
+     "url": ""
+    },
+    {
+     "name": "Stamp Duty Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% reimbursement on MoA/AoA registration",
+     "description": "Full reimbursement of stamp duty paid on incorporation documents (Memorandum/Articles of Association).",
+     "eligibility": "Recognised startups incorporating in Punjab",
+     "url": ""
+    },
+    {
+     "name": "Patent / IPR Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Up to INR 2 lakh for domestic patents and up to INR 10 lakh for international patents",
+     "description": "Reimbursement of costs incurred by startups in filing and prosecuting domestic and international patents.",
+     "eligibility": "Recognised startups filing patents",
+     "url": ""
+    },
+    {
+     "name": "Sustenance Allowance",
+     "type": "Incentive",
+     "benefit": "Up to INR 20,000-25,000 per month for up to 12 months",
+     "description": "Monthly allowance to help founders sustain themselves during the early stage, subject to eligibility and performance milestones.",
+     "eligibility": "Registered manufacturing/eligible startups under the policy",
+     "url": ""
+    },
+    {
+     "name": "Scale-up Funding / Punjab Innovation Fund",
+     "type": "Seed funding",
+     "benefit": "INR 100 crore corpus deployed via SEBI-registered Alternative Investment Fund",
+     "description": "State-backed fund-of-funds providing venture capital participation to help startups scale.",
+     "eligibility": "Recognised startups selected for VC/AIF investment",
+     "url": ""
+    },
+    {
+     "name": "Incubator Support",
+     "type": "Incubation",
+     "benefit": "Capital grant up to INR 1 crore (government) / INR 50 lakh (private); operational & mentoring assistance up to INR 3 lakh/year for 5 years",
+     "description": "Financial support to set up and run incubators, including operational subsidy, mentoring grants and event support to build startup infrastructure.",
+     "eligibility": "Government and private incubators recognised under the policy",
+     "url": ""
+    },
+    {
+     "name": "Women & SC Entrepreneurs Special Incentive",
+     "type": "Incentive",
+     "benefit": "25% of seed funding reserved, plus additional interest subsidy",
+     "description": "Reservation of a share of seed funding and enhanced financial incentives to encourage women and Scheduled Caste entrepreneurs.",
+     "eligibility": "Women and SC-led recognised startups",
+     "url": ""
+    },
+    {
+     "name": "Marketing Assistance",
+     "type": "Reimbursement",
+     "benefit": "Financial support for participation in domestic and international marketing/trade events",
+     "description": "Reimbursement of a share of costs for participating in domestic and international trade fairs, exhibitions and marketing activities.",
+     "eligibility": "Recognised startups participating in approved marketing events",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "state": "Rajasthan",
+   "policy": "Rajasthan Startup Policy 2022",
+   "period": "2022 onwards (launched 13 November 2022)",
+   "portal": "https://istart.rajasthan.gov.in/",
+   "nodalAgency": "Department of Information Technology & Communication (DoIT&C), Government of Rajasthan (iStart Rajasthan)",
+   "summary": "Rajasthan supports startups end-to-end through its iStart platform under the Rajasthan Startup Policy 2022, offering stage-wise grants, sustenance support, marketing and incubation assistance, and its QRate startup rating system. Investment-linked incentives such as SGST reimbursement and interest subsidy are available to startups through the Rajasthan Investment Promotion Scheme (RIPS) 2022.",
+   "sectors": [
+    "Agriculture / AgriTech",
+    "Education / EdTech",
+    "Healthcare / HealthTech",
+    "Fintech",
+    "Information Technology",
+    "Innovation-driven and tech-based enterprises"
+   ],
+   "email": "helpdesk.istart@rajasthan.gov.in",
+   "phone": "0141-2922373",
+   "schemes": [
+    {
+     "name": "Sustenance Allowance",
+     "type": "Grant",
+     "benefit": "INR 10,000 per month for one year",
+     "description": "Monthly sustenance support paid to innovators/founders at the idea or prototype stage to help them work full-time on their venture.",
+     "eligibility": "Idea/prototype-stage startups registered on iStart and recommended by the Nodal Institution and approved by the Committee.",
+     "url": "https://istart.rajasthan.gov.in/funding-incentives"
+    },
+    {
+     "name": "Pre-seed / Idea Viability Grant",
+     "type": "Grant",
+     "benefit": "INR 2,40,000 (additional INR 60,000 for women-led startups, i.e. up to INR 3,00,000)",
+     "description": "One-time viability grant for pre-seed/idea-stage startups whose idea meets the Evaluation Committee criteria, with an enhanced amount for startups having more than 50% equity held by women founders.",
+     "eligibility": "Pre-seed / idea-prototype stage startups registered under iStart; enhanced grant for startups with >50% women founder equity.",
+     "url": "https://istart.rajasthan.gov.in/funding-incentives"
+    },
+    {
+     "name": "Marketing & Commercialization Assistance",
+     "type": "Incentive",
+     "benefit": "Up to INR 10 lakh",
+     "description": "Assistance to help startups launch and market their products or services, disbursed as grant, soft loan or equity.",
+     "eligibility": "Pilot-stage startups, typically requiring a minimum of 25% funding from registered angel/venture funds or reputed incubators.",
+     "url": "https://istart.rajasthan.gov.in/funding-incentives"
+    },
+    {
+     "name": "Seed Funding Support",
+     "type": "Seed funding",
+     "benefit": "Up to INR 60 lakh in the seed phase",
+     "description": "Seed-stage financial assistance provided to eligible startups to help them scale after the idea/prototype phase.",
+     "eligibility": "Seed-stage startups registered on iStart and approved through the funding committee process.",
+     "url": "https://istart.rajasthan.gov.in/funding-incentives"
+    },
+    {
+     "name": "Loan and Equity Financial Assistance (scale-up)",
+     "type": "Loan/Credit",
+     "benefit": "Up to INR 2 crore as loan/financial assistance and up to INR 5 crore as equity",
+     "description": "Larger-ticket financial support for growth-stage startups, provided as loans and as equity investment to help them scale.",
+     "eligibility": "Growth/scale-up stage startups registered under iStart, subject to committee approval and QRate assessment.",
+     "url": "https://istart.rajasthan.gov.in/funding-incentives"
+    },
+    {
+     "name": "Incubation Support & Host Institute Grant",
+     "type": "Incubation",
+     "benefit": "Free incubation access for startups; one-time capital grant up to INR 50 lakh for host institutes/incubators",
+     "description": "Free access to incubators, mentoring, labs and university facilities for startups, plus capital grants to institutions and private players (up to 25% of investment, capped at INR 50 lakh) to set up incubation centres.",
+     "eligibility": "Registered startups (for free access); technology/management/R&D institutions, corporates and VCs (for setup grants).",
+     "url": "https://istart.rajasthan.gov.in/funding-incentives"
+    },
+    {
+     "name": "QRate Startup Rating & Assessment",
+     "type": "Other",
+     "benefit": "Startup rating (Bronze / Silver / Gold / Platinum / Signature) used to grade eligibility for differential incentives",
+     "description": "A periodic startup rating and assessment mechanism that evaluates startups' potential and investment worthiness, with the rating used to determine access to financial assistance and incubation.",
+     "eligibility": "Startups registered on the iStart platform.",
+     "url": "https://istart.rajasthan.gov.in/funding-incentives"
+    },
+    {
+     "name": "Government Procurement / Public Tender Access",
+     "type": "Procurement",
+     "benefit": "Access to participate in Rajasthan government tenders (procurement relaxations for startups)",
+     "description": "Registered iStart startups are enabled to participate in and supply to state government procurement/tenders.",
+     "eligibility": "Startups registered and recognized under the iStart Rajasthan program.",
+     "url": "https://istart.rajasthan.gov.in/funding-incentives"
+    },
+    {
+     "name": "SGST Reimbursement (via RIPS 2022)",
+     "type": "Reimbursement",
+     "benefit": "Up to 75% reimbursement of net SGST for up to 7-10 years; women-led startups eligible for 100% SGST reimbursement for 2 years",
+     "description": "Reimbursement of State GST deposited, available to eligible enterprises and startups under the Rajasthan Investment Promotion Scheme (RIPS) 2022, with an enhanced benefit for women-led startups.",
+     "eligibility": "Eligible enterprises/startups making qualifying investment under RIPS-2022; enhanced women-led startup benefit for 2 years from registration.",
+     "url": "https://istart.rajasthan.gov.in/public/Policies/RIPS-2022.pdf"
+    },
+    {
+     "name": "Interest Subsidy (via RIPS 2022)",
+     "type": "Subsidy",
+     "benefit": "Up to 6% per annum interest subsidy on term loans, for up to 7 years",
+     "description": "Interest subsidy on term loans availed by eligible enterprises/startups under the Rajasthan Investment Promotion Scheme (RIPS) 2022 to reduce cost of borrowing.",
+     "eligibility": "Eligible enterprises/startups availing term loans under RIPS-2022.",
+     "url": "https://istart.rajasthan.gov.in/public/Policies/RIPS-2022.pdf"
+    }
+   ]
+  },
+  {
+   "state": "Sikkim",
+   "policy": "Chief Minister's Startup Scheme (CMSS)",
+   "period": "",
+   "portal": "https://sikkimentrepreneur.org/",
+   "nodalAgency": "Department of Commerce & Industries, Government of Sikkim",
+   "summary": "Sikkim's startup support is anchored by the Chief Minister's Startup Scheme (CMSS), which offers one-time non-refundable financial assistance to local youth entrepreneurs, plus a suite of fiscal incentives (GST, power, lease and patent reimbursements) administered by the Commerce & Industries Department.",
+   "sectors": [
+    "Agriculture",
+    "Horticulture",
+    "Food processing",
+    "Animal husbandry",
+    "Handloom and handicrafts",
+    "Manufacturing",
+    "Services"
+   ],
+   "email": "sikkimindustries@gmail.com",
+   "phone": "03592-206174",
+   "schemes": [
+    {
+     "name": "Chief Minister's Startup Scheme (CMSS) - Financial Assistance",
+     "type": "Subsidy",
+     "benefit": "One-time non-refundable assistance of 25% of approved project cost (up to 35% for non-manufacturing projects ineligible for central subsidy); projects up to Rs. 20 lakh",
+     "description": "Launched 15 August 2017 to help local unemployed youth set up new ventures; the state contributes a share of the promoter's project cost while banks finance the balance.",
+     "eligibility": "Bonafide local youth with COI/Sikkim Subject Certificate, unemployed, class V pass, aged 15-40; one member per family",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Sikkim-state-policy.html"
+    },
+    {
+     "name": "Sikkim Skilled Youth Startup Scheme",
+     "type": "Subsidy",
+     "benefit": "50% subsidy on project cost for BPL applicants and 35% for others; bank loan up to Rs. 20 lakh",
+     "description": "Employment-generation scheme launched 15 August 2020 providing subsidy-linked bank finance, with the applicant contributing 5%-15% of project cost.",
+     "eligibility": "Local youth of Sikkim; higher subsidy for BPL category",
+     "url": ""
+    },
+    {
+     "name": "State GST Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Annual reimbursement of state GST paid on sale of goods for 3 years, up to Rs. 5 lakh per startup",
+     "description": "Fiscal incentive reimbursing the state component of GST paid by eligible startups for their first three years.",
+     "eligibility": "Recognised startups under the scheme",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Sikkim-state-policy.html"
+    },
+    {
+     "name": "Power Subsidy",
+     "type": "Subsidy",
+     "benefit": "50% subsidy on power for 5 years, up to Rs. 10 lakh annually",
+     "description": "Reduces electricity costs for eligible startups during their initial operating years.",
+     "eligibility": "Recognised startups under the scheme",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Sikkim-state-policy.html"
+    },
+    {
+     "name": "Lease Rental Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "50% of lease rental costs for 3 years, maximum Rs. 5 lakh",
+     "description": "Supports workspace costs for startups by reimbursing part of office/industrial rental.",
+     "eligibility": "Recognised startups under the scheme",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Sikkim-state-policy.html"
+    },
+    {
+     "name": "Patent Filing Cost Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Up to Rs. 1 lakh for domestic patents and up to Rs. 5 lakh for international patents",
+     "description": "Reimburses costs incurred by startups in filing and securing patents.",
+     "eligibility": "Recognised startups under the scheme",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Sikkim-state-policy.html"
+    },
+    {
+     "name": "Stamp Duty / Registration Fee Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% reimbursement of stamp duty / registration fees on first property transaction",
+     "description": "Waives the cost of stamp duty and registration for a startup's first property transaction.",
+     "eligibility": "Recognised startups under the scheme",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Sikkim-state-policy.html"
+    },
+    {
+     "name": "Women, Transgender & Differently-Abled Hiring Incentive",
+     "type": "Incentive",
+     "benefit": "One-time incentive of Rs. 5,000 per candidate, up to Rs. 1 lakh per startup, over 3 years",
+     "description": "Encourages startups to employ women, transgender and differently-abled persons through a per-candidate hiring incentive.",
+     "eligibility": "Recognised startups hiring eligible candidates",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Sikkim-state-policy.html"
+    }
+   ]
+  },
+  {
+   "state": "Tamil Nadu",
+   "policy": "Tamil Nadu Startup and Innovation Policy 2023",
+   "period": "2023 onwards (vision to 2032)",
+   "portal": "https://startuptn.in/",
+   "nodalAgency": "StartupTN (Tamil Nadu Startup and Innovation Mission), a Section 8 company under the Department of Micro, Small and Medium Enterprises",
+   "summary": "Tamil Nadu's revamped 2023 startup policy aims to make the state one of the top 20 global startup destinations by 2032 and to seed 15,000 startups, with a strong 'social justice' focus on inclusive entrepreneurship for women, SC/ST, transgender and differently-abled founders. It is delivered through StartupTN, which runs seed grants, equity funds, incubation and market-access programmes.",
+   "sectors": [
+    "Emerging technologies (AI, ML, IoT, SaaS, deep tech)",
+    "Biotechnology",
+    "Climate action / green tech",
+    "Social impact / social entrepreneurship",
+    "Rural impact"
+   ],
+   "email": "support@startuptn.in",
+   "phone": "155343",
+   "schemes": [
+    {
+     "name": "Tamil Nadu Startup Seed Grant Fund (TANSEED)",
+     "type": "Seed funding",
+     "benefit": "Up to Rs. 15 lakh for green-tech, rural-impact and women-led startups; up to Rs. 10 lakh for other sectors (StartupTN takes ~3% equity)",
+     "description": "Competitive seed grant awarded to early-stage startups selected through periodic cohorts to support product development, validation and market entry.",
+     "eligibility": "Early-stage, StartupTN-recognised startups; priority to green-tech, rural-impact and women-led ventures",
+     "url": "https://startuptn.in/"
+    },
+    {
+     "name": "Co-Creation Fund",
+     "type": "Seed funding",
+     "benefit": "Rs. 100 crore",
+     "description": "State fund that supports the creation and operation of select private-sector VC funds focused on regional startups, women-led ventures and climate action.",
+     "eligibility": "Private VC funds and startups aligned to regional, women-led and climate-action priorities",
+     "url": ""
+    },
+    {
+     "name": "Tamil Nadu SC/ST Startup Fund",
+     "type": "Incentive",
+     "benefit": "Equity investment (reported up to Rs. 5 crore per eligible startup)",
+     "description": "India's first dedicated SC/ST equity fund, investing in innovation-led, scalable startups founded by Scheduled Caste and Scheduled Tribe entrepreneurs to address financial exclusion.",
+     "eligibility": "Startups founded by SC/ST entrepreneurs",
+     "url": ""
+    },
+    {
+     "name": "Grant-in-aid for Trans Persons and Differently-Abled Founders",
+     "type": "Grant",
+     "benefit": "Rs. 5 lakh grant-in-aid for 10 identified startups, plus priority access to TANSEED",
+     "description": "Special grant supporting startups founded by transgender and differently-abled entrepreneurs as part of the policy's equitable-growth focus.",
+     "eligibility": "Startups founded by transgender or differently-abled entrepreneurs",
+     "url": ""
+    },
+    {
+     "name": "Social Justice Venture Lab",
+     "type": "Incubation",
+     "benefit": "Tailored workshops, mentoring and post-investment support",
+     "description": "A dedicated intervention programme providing hand-holding, guidance and support to entrepreneurs from marginalised communities.",
+     "eligibility": "Entrepreneurs from SC/ST, transgender, differently-abled and other marginalised sections",
+     "url": ""
+    },
+    {
+     "name": "Startup Thamizha (Shark Tank-style TV show)",
+     "type": "Other",
+     "benefit": "Rs. 30-50 crore investment pool per season",
+     "description": "A televised reality show in which startups pitch to investors on air for funding, raising visibility for the state ecosystem.",
+     "eligibility": "Startups selected to pitch on the show",
+     "url": ""
+    },
+    {
+     "name": "Smart Card Programme",
+     "type": "Incentive",
+     "benefit": "Free or subsidised access to 50-60 service providers (legal, tech, marketing, financial)",
+     "description": "A card giving budding entrepreneurs (Start STEPs) discounted or free access to a panel of startup service providers.",
+     "eligibility": "Start STEP (budding, pre-registration) entrepreneurs",
+     "url": ""
+    },
+    {
+     "name": "Patent (IPR) and Marketing Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Reimbursement of patent filing/prosecution fees and marketing / global-event participation costs",
+     "description": "The policy provides reimbursements and incentives to help startups protect intellectual property and access domestic and global markets.",
+     "eligibility": "StartupTN-recognised startups",
+     "url": ""
+    },
+    {
+     "name": "Tamil Nadu Startup Fund of Funds",
+     "type": "Seed funding",
+     "benefit": "Rs. 250 crore corpus (SEBI-registered AIF, managed by SIDBI)",
+     "description": "A fund-of-funds that channels capital into SEBI-registered Alternative Investment Funds, which in turn invest in Tamil Nadu-based startups.",
+     "eligibility": "AIFs investing in state-based startups; startups accessed indirectly via these funds",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "state": "Telangana",
+   "policy": "Telangana Innovation Policy 2016",
+   "period": "2016 onwards",
+   "portal": "https://startup.telangana.gov.in/",
+   "nodalAgency": "Department of Information Technology, Electronics & Communications (ITE&C), Government of Telangana (implemented via Telangana State Innovation Cell / TSIC, T-Hub and WE Hub)",
+   "summary": "Telangana supports startups through the Telangana Innovation Policy 2016, offering tax and cost reimbursements plus incubation and seed-funding support delivered via TSIC, T-Hub and the women-focused WE Hub. Benefits are anchored around recognised startups incubated in state-supported incubators.",
+   "sectors": [
+    "Information Technology",
+    "AgTech",
+    "Life Sciences / Biotech",
+    "Cleantech",
+    "Fintech",
+    "Deep Tech / Hardware",
+    "Women-led enterprises"
+   ],
+   "email": "tsic@telangana.gov.in",
+   "phone": "+91 9100678543",
+   "schemes": [
+    {
+     "name": "SGST Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% SGST reimbursed for 3 years from date of incorporation, on a maximum turnover of INR 1 crore/annum",
+     "description": "Recognised startups get their State GST reimbursed for the first three years of operation to reduce early-stage tax burden.",
+     "eligibility": "Recognised Telangana startups; claims filed within 6 months after each half-year",
+     "url": "https://startup.telangana.gov.in/reimbursement-of-sgst/"
+    },
+    {
+     "name": "Patent / IPR Registration Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Up to INR 2 lakh per Indian patent and up to INR 10 lakh per foreign patent (50% on filing, 50% on grant)",
+     "description": "Reimbursement of patent registration costs to encourage startups to protect their intellectual property.",
+     "eligibility": "Recognised startups; available twice within the first 5 years",
+     "url": ""
+    },
+    {
+     "name": "International Marketing Cost Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "30% of annual international marketing costs, capped at INR 5 lakh per company",
+     "description": "Reimburses part of the cost of participating in global trade shows and marketing events (airfare, accommodation, fees).",
+     "eligibility": "Startups endorsed by state-supported incubators; within first 3 years",
+     "url": ""
+    },
+    {
+     "name": "Recruitment Assistance",
+     "type": "Incentive",
+     "benefit": "INR 10,000 per employee in the first year of operations",
+     "description": "One-time recruitment support per employee hired to offset early hiring costs, favouring local hiring.",
+     "eligibility": "Employees must work minimum 8 months; at least 50% of staff of Telangana origin",
+     "url": ""
+    },
+    {
+     "name": "Performance-Linked Grant",
+     "type": "Grant",
+     "benefit": "5% of annual turnover, capped at INR 10 lakh",
+     "description": "Growth-linked grant rewarding startups that demonstrate strong year-on-year revenue growth.",
+     "eligibility": "Startups achieving 15% year-on-year growth within 3 years of incorporation (audited accounts required)",
+     "url": ""
+    },
+    {
+     "name": "T-Seed Fund",
+     "type": "Seed funding",
+     "benefit": "Early-stage seed capital (corpus of INR 250 crore)",
+     "description": "Seed fund to support innovators and early-stage founders with costs such as company registration, patent filing, certifications and travel; disbursed via T-Hub or partner incubators.",
+     "eligibility": "Early-stage innovators and startups incubated at T-Hub / partner incubators",
+     "url": ""
+    },
+    {
+     "name": "Telangana Innovation Fund (T-Fund)",
+     "type": "Seed funding",
+     "benefit": "Master fund (initial target INR 2000 crore) investing in sector-specific and general VC funds",
+     "description": "A fund-of-funds set up with global investors and T-Hub to channel venture capital into Telangana startups.",
+     "eligibility": "Startups backed through partner venture capital funds",
+     "url": ""
+    },
+    {
+     "name": "T-Hub Incubation",
+     "type": "Incubation",
+     "benefit": "Incubation, mentorship, co-working space, investor and corporate access",
+     "description": "State-anchored incubator providing physical space, mentorship and connections to investors and corporates for startups across sectors.",
+     "eligibility": "Startups selected into T-Hub programs",
+     "url": ""
+    },
+    {
+     "name": "WE Hub (Women Entrepreneurs)",
+     "type": "Incubation",
+     "benefit": "Access to capital, mentorship, infrastructure and support services for women-led startups",
+     "description": "India's first state-led incubator dedicated to women entrepreneurs, offering comprehensive incubation, funding access and branding support.",
+     "eligibility": "Women-led / women-founded startups and aspiring women entrepreneurs",
+     "url": "https://wehub.telangana.gov.in/"
+    }
+   ]
+  },
+  {
+   "state": "Tripura",
+   "policy": "IT Start-up Scheme 2019",
+   "period": "1 April 2019 to 31 March 2024",
+   "portal": "https://startup.tripura.gov.in/",
+   "nodalAgency": "Directorate of Information Technology, Government of Tripura",
+   "summary": "Tripura's IT Start-up Scheme 2019 supports IT and service-based startups recognised by the state with a package of grants, subsidies and reimbursements delivered through the Directorate of Information Technology and the Startup Tripura portal.",
+   "sectors": [
+    "Information Technology",
+    "IT-enabled services",
+    "Service-based startups"
+   ],
+   "email": "startup.tripuraagt@gmail.com",
+   "phone": "0381-2356500",
+   "schemes": [
+    {
+     "name": "Seed Fund Grant",
+     "type": "Seed funding",
+     "benefit": "One-time grant of Rs. 2 lakh",
+     "description": "All recognised startups are eligible for a one-time seed grant of Rs. 2 lakh after receiving the Recognition Certificate.",
+     "eligibility": "State-recognised startups with Recognition Certificate",
+     "url": "https://startup.tripura.gov.in/"
+    },
+    {
+     "name": "Patent (IPR) Filing Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Up to Rs. 2 lakh per Indian patent; up to Rs. 10 lakh for foreign patents",
+     "description": "Cost of filing and prosecuting patent applications is reimbursed to incubated startups, paid 50% after filing and 50% after the patent is granted.",
+     "eligibility": "Incubated startups filing patents",
+     "url": "https://startup.tripura.gov.in/"
+    },
+    {
+     "name": "Incubation / Lease-Rental Subsidy",
+     "type": "Incubation",
+     "benefit": "Free incubation space for the first 3 years",
+     "description": "Startups using the government incubation facility pay no rent for the first three years, with an optional fourth year on payment basis subject to State Level Implementation Committee approval.",
+     "eligibility": "Startups requiring incubation facility",
+     "url": "https://startup.tripura.gov.in/"
+    },
+    {
+     "name": "Bandwidth Cost Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% of bandwidth cost, up to Rs. 40,000 per year",
+     "description": "Startups receive 100% reimbursement of internet bandwidth charges until the start of commercial production, capped at Rs. 40,000 per year.",
+     "eligibility": "Recognised startups before commercial production",
+     "url": "https://startup.tripura.gov.in/"
+    },
+    {
+     "name": "Power Charges Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "100% of power charges for up to 3 years",
+     "description": "Startups are reimbursed 100% of actual power charges paid to TSECL until the start of commercial production or for three years, whichever is earlier.",
+     "eligibility": "Recognised startups before commercial production",
+     "url": "https://startup.tripura.gov.in/"
+    },
+    {
+     "name": "Capital Investment Subsidy",
+     "type": "Subsidy",
+     "benefit": "Up to 80% of project cost, maximum Rs. 10 lakh",
+     "description": "Startups can receive a capital investment subsidy of up to 80% of project cost subject to a ceiling of Rs. 10 lakh.",
+     "eligibility": "State-recognised startups",
+     "url": "https://startup.tripura.gov.in/"
+    },
+    {
+     "name": "Recruitment / Employment Assistance",
+     "type": "Incentive",
+     "benefit": "Rs. 10,000 per employee (one-time, first year)",
+     "description": "A one-time recruitment assistance of Rs. 10,000 per employee is provided in the first year to support hiring.",
+     "eligibility": "State-recognised startups",
+     "url": "https://startup.tripura.gov.in/"
+    },
+    {
+     "name": "SGST Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Annual SGST reimbursement for first 3 years",
+     "description": "Startups receive annual reimbursement of State GST for the first three years, subject to a maximum turnover of Rs. 1 crore.",
+     "eligibility": "Recognised startups with turnover up to Rs. 1 crore",
+     "url": "https://startup.tripura.gov.in/"
+    }
+   ]
+  },
+  {
+   "state": "Uttar Pradesh",
+   "policy": "Uttar Pradesh Startup Policy 2020 (First Amendment 2022)",
+   "period": "2020 onwards",
+   "portal": "https://startinup.up.gov.in/",
+   "nodalAgency": "Department of IT & Electronics, Government of Uttar Pradesh",
+   "summary": "Uttar Pradesh supports startups through its StartinUP programme under the Startup Policy 2020, offering monthly sustenance allowance, prototype and seed/marketing grants, patent reimbursement, event support, incubator and Centre of Excellence grants, and a SIDBI-managed fund of funds, with enhanced benefits for women, Divyangjan, EWS and Purvanchal/Bundelkhand founders.",
+   "sectors": [
+    "Information Technology",
+    "Agri-tech",
+    "Health-tech",
+    "Fintech",
+    "e-Commerce",
+    "Artificial Intelligence",
+    "Blockchain",
+    "IoT",
+    "Robotics",
+    "Clean-tech"
+   ],
+   "email": "info@itpolicyup.gov.in",
+   "phone": "0522-4130303, Ext. 302",
+   "schemes": [
+    {
+     "name": "Sustenance Allowance",
+     "type": "Incentive",
+     "benefit": "INR 17,500 per month per startup for one year",
+     "description": "Monthly sustenance support to idea-stage startups to cover early operating needs, given to up to 25 startups per incubator per year.",
+     "eligibility": "Idea-stage startups incubated at a recognised incubator; women/Transgender/Divyangjan cofounders (26%+ equity), EWS founders and Purvanchal/Bundelkhand startups get an additional 50%.",
+     "url": "https://startinup.up.gov.in/sustenance-allowance/"
+    },
+    {
+     "name": "Prototype Development Grant",
+     "type": "Grant",
+     "benefit": "Up to INR 5 Lakhs",
+     "description": "Grant to help startups build and refine their minimum viable product (MVP).",
+     "eligibility": "Recognised startups developing a prototype/MVP.",
+     "url": "https://startinup.up.gov.in/funding/"
+    },
+    {
+     "name": "Seed Capital / Marketing Assistance",
+     "type": "Seed funding",
+     "benefit": "Up to INR 7.5 Lakhs",
+     "description": "Seed capital and marketing support to help startups launch their MVP in the market.",
+     "eligibility": "Recognised startups launching an MVP; women/Divyangjan/Transgender/EWS and Purvanchal/Bundelkhand founders get an additional 50%.",
+     "url": "https://startinup.up.gov.in/funding/"
+    },
+    {
+     "name": "Patent (IPR) Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Up to INR 2 Lakhs (Indian patent); up to INR 10 Lakhs (International patent)",
+     "description": "Reimbursement of costs for successfully filing domestic and international patents.",
+     "eligibility": "Recognised startups filing successful patents.",
+     "url": "https://startinup.up.gov.in/state-startup-policy/"
+    },
+    {
+     "name": "Event Participation Support",
+     "type": "Reimbursement",
+     "benefit": "Up to INR 50,000 (national); up to INR 1 Lakh (international)",
+     "description": "Reimbursement to startups for participating in national and international events.",
+     "eligibility": "Recognised startups attending eligible events.",
+     "url": "https://startinup.up.gov.in/state-startup-policy/"
+    },
+    {
+     "name": "Incubator Establishment Grant",
+     "type": "Grant",
+     "benefit": "Up to 50% of setup cost, max INR 1 crore (INR 1.25 crore in Purvanchal/Bundelkhand)",
+     "description": "Capital grant to establish new incubators, with the first installment capped at 25%.",
+     "eligibility": "Eligible host institutions setting up recognised incubators.",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Uttar-Pradesh-state-policy.html"
+    },
+    {
+     "name": "Incubator Operational Support",
+     "type": "Grant",
+     "benefit": "Up to INR 30 Lakhs per year for 5 years",
+     "description": "Annual operational assistance to incubators hosting 10 or more startups.",
+     "eligibility": "Recognised incubators with 10+ incubated startups.",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Uttar-Pradesh-state-policy.html"
+    },
+    {
+     "name": "Centre of Excellence (CoE) Grant-in-Aid",
+     "type": "Grant",
+     "benefit": "Up to INR 10 crores over 5 years",
+     "description": "Capital and operational grant to establish sector-focused Centres of Excellence in emerging technologies.",
+     "eligibility": "Institutions setting up a Centre of Excellence, contingent on move toward self-sustainability.",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Uttar-Pradesh-state-policy.html"
+    },
+    {
+     "name": "UP Startup Fund (Fund of Funds)",
+     "type": "Seed funding",
+     "benefit": "INR 1,000 crore corpus",
+     "description": "A SIDBI-managed fund of funds that invests in daughter AIFs, which in turn invest in UP startups; it does not invest directly into startups.",
+     "eligibility": "Startups funded via SIDBI-empanelled daughter funds/AIFs.",
+     "url": "https://www.sidbivcf.in/en/funds/up-sf"
+    }
+   ]
+  },
+  {
+   "state": "Uttarakhand",
+   "policy": "Uttarakhand State Startup Policy 2023",
+   "period": "2023 onwards",
+   "portal": "https://startuputtarakhand.uk.gov.in/",
+   "nodalAgency": "Directorate of Industries, Department of MSME, Government of Uttarakhand (State Nodal Agency)",
+   "summary": "Uttarakhand's 2023 startup policy offers ideation-stage sustenance allowances, one-time seed funding, IPR and incubation support, pilot-project and event grants, procurement relaxations and a state Funds-of-Funds, with enhanced benefits for women, SC/ST, grassroot/rural, differently-abled and disruptive-sector startups.",
+   "sectors": [
+    "Skill Development",
+    "IT & Artificial Intelligence",
+    "Travel & Tourism",
+    "Healthcare",
+    "Biotechnology",
+    "Pharmaceuticals",
+    "Education",
+    "Ayush",
+    "Food Processing & Agriculture",
+    "Energy",
+    "Disruptive sectors (futuristic technologies, renewable energy, climate change, circular economy, sustainability)"
+   ],
+   "email": "startupcelluk@gmail.com",
+   "phone": "+91 7618544555",
+   "schemes": [
+    {
+     "name": "Sustenance / Monthly Allowance",
+     "type": "Incentive",
+     "benefit": "Rs. 15,000/month (general & student startups); Rs. 20,000/month for women / grassroot or rural-impact / differently-abled / transgender startups, for up to 12 months",
+     "description": "Monthly allowance for founders of ideation-stage startups working on Proof of Concept (PoC), given for a maximum of 12 months.",
+     "eligibility": "Recognized startups at ideation stage working on PoC",
+     "url": ""
+    },
+    {
+     "name": "One-time Seed Funding",
+     "type": "Seed funding",
+     "benefit": "Up to INR 10 lakhs (general); up to INR 12.5 lakhs for women/SC/ST/grassroot startups; additional INR 2.5 lakhs for disruptive startups",
+     "description": "One-time seed grant for startups at prototyping, MVP or ideation stage to build and trial products/services.",
+     "eligibility": "Recognized startups at prototyping/MVP/ideation stage",
+     "url": ""
+    },
+    {
+     "name": "Need-Based Assistance",
+     "type": "Grant",
+     "benefit": "Up to INR 5 lakhs",
+     "description": "Case-by-case assistance for raw materials, components and equipment required for product development.",
+     "eligibility": "Recognized startups (need-based approval)",
+     "url": ""
+    },
+    {
+     "name": "Intellectual Property (Patent/Trademark/Design) Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Patents: actual filing cost up to Rs. 1 lakh (Indian) and up to Rs. 5 lakhs (international), for up to two patents; Trademark: up to Rs. 10,000 for 2 TMs; Industrial Design: up to Rs. 10,000 for 2 IDs",
+     "description": "Reimbursement of IP filing costs to encourage startups to create patents, trademarks and industrial designs.",
+     "eligibility": "Recognized startups",
+     "url": ""
+    },
+    {
+     "name": "Pre-Incubation Support",
+     "type": "Incubation",
+     "benefit": "4 months pre-incubation; cost up to INR 10,000 per startup borne by State Govt.",
+     "description": "Pre-incubation mentoring and handholding at a state-recognized incubation centre for aspiring entrepreneurs, students, women and grassroot innovators.",
+     "eligibility": "Aspiring entrepreneurs, student/women/grassroot startups",
+     "url": ""
+    },
+    {
+     "name": "Free Incubation Support",
+     "type": "Incubation",
+     "benefit": "One-time free-of-cost incubation for up to 12 months (additional 6 months for disruptive startups)",
+     "description": "All recognized startups get free incubation support at any state government recognized incubation centre.",
+     "eligibility": "All recognized startups",
+     "url": ""
+    },
+    {
+     "name": "Pilot Project Assistance",
+     "type": "Grant",
+     "benefit": "One-time assistance up to INR 3 lakhs (additional INR 2.5 lakhs for disruptive startups)",
+     "description": "Support for running a pilot project with a department/agency/body/authority of the Government of Uttarakhand (sandbox for startups).",
+     "eligibility": "Recognized startups undertaking a pilot with a government body",
+     "url": ""
+    },
+    {
+     "name": "Market Access / Event Participation Assistance",
+     "type": "Incentive",
+     "benefit": "Financial assistance to participate in two national and one international trade fair, conference, training or acceleration program",
+     "description": "Support for eligible startups to gain national and international market exposure.",
+     "eligibility": "Eligible recognized startups",
+     "url": ""
+    },
+    {
+     "name": "Land Allocation in Industrial Estates",
+     "type": "Subsidy",
+     "benefit": "Allocation of land/plots at base (subsidized) price in notified Industrial Areas, IT parks, SEZs or Govt.-sponsored Industrial Estates",
+     "description": "Enables recognized startups to obtain workspace at subsidized rates once they move out of an incubation centre.",
+     "eligibility": "Recognized startups",
+     "url": ""
+    },
+    {
+     "name": "Public Procurement Relaxations",
+     "type": "Procurement",
+     "benefit": "Purchase up to INR 10 lakhs through limited tender or without tender (subject to Technical Committee approval); relaxation of prior turnover, prior experience and Earnest Money Deposit",
+     "description": "Procurement preference and exemptions across state departments to help recognized startups participate in government tenders.",
+     "eligibility": "Recognized startups",
+     "url": ""
+    },
+    {
+     "name": "Funds of Funds (Uttarakhand Venture Fund)",
+     "type": "Seed funding",
+     "benefit": "Corpus fund of INR 200 crore for investing in venture funds that invest in startups",
+     "description": "A state corpus, managed through a separate SPV, that invests in venture funds backing Uttarakhand startups; state agencies may also set up sector-specific venture funds.",
+     "eligibility": "Startups via participating venture funds",
+     "url": ""
+    },
+    {
+     "name": "Incubator Capital & Operational Grant",
+     "type": "Incubation",
+     "benefit": "Capital grant up to INR 1 crore (new) / up to INR 50 lakhs (expansion); operational cost up to Rs. 1 lakh per startup plus additional up to INR 5 lakhs (Startup Council approval); support up to 5 years",
+     "description": "Grants to establish or scale up PPP and academic incubators (excluding land and building cost), with tiered capital support for universities, HEIs and colleges.",
+     "eligibility": "State-recognized incubators (PPP, academic, government)",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "state": "West Bengal",
+   "policy": "West Bengal Startup Policy 2016-2021",
+   "period": "2016-2021",
+   "portal": "https://www.startupbengal.in/",
+   "nodalAgency": "Directorate of Micro, Small & Medium Enterprises (MSME), Department of MSME & Textiles, Government of West Bengal (State Start-up Council chaired by the Chief Secretary)",
+   "summary": "West Bengal's Startup Policy 2016-2021 (run through the Directorate of MSME and the startupbengal.in portal) supports startups via early-stage/seed and sustenance funding, patent reimbursement, incubation and Entrepreneurship Development Centre grants, priority venture-capital access and land allocation. In its 2026 state budget the government announced a new startup policy along with a Rs 40 crore Incubation Fund and a Rs 60 crore Venture Capital Fund.",
+   "sectors": [
+    "Agri-tech / Agricultural technology",
+    "Social enterprises addressing rural service gaps",
+    "IT / ITeS",
+    "Manufacturing"
+   ],
+   "email": "msme@wb.gov.in",
+   "phone": "+91 033 2214-5999",
+   "schemes": [
+    {
+     "name": "Seed / Kick-starter Funding",
+     "type": "Seed funding",
+     "benefit": "Early-stage seed funding reported at Rs 5-25 lakh for priority-sector startups",
+     "description": "A network of kick-starter funds provides early-stage/seed financial support to innovative startups approved by the Screening Committee.",
+     "eligibility": "Registered startups with innovative, scalable ideas in priority sectors",
+     "url": "https://www.startupbengal.in/content/incentives"
+    },
+    {
+     "name": "Monthly Sustenance Allowance",
+     "type": "Grant",
+     "benefit": "Rs 10,000 to Rs 25,000 per month",
+     "description": "Monthly financial support to early-stage startups to cover founder sustenance during the development phase.",
+     "eligibility": "Early-stage startups registered in West Bengal",
+     "url": "https://www.startupbengal.in/content/incentives"
+    },
+    {
+     "name": "Patent (IPR) Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Reimbursement of patent filing and prosecution costs (as per WB MSME Policy)",
+     "description": "The cost of filing and prosecution of a patent application is reimbursed to incubated startup companies as per the MSME Policy of the Government of West Bengal.",
+     "eligibility": "Incubated startups with approved innovative ideas",
+     "url": "https://www.startupbengal.in/content/incentives"
+    },
+    {
+     "name": "Lease Rental Reimbursement",
+     "type": "Subsidy",
+     "benefit": "50% of lease rental, capped at Rs 10,000 per month for up to 3 years (as reported)",
+     "description": "Reimbursement of a share of office/workspace lease-rental cost to reduce space costs for eligible startups.",
+     "eligibility": "Registered eligible startups",
+     "url": ""
+    },
+    {
+     "name": "Marketing / Advertising Reimbursement",
+     "type": "Reimbursement",
+     "benefit": "Reimbursement of advertising and promotional expenses up to Rs 5 lakh (as reported)",
+     "description": "Support toward marketing and promotional expenditure incurred by eligible startups.",
+     "eligibility": "Registered eligible startups",
+     "url": ""
+    },
+    {
+     "name": "Priority Access to WB MSME Venture Capital Fund",
+     "type": "Incentive",
+     "benefit": "At least 20% of the fund earmarked for startups (priority equity funding)",
+     "description": "Startups get priority equity funding from the West Bengal MSME Venture Capital Fund, with a minimum 20% of the corpus reserved for them.",
+     "eligibility": "Bengal-based registered startups",
+     "url": "https://www.startupbengal.in/content/incentives"
+    },
+    {
+     "name": "Entrepreneurship Development Centre (EDC) Support",
+     "type": "Grant",
+     "benefit": "Up to Rs 10 lakh per university to set up a central EDC",
+     "description": "Capital assistance to universities and educational institutions in the state to create a central Entrepreneurship Development Centre and build startup capacity.",
+     "eligibility": "Universities and educational institutions in West Bengal",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/West-Bengal-state-policy.html"
+    },
+    {
+     "name": "Mentoring Allowance to Institutions",
+     "type": "Grant",
+     "benefit": "Up to Rs 10 lakh per year for mentoring services",
+     "description": "Annual assistance to universities, incubation centres, PSUs and R&D institutions for providing mentoring services to startups.",
+     "eligibility": "Universities, incubation centres, PSUs, R&D institutions",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/West-Bengal-state-policy.html"
+    },
+    {
+     "name": "Fiscal Incentive to Incubators & Investment Bankers",
+     "type": "Incentive",
+     "benefit": "Incubators: 2% of investment received by incubates from SEBI-registered VC/PE; Investment bankers: 1% success fee; TBIs: 5% of investments/GoI grants for agri-tech & social enterprises",
+     "description": "Ecosystem enablers earn success-fee style incentives for channeling SEBI-registered VC/PE investment into Bengal-based startups.",
+     "eligibility": "Registered incubators, TBIs and investment bankers facilitating investment into Bengal startups",
+     "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/West-Bengal-state-policy.html"
+    },
+    {
+     "name": "Land / Space Allocation in Industrial Estates",
+     "type": "Procurement",
+     "benefit": "20% of available space in industrial estates and SME clusters earmarked for startups",
+     "description": "Reserved workspace/land in state industrial estates and SME clusters for startups during their proof-of-concept stage.",
+     "eligibility": "Registered startups at proof-of-concept stage",
+     "url": ""
+    },
+    {
+     "name": "Incubation Fund & Venture Capital Fund (2026 Budget)",
+     "type": "Other",
+     "benefit": "Rs 40 crore Incubation Fund and Rs 60 crore Venture Capital Fund announced in the 2026 state budget",
+     "description": "New funds announced in the West Bengal 2026 budget to support incubation and equity investment, alongside a new startup policy to be notified.",
+     "eligibility": "To be notified under the forthcoming new startup policy",
+     "url": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "startup-iq",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npm run build && node backend/server.js",
+    "dev:watch": "concurrently -k -n \"dash,work,server\" -c \"cyan.bold,magenta.bold,green.bold\" \"vite build --watch\" \"npm --prefix second/startupi-q-workspace run build -- --watch\" \"nodemon backend/server.js\"",
+    "dev:standalone": "concurrently -k -n \"dashboard,workspace\" -c \"cyan.bold,magenta.bold\" \"vite\" \"npm --prefix second/startupi-q-workspace run dev\"",
+    "start": "node backend/server.js",
+    "server": "node backend/server.js",
+    "build": "npm run build:dashboard && npm run build:workspace",
+    "build:dashboard": "vite build",
+    "build:workspace": "npm --prefix second/startupi-q-workspace run build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "csv-parse": "^7.0.3",
+    "lucide-react": "^1.59.0",
+    "multer": "^2.4.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "concurrently": "^10.0.6",
+    "eslint": "^10.10.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.6",
+    "globals": "^17.12.0",
+    "vite": "^8.3.0"
+  }
+}
