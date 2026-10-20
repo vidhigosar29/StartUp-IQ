@@ -49,3 +49,6 @@ coverage/
 
 # Local files
 *.local
+
+# Project archives
+*.rar
