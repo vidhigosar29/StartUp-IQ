@@ -1317,9 +1317,8 @@ app.use(express.static(rootDistPath, { index: false }));
 // --------------------------------------------------
 
 // 3. Workspace SPA Fallback routing: /workspace and any nested routes
-app.get(/^\/workspace(\/.*)?$/, (_req, res) => {
-  res.sendFile(path.join(workspaceDistPath, "index.html"));
-});
+// Workspace SPA fallback
+app.get(/^\/workspace(?:\/.*)?\/?$/, (req, res) => { res.sendFile(path.join(workspaceDistPath, "index.html")); });
 
 // 4. API 404 handler (runs for unhandled /api/* requests)
 app.use("/api", (req, res) => {
@@ -1403,3 +1402,4 @@ startServer().catch((error) => {
   console.error("StartupIQ startup failed:", error.message);
   process.exit(1);
 });
+
